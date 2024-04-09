@@ -1,6 +1,6 @@
 # Tibetan and Chinese text process
 
-Convert Tibetan text into phonemes, AISHELL3 vits filelist create
+Convert Tibetan text into phonemes, AISHELL3 vits filelist create. tibetan vits cleaner 
 
 ## Instruction
 
