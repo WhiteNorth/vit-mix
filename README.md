@@ -1,4 +1,4 @@
-# Tibetan and Chinese text process
+# VITS Tibetan and Chinese text process
 
 Convert Tibetan text into phonemes, AISHELL3 vits filelist create. tibetan vits cleaner 
 
