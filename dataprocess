@@ -1,0 +1,22 @@
+# AISHELL3 filelist process without speaker rank
+import re
+
+a = open('corpus/AISHELL3/test/content.txt', 'r', encoding='utf-8')  # 打开文件
+a1 = open('corpus/AISHELL3/test/content-list.txt', 'w', encoding='utf-8')
+
+for line in a.readlines():
+    line = line.split('\t')  # 通过split方法把每句话分开
+    line[1] = re.sub('\d', '', line[1])  # 正则表达式去掉数字
+    line[1] = re.sub('[a-zA-Z]', '', line[1])  # 正则表达式去英文
+    line[1] = re.sub('  ', '', line[1])  # 去除多余空隙
+    line[1] = re.sub(' ', '。', line[1])  # 加句号
+    line = '/home1/ztk/AISHELL-3/test/wav/' + line[0][:7] + '/' + line[0] + '|' + line[0][3:7] + '|' + '[ZH]' + line[1]  # 编辑path 去除前面的0：.lstrip("0"):没用是因为要
+    # 编辑说话人
+    line = re.sub('\n', '', line)
+
+    line = line + '[ZH]' + '\n'
+    a1.write(line)
+
+a.close()
+a1.close()
+print('success')
