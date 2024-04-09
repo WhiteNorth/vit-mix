@@ -1,0 +1,5658 @@
+ཀ  ka  aj
+ཀག  ka  aj  ka
+ཀང  ka  aj  ng
+ཀད  ka  elaa
+ཀན  ka  el
+ཀབ  ka  aj  pa
+ཀམ  ka  aj  ma
+ཀར  ka  aw
+ཀས  ka  elaa
+ཀི  ka  ij
+ཀིང  ka  ij  ng
+ཀིན  ka  il
+ཀིམ  ka  ij  ma
+ཀིམས  ka  ij  ma
+ཀིར  ka  iw
+ཀུག  ka  uj  ka
+ཀུང  ka  uj  ng
+ཀུན  ka  yu
+ཀུམ  ka  uj  ma
+ཀུར  ka  uw
+ཀུས  ka  yjaa
+ཀེ  ka  ej
+ཀེག  ka  aj  ka
+ཀེང  ka  ej  ng
+ཀེན  ka  eu
+ཀེམ  ka  ej  ma
+ཀེར  ka  ew
+ཀེལ  ka  ew
+ཀོ  ka  oj
+ཀོག  ka  oj  ka
+ཀོགས  ka  oj  ka
+ཀོང  ka  oj  ng
+ཀོད  ka  fjaa
+ཀོན  ka  fj
+ཀོབ  ka  oj  pa
+ཀོམ  ka  oj  ma
+ཀོར  ka  ow
+ཀོལ  ka  fw
+ཀོས  ka  fjaa
+ཀྭ  ka  aj
+ཀྭའ  ka  aj
+ཀྭན  ka  el
+ཀྭས  ka  elaa
+ཀྱ  ca  aj
+ཀྱག  ca  aj  ka
+ཀྱང  ca  aj  ng
+ཀྱད  ca  elaa
+ཀྱམ  ca  aj  ma
+ཀྱམས  ca  aj  ma
+ཀྱར  ca  aw
+ཀྱལ  ca  er
+ཀྱས  ca  elaa
+ཀྱི  ca  ij
+ཀྱིག  ca  ij  ka
+ཀྱིང  ca  ij  ng
+ཀྱིན  ca  il
+ཀྱིར  ca  iw
+ཀྱིལ  ca  iw
+ཀྱིས  ca  ijaa
+ཀྱུ  ca  uj
+ཀྱུག  ca  uj  ka
+ཀྱུང  ca  uj  ng
+ཀྱུན  ca  yu
+ཀྱུར  ca  uw
+ཀྱུས  ca  yjaa
+ཀྱེ  ca  ej
+ཀྱེད  ca  ejaa
+ཀྱེལ  ca  ew
+ཀྱོ  ca  oj
+ཀྱོག  ca  oj  ka
+ཀྱོང  ca  oj  ng
+ཀྱོན  ca  fj
+ཀྱོམ  ca  oj  ma
+ཀྱོར  ca  ow
+ཀྲག  td  aj  ka
+ཀྲང  td  aj  ng
+ཀྲད  td  elaa
+ཀྲན  td  el
+ཀྲབ  td  aj  pa
+ཀྲམ  td  aj  ma
+ཀྲི  td  ij
+ཀྲིག  td  ij  ka
+ཀྲིང  td  ij  ng
+ཀྲིན  td  il
+ཀྲུ  td  uj
+ཀྲུག  td  uj  ka
+ཀྲུགས  td  uj  ka
+ཀྲུང  td  uj  ng
+ཀྲུངས  td  uj  ng
+ཀྲུབ  td  uj  pa
+ཀྲུམ  td  uj  ma
+ཀྲུམས  td  uj  ma
+ཀྲེ  td  ej
+ཀྲེང  td  ej  ng
+ཀྲེམས  td  ej  ma
+ཀྲེས  td  ejaa
+ཀྲོ  td  oj
+ཀྲོག  td  oj  ka
+ཀྲོང  td  oj  ng
+ཀྲོངས  td  oj  ng
+ཀྲོད  td  fjaa
+ཀྲོན  td  fj
+ཀྲོབ  td  oj  pa
+ཀྲོམ  td  oj  ma
+ཀྲོམས  td  oj  ma
+ཀྲོར  td  ow
+ཀྲོལ  td  fw
+ཀྲོས  td  fjaa
+ཀླག  la  aj  ka
+ཀླགས  la  aj  ka
+ཀླད  la  elaa
+ཀླན  la  el
+ཀླབ  la  aj  pa
+ཀླམ  la  aj  ma
+ཀླལ  la  er
+ཀླས  la  elaa
+ཀླིང  la  ij  ng
+ཀླུ  la  uj
+ཀླུང  la  uj  ng
+ཀླུངས  la  uj  ng
+ཀླུབ  la  uj  pa
+ཀླུབས  la  uj  pa
+ཀླུས  la  yjaa
+ཀློ  la  oj
+ཀློག  la  oj  ka
+ཀློགས  la  oj  ka
+ཀློང  la  oj  ng
+ཀློད  la  fjaa
+ཀློན  la  fj
+ཀློལ  la  fw
+དཀའ  ka  aj
+དཀག  ka  aj  ka
+དཀན  ka  el
+དཀར  ka  aw
+དཀུ  ka  uj
+དཀོ  ka  oj
+དཀོག  ka  oj  ka
+དཀོན  ka  fj
+དཀོར  ka  ow
+དཀོས  ka  fjaa
+དཀྱར  ca  aw
+དཀྱིགས  ca  ij  ka
+དཀྱིར  ca  iw
+དཀྱིལ  ca  iw
+དཀྱུ  ca  uj
+དཀྱུད  ca  yjaa
+དཀྱུས  ca  yjaa
+དཀྱེར  ca  ew
+དཀྱེལ  ca  ew
+དཀྱོག  ca  oj  ka
+དཀྱོགས  ca  oj  ka
+དཀྱོར  ca  ow
+དཀྲབ  td  aj  pa
+དཀྲི  td  ij
+དཀྲིག  td  ij  ka
+དཀྲིགས  td  ij  ka
+དཀྲིལ  td  iw
+དཀྲིས  td  ijaa
+དཀྲུག  td  uj  ka
+དཀྲུགས  td  uj  ka
+དཀྲུང  td  uj  ng
+དཀྲུམ  td  uj  ma
+དཀྲུམས  td  uj  ma
+དཀྲེ  td  ej
+དཀྲོག  td  oj  ka
+དཀྲོགས  td  oj  ka
+དཀྲོང  td  oj  ng
+དཀྲོངས  td  oj  ng
+དཀྲོལ  td  fw
+བཀའ  ka  aj
+བཀག  ka  aj  ka
+བཀང  ka  aj  ng
+བཀད  ka  elaa
+བཀན  ka  el
+བཀབ  ka  aj  pa
+བཀར  ka  aw
+བཀལ  ka  er
+བཀས  ka  elaa
+བཀུ  ka  uj
+བཀུག  ka  uj  ka
+བཀུམ  ka  uj  ma
+བཀུམས  ka  uj  ma
+བཀུར  ka  uw
+བཀུས  ka  yjaa
+བཀོག  ka  oj  ka
+བཀོང  ka  oj  ng
+བཀོད  ka  fjaa
+བཀོན  ka  fj
+བཀོར  ka  ow
+བཀོལ  ka  fw
+བཀྱག  ca  aj  ka
+བཀྱགས  ca  aj  ka
+བཀྱལ  ca  er
+བཀྱི  ca  ij
+བཀྱིག  ca  ij  ka
+བཀྱིགས  ca  ij  ka
+བཀྱིལ  ca  iw
+བཀྱིས  ca  ijaa
+བཀྱེ  ca  ej
+བཀྱེད  ca  ejaa
+བཀྱེས  ca  ejaa
+བཀྱོན  ca  fj
+བཀྲ  td  aj
+བཀྲག  td  aj  ka
+བཀྲགས  td  aj  ka
+བཀྲབ  td  aj  pa
+བཀྲབས  td  aj  pa
+བཀྲམ  td  aj  ma
+བཀྲལ  td  er
+བཀྲས  td  elaa
+བཀྲི  td  ij
+བཀྲིན  td  il
+བཀྲིར  td  iw
+བཀྲིས  td  ijaa
+བཀྲུ  td  uj
+བཀྲུམས  td  uj  ma
+བཀྲུས  td  yjaa
+བཀྲེན  td  eu
+བཀྲེས  td  ejaa
+བཀྲོ  td  oj
+བཀྲོང  td  oj  ng
+བཀྲོངས  td  oj  ng
+བཀྲོབས  td  oj  pa
+བཀྲོལ  td  fw
+བཀྲོས  td  fjaa
+བཀླག  la  aj  ka
+བཀླགས  la  aj  ka
+བཀླུབ  la  uj  pa
+བཀླུབས  la  uj  pa
+རྐ  ka  aj
+རྐང  ka  aj  ng
+རྐན  ka  el
+རྐམ  ka  aj  ma
+རྐུ  ka  uj
+རྐུན  ka  yu
+རྐུབ  ka  uj  pa
+རྐུས  ka  yjaa
+རྐེ  ka  ej
+རྐེད  ka  ejaa
+རྐོ  ka  oj
+རྐོང  ka  oj  ng
+རྐོན  ka  fj
+རྐོམ  ka  oj  ma
+རྐོམས  ka  oj  ma
+རྐོས  ka  fjaa
+རྐྱ  ca  aj
+རྐྱག  ca  aj  ka
+རྐྱང  ca  aj  ng
+རྐྱན  ca  el
+རྐྱལ  ca  er
+རྐྱེན  ca  eu
+རྐྱོང  ca  oj  ng
+རྐྱོངས  ca  oj  ng
+རྐྱོལ  ca  fw
+ལྐག  ka  aj  ka
+ལྐལ  ka  er
+ལྐུ  ka  uj
+ལྐུག  ka  uj  ka
+ལྐུགས  ka  uj  ka
+ལྐོ  ka  oj
+ལྐོག  ka  oj  ka
+ལྐོགས  ka  oj  ka
+སྐག  ka  aj  ka
+སྐང  ka  aj  ng
+སྐད  ka  elaa
+སྐན  ka  el
+སྐབས  ka  aj  pa
+སྐམ  ka  aj  ma
+སྐམས  ka  aj  ma
+སྐར  ka  aw
+སྐལ  ka  er
+སྐས  ka  elaa
+སྐུ  ka  uj
+སྐུག  ka  uj  ka
+སྐུགས  ka  uj  ka
+སྐུང  ka  uj  ng
+སྐུངས  ka  uj  ng
+སྐུད  ka  yjaa
+སྐུན  ka  yu
+སྐུམ  ka  uj  ma
+སྐུམས  ka  uj  ma
+སྐུར  ka  uw
+སྐུལ  ka  yw
+སྐུས  ka  yjaa
+སྐེ  ka  ej
+སྐེག  ka  aj  ka
+སྐེགས  ka  aj  ka
+སྐེད  ka  ejaa
+སྐེམ  ka  ej  ma
+སྐེམས  ka  ej  ma
+སྐེར  ka  ew
+སྐེས  ka  ejaa
+སྐོ  ka  oj
+སྐོགས  ka  oj  ka
+སྐོང  ka  oj  ng
+སྐོངས  ka  oj  ng
+སྐོན  ka  fj
+སྐོབ  ka  oj  pa
+སྐོབས  ka  oj  pa
+སྐོམ  ka  oj  ma
+སྐོམས  ka  oj  ma
+སྐོར  ka  ow
+སྐོལ  ka  fw
+སྐོས  ka  fjaa
+སྐྱ  ca  aj
+སྐྱག  ca  aj  ka
+སྐྱང  ca  aj  ng
+སྐྱངས  ca  aj  ng
+སྐྱབས  ca  aj  pa
+སྐྱར  ca  aw
+སྐྱལ  ca  er
+སྐྱས  ca  elaa
+སྐྱི  ca  ij
+སྐྱིག  ca  ij  ka
+སྐྱིགས  ca  ij  ka
+སྐྱིང  ca  ij  ng
+སྐྱིད  ca  ijaa
+སྐྱིན  ca  il
+སྐྱིབས  ca  ij  pa
+སྐྱིལ  ca  iw
+སྐྱིས  ca  ijaa
+སྐྱུ  ca  uj
+སྐྱུག  ca  uj  ka
+སྐྱུགས  ca  uj  ka
+སྐྱུང  ca  uj  ng
+སྐྱུངས  ca  uj  ng
+སྐྱུད  ca  yjaa
+སྐྱུར  ca  uw
+སྐྱུས  ca  yjaa
+སྐྱེ  ca  ej
+སྐྱེག  ca  aj  ka
+སྐྱེགས  ca  aj  ka
+སྐྱེངས  ca  ej  ng
+སྐྱེད  ca  ejaa
+སྐྱེན  ca  eu
+སྐྱེམས  ca  ej  ma
+སྐྱེར  ca  ew
+སྐྱེལ  ca  ew
+སྐྱེས  ca  ejaa
+སྐྱོ  ca  oj
+སྐྱོག  ca  oj  ka
+སྐྱོགས  ca  oj  ka
+སྐྱོང  ca  oj  ng
+སྐྱོངས  ca  oj  ng
+སྐྱོད  ca  fjaa
+སྐྱོན  ca  fj
+སྐྱོབ  ca  oj  pa
+སྐྱོབས  ca  oj  pa
+སྐྱོམ  ca  oj  ma
+སྐྱོམས  ca  oj  ma
+སྐྱོར  ca  ow
+སྐྱོལ  ca  fw
+སྐྱོས  ca  fjaa
+སྐྲ  td  aj
+སྐྲག  td  aj  ka
+སྐྲགས  td  aj  ka
+སྐྲང  td  aj  ng
+སྐྲངས  td  aj  ng
+སྐྲན  td  el
+སྐྲབ  td  aj  pa
+སྐྲི  td  ij
+སྐྲུ  td  uj
+སྐྲུག  td  uj  ka
+སྐྲུད  td  yjaa
+སྐྲུན  td  yu
+སྐྲུས  td  yjaa
+སྐྲོག  td  oj  ka
+སྐྲོགས  td  oj  ka
+སྐྲོད  td  fjaa
+སྐྲོན  td  fj
+བརྐམ  ka  aj  ma
+བརྐམས  ka  aj  ma
+བརྐུ  ka  uj
+བརྐུན  ka  yu
+བརྐུས  ka  yjaa
+བརྐོ  ka  oj
+བརྐོན  ka  fj
+བརྐོལ  ka  fw
+བརྐོས  ka  fjaa
+བརྐྱང  ca  aj  ng
+བརྐྱངས  ca  aj  ng
+བརྐྱལ  ca  er
+བསྐང  ka  aj  ng
+བསྐངས  ka  aj  ng
+བསྐམ  ka  aj  ma
+བསྐམས  ka  aj  ma
+བསྐལ  ka  er
+བསྐུ  ka  uj
+བསྐུག  ka  uj  ka
+བསྐུགས  ka  uj  ka
+བསྐུང  ka  uj  ng
+བསྐུངས  ka  uj  ng
+བསྐུམ  ka  uj  ma
+བསྐུམས  ka  uj  ma
+བསྐུར  ka  uw
+བསྐུལ  ka  yw
+བསྐུས  ka  yjaa
+བསྐོ  ka  oj
+བསྐོགས  ka  oj  ka
+བསྐོང  ka  oj  ng
+བསྐོངས  ka  oj  ng
+བསྐོན  ka  fj
+བསྐོབ  ka  oj  pa
+བསྐོམས  ka  oj  ma
+བསྐོར  ka  ow
+བསྐོལ  ka  fw
+བསྐོས  ka  fjaa
+བསྐྱ  ca  aj
+བསྐྱང  ca  aj  ng
+བསྐྱངས  ca  aj  ng
+བསྐྱད  ca  elaa
+བསྐྱབ  ca  aj  pa
+བསྐྱབས  ca  aj  pa
+བསྐྱམ  ca  aj  ma
+བསྐྱམས  ca  aj  ma
+བསྐྱར  ca  aw
+བསྐྱལ  ca  er
+བསྐྱས  ca  elaa
+བསྐྱི  ca  ij
+བསྐྱིག  ca  ij  ka
+བསྐྱིགས  ca  ij  ka
+བསྐྱིངས  ca  ij  ng
+བསྐྱིན  ca  il
+བསྐྱིམས  ca  ij  ma
+བསྐྱིལ  ca  iw
+བསྐྱིས  ca  ijaa
+བསྐྱུག  ca  uj  ka
+བསྐྱུགས  ca  uj  ka
+བསྐྱུང  ca  uj  ng
+བསྐྱུངས  ca  uj  ng
+བསྐྱུད  ca  yjaa
+བསྐྱུར  ca  uw
+བསྐྱེང  ca  ej  ng
+བསྐྱེངས  ca  ej  ng
+བསྐྱེད  ca  ejaa
+བསྐྱོག  ca  oj  ka
+བསྐྱོགས  ca  oj  ka
+བསྐྱོད  ca  fjaa
+བསྐྱོན  ca  fj
+བསྐྱོམ  ca  oj  ma
+བསྐྱོམས  ca  oj  ma
+བསྐྱོར  ca  ow
+བསྐྱོས  ca  fjaa
+བསྐྲད  td  elaa
+བསྐྲི  td  ij
+བསྐྲིན  td  il
+བསྐྲིས  td  ijaa
+བསྐྲུ  td  uj
+བསྐྲུན  td  yu
+བསྐྲུས  td  yjaa
+བསྐྲོག  td  oj  ka
+བསྐྲོགས  td  oj  ka
+བསྐྲོང  td  oj  ng
+ཁ  kh  aj
+ཁག  kh  aj  ka
+ཁང  kh  aj  ng
+ཁངས  kh  aj  ng
+ཁད  kh  elaa
+ཁན  kh  el
+ཁབ  kh  aj  pa
+ཁབས  kh  aj  pa
+ཁམ  kh  aj  ma
+ཁམས  kh  aj  ma
+ཁར  kh  aw
+ཁལ  kh  er
+ཁས  kh  elaa
+ཁི  kh  ij
+ཁིངས  kh  ij  ng
+ཁིས  kh  ijaa
+ཁུ  kh  uj
+ཁུག  kh  uj  ka
+ཁུགས  kh  uj  ka
+ཁུང  kh  uj  ng
+ཁུངས  kh  uj  ng
+ཁུད  kh  yjaa
+ཁུན  kh  yu
+ཁུམ  kh  uj  ma
+ཁུམས  kh  uj  ma
+ཁུར  kh  uw
+ཁུལ  kh  yw
+ཁུས  kh  yjaa
+ཁེ  kh  ej
+ཁེག  kh  aj  ka
+ཁེགས  kh  aj  ka
+ཁེང  kh  ej  ng
+ཁེངས  kh  ej  ng
+ཁེད  kh  ejaa
+ཁེན  kh  eu
+ཁེབ  kh  ej  pa
+ཁེབས  kh  ej  pa
+ཁེམ  kh  ej  ma
+ཁེམས  kh  ej  ma
+ཁེལ  kh  ew
+ཁེས  kh  ejaa
+ཁོ  kh  oj
+ཁོག  kh  oj  ka
+ཁོགས  kh  oj  ka
+ཁོང  kh  oj  ng
+ཁོངས  kh  oj  ng
+ཁོད  kh  fjaa
+ཁོན  kh  fj
+ཁོབ  kh  oj  pa
+ཁོབས  kh  oj  pa
+ཁོམ  kh  oj  ma
+ཁོར  kh  ow
+ཁོལ  kh  fw
+ཁོས  kh  fjaa
+ཁྭ  kh  aj
+ཁྭང  kh  aj  ng
+ཁྱག  ch  aj  ka
+ཁྱགས  ch  aj  ka
+ཁྱད  ch  elaa
+ཁྱབ  ch  aj  pa
+ཁྱམ  ch  aj  ma
+ཁྱམས  ch  aj  ma
+ཁྱར  ch  aw
+ཁྱི  ch  ij
+ཁྱིགས  ch  ij  ka
+ཁྱིང  ch  ij  ng
+ཁྱིད  ch  ijaa
+ཁྱིམ  ch  ij  ma
+ཁྱིར  ch  iw
+ཁྱིལ  ch  iw
+ཁྱིས  ch  ijaa
+ཁྱུ  ch  uj
+ཁྱུག  ch  uj  ka
+ཁྱུགས  ch  uj  ka
+ཁྱུང  ch  uj  ng
+ཁྱུད  ch  yjaa
+ཁྱུར  ch  uw
+ཁྱེ  ch  ej
+ཁྱེད  ch  ejaa
+ཁྱེམ  ch  ej  ma
+ཁྱེར  ch  ew
+ཁྱེལ  ch  ew
+ཁྱེས  ch  ejaa
+ཁྱོ  ch  oj
+ཁྱོག  ch  oj  ka
+ཁྱོགས  ch  oj  ka
+ཁྱོང  ch  oj  ng
+ཁྱོངས  ch  oj  ng
+ཁྱོད  ch  fjaa
+ཁྱོན  ch  fj
+ཁྱོབ  ch  oj  pa
+ཁྱོམ  ch  oj  ma
+ཁྱོར  ch  ow
+ཁྱོལ  ch  fw
+ཁྱོས  ch  fjaa
+ཁྲ  tt  aj
+ཁྲག  tt  aj  ka
+ཁྲང  tt  aj  ng
+ཁྲད  tt  elaa
+ཁྲན  tt  el
+ཁྲབ  tt  aj  pa
+ཁྲབས  tt  aj  pa
+ཁྲམ  tt  aj  ma
+ཁྲལ  tt  er
+ཁྲས  tt  elaa
+ཁྲི  tt  ij
+ཁྲིག  tt  ij  ka
+ཁྲིགས  tt  ij  ka
+ཁྲིད  tt  ijaa
+ཁྲིམ  tt  ij  ma
+ཁྲིམས  tt  ij  ma
+ཁྲིལ  tt  iw
+ཁྲིས  tt  ijaa
+ཁྲུ  tt  uj
+ཁྲུག  tt  uj  ka
+ཁྲུང  tt  uj  ng
+ཁྲུད  tt  yjaa
+ཁྲུན  tt  yu
+ཁྲུམ  tt  uj  ma
+ཁྲུམས  tt  uj  ma
+ཁྲུལ  tt  yw
+ཁྲུས  tt  yjaa
+ཁྲེ  tt  ej
+ཁྲེགས  tt  aj  ka
+ཁྲེང  tt  ej  ng
+ཁྲེད  tt  ejaa
+ཁྲེན  tt  eu
+ཁྲེབ  tt  ej  pa
+ཁྲེམ  tt  ej  ma
+ཁྲེམས  tt  ej  ma
+ཁྲེལ  tt  ew
+ཁྲེས  tt  ejaa
+ཁྲོ  tt  oj
+ཁྲོག  tt  oj  ka
+ཁྲོང  tt  oj  ng
+ཁྲོངས  tt  oj  ng
+ཁྲོད  tt  fjaa
+ཁྲོན  tt  fj
+ཁྲོབ  tt  oj  pa
+ཁྲོབས  tt  oj  pa
+ཁྲོམ  tt  oj  ma
+ཁྲོམས  tt  oj  ma
+ཁྲོལ  tt  fw
+ཁྲོས  tt  fjaa
+མཁན  kh  el
+མཁར  kh  aw
+མཁལ  kh  er
+མཁས  kh  elaa
+མཁུ  kh  uj
+མཁུན  kh  yu
+མཁུར  kh  uw
+མཁུས  kh  yjaa
+མཁོ  kh  oj
+མཁོད  kh  fjaa
+མཁོན  kh  fj
+མཁོར  kh  ow
+མཁོས  kh  fjaa
+མཁའ  kh  aj
+མཁྱིད  ch  ijaa
+མཁྱུད  ch  yjaa
+མཁྱེན  ch  eu
+མཁྲགས  tt  aj  ka
+མཁྲང  tt  aj  ng
+མཁྲིག  tt  ij  ka
+མཁྲིགས  tt  ij  ka
+མཁྲིས  tt  ijaa
+མཁྲེགས  tt  aj  ka
+མཁྲེས  tt  ejaa
+འཁང  kh  aj  ng
+འཁངས  kh  aj  ng
+འཁན  kh  el
+འཁམ  kh  aj  ma
+འཁམས  kh  aj  ma
+འཁར  kh  aw
+འཁལ  kh  er
+འཁུ  kh  uj
+འཁུགས  kh  uj  ka
+འཁུད  kh  yjaa
+འཁུན  kh  yu
+འཁུམ  kh  uj  ma
+འཁུམས  kh  uj  ma
+འཁུར  kh  uw
+འཁུལ  kh  yw
+འཁུས  kh  yjaa
+འཁེགས  kh  aj  ka
+འཁེང  kh  ej  ng
+འཁེངས  kh  ej  ng
+འཁེན  kh  eu
+འཁེབ  kh  ej  pa
+འཁེབས  kh  ej  pa
+འཁེར  kh  ew
+འཁེལ  kh  ew
+འཁོག  kh  oj  ka
+འཁོགས  kh  oj  ka
+འཁོང  kh  oj  ng
+འཁོངས  kh  oj  ng
+འཁོད  kh  fjaa
+འཁོན  kh  fj
+འཁོབ  kh  oj  pa
+འཁོབས  kh  oj  pa
+འཁོམ  kh  oj  ma
+འཁོམས  kh  oj  ma
+འཁོར  kh  ow
+འཁོལ  kh  fw
+འཁོས  kh  fjaa
+འཁྱག  ch  aj  ka
+འཁྱགས  ch  aj  ka
+འཁྱབ  ch  aj  pa
+འཁྱམ  ch  aj  ma
+འཁྱམས  ch  aj  ma
+འཁྱར  ch  aw
+འཁྱལ  ch  er
+འཁྱིག  ch  ij  ka
+འཁྱིགས  ch  ij  ka
+འཁྱིད  ch  ijaa
+འཁྱིམ  ch  ij  ma
+འཁྱིམས  ch  ij  ma
+འཁྱིར  ch  iw
+འཁྱིལ  ch  iw
+འཁྱུ  ch  uj
+འཁྱུག  ch  uj  ka
+འཁྱུགས  ch  uj  ka
+འཁྱུད  ch  yjaa
+འཁྱུན  ch  yu
+འཁྱུར  ch  uw
+འཁྱུས  ch  yjaa
+འཁྱེར  ch  ew
+འཁྱོག  ch  oj  ka
+འཁྱོགས  ch  oj  ka
+འཁྱོང  ch  oj  ng
+འཁྱོངས  ch  oj  ng
+འཁྱོམ  ch  oj  ma
+འཁྱོམས  ch  oj  ma
+འཁྱོར  ch  ow
+འཁྱོལ  ch  fw
+འཁྱོས  ch  fjaa
+འཁྲ  tt  aj
+འཁྲང  tt  aj  ng
+འཁྲད  tt  elaa
+འཁྲན  tt  el
+འཁྲབ  tt  aj  pa
+འཁྲབས  tt  aj  pa
+འཁྲལ  tt  er
+འཁྲས  tt  elaa
+འཁྲི  tt  ij
+འཁྲིག  tt  ij  ka
+འཁྲིགས  tt  ij  ka
+འཁྲིད  tt  ijaa
+འཁྲིམས  tt  ij  ma
+འཁྲིལ  tt  iw
+འཁྲིས  tt  ijaa
+འཁྲུ  tt  uj
+འཁྲུག  tt  uj  ka
+འཁྲུགས  tt  uj  ka
+འཁྲུང  tt  uj  ng
+འཁྲུངས  tt  uj  ng
+འཁྲུད  tt  yjaa
+འཁྲུན  tt  yu
+འཁྲུར  tt  uw
+འཁྲུལ  tt  yw
+འཁྲུས  tt  yjaa
+འཁྲེང  tt  ej  ng
+འཁྲེན  tt  eu
+འཁྲེབ  tt  ej  pa
+འཁྲེབས  tt  ej  pa
+འཁྲོ  tt  oj
+འཁྲོག  tt  oj  ka
+འཁྲོགས  tt  oj  ka
+འཁྲོབས  tt  oj  pa
+འཁྲོལ  tt  fw
+འཁྲོས  tt  fjaa
+ག  kh  aj
+གག  kh  aj  ka
+གགས  kh  aj  ka
+གང  kh  aj  ng
+གངས  kh  aj  ng
+གད  kh  elaa
+གན  kh  el
+གབ  kh  aj  pa
+གམ  kh  aj  ma
+གར  kh  aw
+གལ  kh  er
+གས  kh  elaa
+གི  kh  ij
+གིང  kh  ij  ng
+གིན  kh  il
+གིམ  kh  ij  ma
+གིར  kh  iw
+གིས  kh  ijaa
+གུ  kh  uj
+གུག  kh  uj  ka
+གུང  kh  uj  ng
+གུད  kh  yjaa
+གུན  kh  yu
+གུམ  kh  uj  ma
+གུར  kh  uw
+གུལ  kh  yw
+གུས  kh  yjaa
+གེ  kh  ej
+གེག  kh  aj  ka
+གེགས  kh  aj  ka
+གེན  kh  eu
+གེར  kh  ew
+གེལ  kh  ew
+གེས  kh  ejaa
+གོ  kh  oj
+གོག  kh  oj  ka
+གོང  kh  oj  ng
+གོད  kh  fjaa
+གོན  kh  fj
+གོབ  kh  oj  pa
+གོམ  kh  oj  ma
+གོམས  kh  oj  ma
+གོར  kh  ow
+གོལ  kh  fw
+གོས  kh  fjaa
+གྭ  kh  aj
+གྭང  kh  aj  ng
+གྱ  ch  aj
+གྱག  ch  aj  ka
+གྱང  ch  aj  ng
+གྱངས  ch  aj  ng
+གྱད  ch  elaa
+གྱབས  ch  aj  pa
+གྱམ  ch  aj  ma
+གྱར  ch  aw
+གྱལ  ch  er
+གྱི  ch  ij
+གྱིག  ch  ij  ka
+གྱིང  ch  ij  ng
+གྱིན  ch  il
+གྱིམ  ch  ij  ma
+གྱིལ  ch  iw
+གྱིས  ch  ijaa
+གྱུ  ch  uj
+གྱུག  ch  uj  ka
+གྱུང  ch  uj  ng
+གྱུར  ch  uw
+གྱེ  ch  ej
+གྱེང  ch  ej  ng
+གྱེད  ch  ejaa
+གྱེན  ch  eu
+གྱེར  ch  ew
+གྱེས  ch  ejaa
+གྱོ  ch  oj
+གྱོག  ch  oj  ka
+གྱོགས  ch  oj  ka
+གྱོང  ch  oj  ng
+གྱོད  ch  fjaa
+གྱོན  ch  fj
+གྱོལ  ch  fw
+གྱོས  ch  fjaa
+གྲ  tt  aj
+གྲག  tt  aj  ka
+གྲགས  tt  aj  ka
+གྲང  tt  aj  ng
+གྲངས  tt  aj  ng
+གྲབ  tt  aj  pa
+གྲབས  tt  aj  pa
+གྲམ  tt  aj  ma
+གྲམས  tt  aj  ma
+གྲལ  tt  er
+གྲས  tt  elaa
+གྲི  tt  ij
+གྲིན  tt  il
+གྲིབ  tt  ij  pa
+གྲིམ  tt  ij  ma
+གྲིམས  tt  ij  ma
+གྲིར  tt  iw
+གྲིལ  tt  iw
+གྲིས  tt  ijaa
+གྲུ  tt  uj
+གྲུག  tt  uj  ka
+གྲུགས  tt  uj  ka
+གྲུང  tt  uj  ng
+གྲུངས  tt  uj  ng
+གྲུན  tt  yu
+གྲུབ  tt  uj  pa
+གྲུབས  tt  uj  pa
+གྲུམ  tt  uj  ma
+གྲུམས  tt  uj  ma
+གྲུར  tt  uw
+གྲུལ  tt  yw
+གྲུས  tt  yjaa
+གྲེ  tt  ej
+གྲེམས  tt  ej  ma
+གྲེས  tt  ejaa
+གྲོ  tt  oj
+གྲོག  tt  oj  ka
+གྲོགས  tt  oj  ka
+གྲོང  tt  oj  ng
+གྲོངས  tt  oj  ng
+གྲོད  tt  fjaa
+གྲོན  tt  fj
+གྲོལ  tt  fw
+གྲོས  tt  fjaa
+གྲྭ  tt  aj
+གྲྭར  tt  aw
+གླ  la  aj
+གླག  la  aj  ka
+གླགས  la  aj  ka
+གླང  la  aj  ng
+གླན  la  el
+གླམ  la  aj  ma
+གླལ  la  er
+གླས  la  elaa
+གླིང  la  ij  ng
+གླིངས  la  ij  ng
+གླུ  la  uj
+གླུད  la  yjaa
+གླུམ  la  uj  ma
+གླུར  la  uw
+གླེ  la  ej
+གླེག  la  aj  ka
+གླེགས  la  aj  ka
+གླེང  la  ej  ng
+གླེངས  la  ej  ng
+གླེན  la  eu
+གླེབ  la  ej  pa
+གླེབས  la  ej  pa
+གླེམ  la  ej  ma
+གློ  la  oj
+གློག  la  oj  ka
+གློང  la  oj  ng
+གློངས  la  oj  ng
+གློད  la  fjaa
+གློན  la  fj
+གློར  la  ow
+གློས  la  fjaa
+དགའ  ka  aj
+དགག  ka  aj  ka
+དགང  ka  aj  ng
+དགད  ka  elaa
+དགན  ka  el
+དགབ  ka  aj  pa
+དགར  ka  aw
+དགལ  ka  er
+དགས  ka  elaa
+དགུ  ka  uj
+དགུག  ka  uj  ka
+དགུགས  ka  uj  ka
+དགུང  ka  uj  ng
+དགུན  ka  yu
+དགུམ  ka  uj  ma
+དགུར  ka  uw
+དགུས  ka  yjaa
+དགེ  ka  ej
+དགེར  ka  ew
+དགེལ  ka  ew
+དགེས  ka  ejaa
+དགོ  ka  oj
+དགོག  ka  oj  ka
+དགོང  ka  oj  ng
+དགོངས  ka  oj  ng
+དགོད  ka  fjaa
+དགོན  ka  fj
+དགོལ  ka  fw
+དགོས  ka  fjaa
+དགྱེ  ca  ej
+དགྱེད  ca  ejaa
+དགྱེར  ca  ew
+དགྱེལ  ca  ew
+དགྱེས  ca  ejaa
+དགྲ  td  aj
+དགྲད  td  elaa
+དགྲམ  td  aj  ma
+དགྲར  td  aw
+དགྲོང  td  oj  ng
+དགྲོངས  td  oj  ng
+དགྲོལ  td  fw
+བགག  ka  aj  ka
+བགགས  ka  aj  ka
+བགད  ka  elaa
+བགམ  ka  aj  ma
+བགམས  ka  aj  ma
+བགེགས  ka  aj  ka
+བགེས  ka  ejaa
+བགོ  ka  oj
+བགོག  ka  oj  ka
+བགོགས  ka  oj  ka
+བགོད  ka  fjaa
+བགོམ  ka  oj  ma
+བགོམས  ka  oj  ma
+བགོར  ka  ow
+བགོས  ka  fjaa
+བགྱང  ca  aj  ng
+བགྱངས  ca  aj  ng
+བགྱི  ca  ij
+བགྱིད  ca  ijaa
+བགྱིས  ca  ijaa
+བགྱུད  ca  yjaa
+བགྱེད  ca  ejaa
+བགྱོངས  ca  oj  ng
+བགྲང  td  aj  ng
+བགྲངས  td  aj  ng
+བགྲད  td  elaa
+བགྲིལ  td  iw
+བགྲུ  td  uj
+བགྲུང  td  uj  ng
+བགྲུངས  td  uj  ng
+བགྲུད  td  yjaa
+བགྲུས  td  yjaa
+བགྲེ  td  ej
+བགྲེས  td  ejaa
+བགྲོ  td  oj
+བགྲོངས  td  oj  ng
+བགྲོད  td  fjaa
+བགྲོས  td  fjaa
+མགར  ka  aw
+མགལ  ka  er
+མགུ  ka  uj
+མགུར  ka  uw
+མགུལ  ka  yw
+མགོ  ka  oj
+མགོན  ka  fj
+མགོར  ka  ow
+མགོས  ka  fjaa
+མགྱོགས  ca  oj  ka
+མགྲིན  td  il
+མགྲོན  td  fj
+འགའ  ka  aj
+འགག  ka  aj  ka
+འགགས  ka  aj  ka
+འགང  ka  aj  ng
+འགངས  ka  aj  ng
+འགད  ka  elaa
+འགན  ka  el
+འགབ  ka  aj  pa
+འགམ  ka  aj  ma
+འགམས  ka  aj  ma
+འགར  ka  aw
+འགལ  ka  er
+འགས  ka  elaa
+འགི  ka  ij
+འགིང  ka  ij  ng
+འགུ  ka  uj
+འགུག  ka  uj  ka
+འགུགས  ka  uj  ka
+འགུད  ka  yjaa
+འགུམ  ka  uj  ma
+འགུམས  ka  uj  ma
+འགུར  ka  uw
+འགུལ  ka  yw
+འགེ  ka  ej
+འགེགས  ka  aj  ka
+འགེང  ka  ej  ng
+འགེངས  ka  ej  ng
+འགེད  ka  ejaa
+འགེབས  ka  ej  pa
+འགེམ  ka  ej  ma
+འགེམས  ka  ej  ma
+འགེར  ka  ew
+འགེལ  ka  ew
+འགེས  ka  ejaa
+འགོ  ka  oj
+འགོག  ka  oj  ka
+འགོགས  ka  oj  ka
+འགོང  ka  oj  ng
+འགོངས  ka  oj  ng
+འགོད  ka  fjaa
+འགོན  ka  fj
+འགོམ  ka  oj  ma
+འགོམས  ka  oj  ma
+འགོར  ka  ow
+འགོལ  ka  fw
+འགོས  ka  fjaa
+འགྱག  ca  aj  ka
+འགྱང  ca  aj  ng
+འགྱངས  ca  aj  ng
+འགྱམ  ca  aj  ma
+འགྱར  ca  aw
+འགྱིག  ca  ij  ka
+འགྱིང  ca  ij  ng
+འགྱིངས  ca  ij  ng
+འགྱུ  ca  uj
+འགྱུར  ca  uw
+འགྱུས  ca  yjaa
+འགྱེ  ca  ej
+འགྱེག  ca  aj  ka
+འགྱེད  ca  ejaa
+འགྱེར  ca  ew
+འགྱེལ  ca  ew
+འགྱེས  ca  ejaa
+འགྱོག  ca  oj  ka
+འགྱོགས  ca  oj  ka
+འགྱོང  ca  oj  ng
+འགྱོངས  ca  oj  ng
+འགྱོད  ca  fjaa
+འགྱོམ  ca  oj  ma
+འགྲགས  td  aj  ka
+འགྲང  td  aj  ng
+འགྲངས  td  aj  ng
+འགྲད  td  elaa
+འགྲན  td  el
+འགྲམ  td  aj  ma
+འགྲམས  td  aj  ma
+འགྲས  td  elaa
+འགྲིག  td  ij  ka
+འགྲིགས  td  ij  ka
+འགྲིན  td  il
+འགྲིབ  td  ij  pa
+འགྲིབས  td  ij  pa
+འགྲིམ  td  ij  ma
+འགྲིམས  td  ij  ma
+འགྲིལ  td  iw
+འགྲིས  td  ijaa
+འགྲུ  td  uj
+འགྲུད  td  yjaa
+འགྲུབ  td  uj  pa
+འགྲུལ  td  yw
+འགྲུས  td  yjaa
+འགྲེ  td  ej
+འགྲེང  td  ej  ng
+འགྲེངས  td  ej  ng
+འགྲེད  td  ejaa
+འགྲེམ  td  ej  ma
+འགྲེམས  td  ej  ma
+འགྲེལ  td  ew
+འགྲེས  td  ejaa
+འགྲོ  td  oj
+འགྲོའ  td  oj
+འགྲོག  td  oj  ka
+འགྲོགས  td  oj  ka
+འགྲོང  td  oj  ng
+འགྲོངས  td  oj  ng
+འགྲོན  td  fj
+འགྲོར  td  ow
+འགྲོལ  td  fw
+འགྲོས  td  fjaa
+རྒ  ka  aj
+རྒག  ka  aj  ka
+རྒང  ka  aj  ng
+རྒད  ka  elaa
+རྒན  ka  el
+རྒལ  ka  er
+རྒས  ka  elaa
+རྒུ  ka  uj
+རྒུད  ka  yjaa
+རྒུན  ka  yu
+རྒུམ  ka  uj  ma
+རྒུར  ka  uw
+རྒོ  ka  oj
+རྒོངས  ka  oj  ng
+རྒོད  ka  fjaa
+རྒོན  ka  fj
+རྒོབ  ka  oj  pa
+རྒོལ  ka  fw
+རྒྱ  ca  aj
+རྒྱག  ca  aj  ka
+རྒྱགས  ca  aj  ka
+རྒྱང  ca  aj  ng
+རྒྱངས  ca  aj  ng
+རྒྱད  ca  elaa
+རྒྱན  ca  el
+རྒྱབ  ca  aj  pa
+རྒྱམ  ca  aj  ma
+རྒྱལ  ca  er
+རྒྱས  ca  elaa
+རྒྱུ  ca  uj
+རྒྱུག  ca  uj  ka
+རྒྱུགས  ca  uj  ka
+རྒྱུང  ca  uj  ng
+རྒྱུངས  ca  uj  ng
+རྒྱུད  ca  yjaa
+རྒྱུན  ca  yu
+རྒྱུར  ca  uw
+རྒྱུས  ca  yjaa
+རྒྱེ  ca  ej
+རྒྱོ  ca  oj
+རྒྱོགས  ca  oj  ka
+རྒྱོང  ca  oj  ng
+རྒྱོངས  ca  oj  ng
+རྒྱོད  ca  fjaa
+རྒྱོབ  ca  oj  pa
+རྒྱོབས  ca  oj  pa
+རྒྱོལ  ca  fw
+རྒྱོས  ca  fjaa
+ལྒ  ka  aj
+ལྒང  ka  aj  ng
+ལྒུ  ka  uj
+ལྒོ  ka  oj
+སྒ  ka  aj
+སྒག  ka  aj  ka
+སྒང  ka  aj  ng
+སྒབ  ka  aj  pa
+སྒམ  ka  aj  ma
+སྒར  ka  aw
+སྒལ  ka  er
+སྒས  ka  elaa
+སྒིག  ka  ij  ka
+སྒུ  ka  uj
+སྒུག  ka  uj  ka
+སྒུགས  ka  uj  ka
+སྒུད  ka  yjaa
+སྒུབ  ka  uj  pa
+སྒུམ  ka  uj  ma
+སྒུར  ka  uw
+སྒུལ  ka  yw
+སྒེ  ka  ej
+སྒེག  ka  aj  ka
+སྒེར  ka  ew
+སྒོ  ka  oj
+སྒོག  ka  oj  ka
+སྒོགས  ka  oj  ka
+སྒོང  ka  oj  ng
+སྒོངས  ka  oj  ng
+སྒོད  ka  fjaa
+སྒོབ  ka  oj  pa
+སྒོམ  ka  oj  ma
+སྒོམས  ka  oj  ma
+སྒོར  ka  ow
+སྒོས  ka  fjaa
+སྒྱང  ca  aj  ng
+སྒྱིག  ca  ij  ka
+སྒྱིང  ca  ij  ng
+སྒྱིངས  ca  ij  ng
+སྒྱིད  ca  ijaa
+སྒྱུ  ca  uj
+སྒྱུག  ca  uj  ka
+སྒྱུངས  ca  uj  ng
+སྒྱུར  ca  uw
+སྒྱུས  ca  yjaa
+སྒྱེ  ca  ej
+སྒྱེད  ca  ejaa
+སྒྱེལ  ca  ew
+སྒྱོ  ca  oj
+སྒྱོག  ca  oj  ka
+སྒྱོགས  ca  oj  ka
+སྒྱོང  ca  oj  ng
+སྒྱོངས  ca  oj  ng
+སྒྲ  td  aj
+སྒྲག  td  aj  ka
+སྒྲང  td  aj  ng
+སྒྲངས  td  aj  ng
+སྒྲན  td  el
+སྒྲབ  td  aj  pa
+སྒྲར  td  aw
+སྒྲས  td  elaa
+སྒྲིག  td  ij  ka
+སྒྲིགས  td  ij  ka
+སྒྲིན  td  il
+སྒྲིབ  td  ij  pa
+སྒྲིབས  td  ij  pa
+སྒྲིམ  td  ij  ma
+སྒྲིམས  td  ij  ma
+སྒྲིལ  td  iw
+སྒྲུ  td  uj
+སྒྲུག  td  uj  ka
+སྒྲུགས  td  uj  ka
+སྒྲུང  td  uj  ng
+སྒྲུངས  td  uj  ng
+སྒྲུན  td  yu
+སྒྲུབ  td  uj  pa
+སྒྲུབས  td  uj  pa
+སྒྲེ  td  ej
+སྒྲེག  td  aj  ka
+སྒྲེགས  td  aj  ka
+སྒྲེང  td  ej  ng
+སྒྲེངས  td  ej  ng
+སྒྲེན  td  eu
+སྒྲེས  td  ejaa
+སྒྲོ  td  oj
+སྒྲོག  td  oj  ka
+སྒྲོགས  td  oj  ka
+སྒྲོང  td  oj  ng
+སྒྲོངས  td  oj  ng
+སྒྲོད  td  fjaa
+སྒྲོན  td  fj
+སྒྲོབ  td  oj  pa
+སྒྲོམ  td  oj  ma
+སྒྲོལ  td  fw
+སྒྲོས  td  fjaa
+བརྒགས  ka  aj  ka
+བརྒད  ka  elaa
+བརྒན  ka  el
+བརྒལ  ka  er
+བརྒྱ  ca  aj
+བརྒྱག  ca  aj  ka
+བརྒྱགས  ca  aj  ka
+བརྒྱང  ca  aj  ng
+བརྒྱངས  ca  aj  ng
+བརྒྱད  ca  elaa
+བརྒྱན  ca  el
+བརྒྱབ  ca  aj  pa
+བརྒྱབས  ca  aj  pa
+བརྒྱར  ca  aw
+བརྒྱལ  ca  er
+བརྒྱས  ca  elaa
+བརྒྱུ  ca  uj
+བརྒྱུག  ca  uj  ka
+བརྒྱུགས  ca  uj  ka
+བརྒྱུང  ca  uj  ng
+བརྒྱུངས  ca  uj  ng
+བརྒྱུད  ca  yjaa
+བརྒྱུར  ca  uw
+བརྒྱུས  ca  yjaa
+བརྒྱོ  ca  oj
+བརྒྱོས  ca  fjaa
+བསྒག  ka  aj  ka
+བསྒགས  ka  aj  ka
+བསྒང  ka  aj  ng
+བསྒངས  ka  aj  ng
+བསྒབ  ka  aj  pa
+བསྒབས  ka  aj  pa
+བསྒར  ka  aw
+བསྒུག  ka  uj  ka
+བསྒུགས  ka  uj  ka
+བསྒུར  ka  uw
+བསྒུལ  ka  yw
+བསྒོ  ka  oj
+བསྒོང  ka  oj  ng
+བསྒོངས  ka  oj  ng
+བསྒོམ  ka  oj  ma
+བསྒོམས  ka  oj  ma
+བསྒོས  ka  fjaa
+བསྒྱང  ca  aj  ng
+བསྒྱངས  ca  aj  ng
+བསྒྱིང  ca  ij  ng
+བསྒྱིངས  ca  ij  ng
+བསྒྱུབ  ca  uj  pa
+བསྒྱུར  ca  uw
+བསྒྱེལ  ca  ew
+བསྒྲག  td  aj  ka
+བསྒྲགས  td  aj  ka
+བསྒྲང  td  aj  ng
+བསྒྲངས  td  aj  ng
+བསྒྲད  td  elaa
+བསྒྲལ  td  er
+བསྒྲི  td  ij
+བསྒྲིག  td  ij  ka
+བསྒྲིགས  td  ij  ka
+བསྒྲིན  td  il
+བསྒྲིབ  td  ij  pa
+བསྒྲིབས  td  ij  pa
+བསྒྲིམ  td  ij  ma
+བསྒྲིམས  td  ij  ma
+བསྒྲིལ  td  iw
+བསྒྲུག  td  uj  ka
+བསྒྲུགས  td  uj  ka
+བསྒྲུང  td  uj  ng
+བསྒྲུངས  td  uj  ng
+བསྒྲུན  td  yu
+བསྒྲུབ  td  uj  pa
+བསྒྲུབས  td  uj  pa
+བསྒྲེ  td  ej
+བསྒྲེང  td  ej  ng
+བསྒྲེངས  td  ej  ng
+བསྒྲེན  td  eu
+བསྒྲེས  td  ejaa
+བསྒྲོ  td  oj
+བསྒྲོག  td  oj  ka
+བསྒྲོགས  td  oj  ka
+བསྒྲོད  td  fjaa
+བསྒྲོན  td  fj
+བསྒྲོས  td  fjaa
+ང  ng  aj
+ངག  ng  aj  ka
+ངང  ng  aj  ng
+ངད  ng  elaa
+ངན  ng  el
+ངབ  ng  aj  pa
+ངམ  ng  aj  ma
+ངར  ng  aw
+ངལ  ng  er
+ངས  ng  elaa
+ངི  ng  ij
+ངིར  ng  iw
+ངུ  ng  uj
+ངུད  ng  yjaa
+ངུར  ng  uw
+ངུས  ng  yjaa
+ངེ  ng  ej
+ངེད  ng  ejaa
+ངེར  ng  ew
+ངེས  ng  ejaa
+ངོ  ng  oj
+ངོག  ng  oj  ka
+ངོགས  ng  oj  ka
+ངོན  ng  fj
+ངོམ  ng  oj  ma
+ངོམས  ng  oj  ma
+ངོར  ng  ow
+ངོས  ng  fjaa
+དངགས  ng  aj  ka
+དངང  ng  aj  ng
+དངངས  ng  aj  ng
+དངན  ng  el
+དངར  ng  aw
+དངལ  ng  er
+དངུད  ng  yjaa
+དངུལ  ng  yw
+དངོ  ng  oj
+དངོམ  ng  oj  ma
+དངོམས  ng  oj  ma
+དངོས  ng  fjaa
+མངའ  ng  aj
+མངག  ng  aj  ka
+མངགས  ng  aj  ka
+མངན  ng  el
+མངར  ng  aw
+མངལ  ng  er
+མངས  ng  elaa
+མངུན  ng  yu
+མངོགས  ng  oj  ka
+མངོན  ng  fj
+རྔ  ng  aj
+རྔད  ng  elaa
+རྔན  ng  el
+རྔབ  ng  aj  pa
+རྔབས  ng  aj  pa
+རྔམ  ng  aj  ma
+རྔམས  ng  aj  ma
+རྔུ  ng  uj
+རྔུབ  ng  uj  pa
+རྔུབས  ng  uj  pa
+རྔུམ  ng  uj  ma
+རྔུར  ng  uw
+རྔུལ  ng  yw
+རྔེ  ng  ej
+རྔེགས  ng  aj  ka
+རྔེད  ng  ejaa
+རྔེན  ng  eu
+རྔོ  ng  oj
+རྔོག  ng  oj  ka
+རྔོགས  ng  oj  ka
+རྔོད  ng  fjaa
+རྔོན  ng  fj
+རྔོམ  ng  oj  ma
+རྔོམས  ng  oj  ma
+རྔོས  ng  fjaa
+ལྔ  ng  aj
+ལྔས  ng  elaa
+སྔ  ng  aj
+སྔག  ng  aj  ka
+སྔགས  ng  aj  ka
+སྔངས  ng  aj  ng
+སྔན  ng  el
+སྔབ  ng  aj  pa
+སྔབས  ng  aj  pa
+སྔམ  ng  aj  ma
+སྔར  ng  aw
+སྔས  ng  elaa
+སྔྀ  ng  uj
+སྔྀན  ng  yu
+སྔྀར  ng  uw
+སྔོ  ng  oj
+སྔོག  ng  oj  ka
+སྔོགས  ng  oj  ka
+སྔོངས  ng  oj  ng
+སྔོན  ng  fj
+སྔོམ  ng  oj  ma
+སྔོར  ng  ow
+སྔོས  ng  fjaa
+བརྔ  ng  aj
+བརྔད  ng  elaa
+བརྔན  ng  el
+བརྔབ  ng  aj  pa
+བརྔབས  ng  aj  pa
+བརྔམ  ng  aj  ma
+བརྔམས  ng  aj  ma
+བརྔས  ng  elaa
+བརྔུབ  ng  uj  pa
+བརྔུབས  ng  uj  pa
+བརྔོ  ng  oj
+བརྔོད  ng  fjaa
+བརྔོན  ng  fj
+བརྔོས  ng  fjaa
+བསྔག  ng  aj  ka
+བསྔགས  ng  aj  ka
+བསྔང  ng  aj  ng
+བསྔངས  ng  aj  ng
+བསྔལ  ng  er
+བསྔས  ng  elaa
+བསྔོ  ng  oj
+བསྔོག  ng  oj  ka
+བསྔོགས  ng  oj  ka
+བསྔོས  ng  fjaa
+ཅ  tj  aj
+ཅག  tj  aj  ka
+ཅང  tj  aj  ng
+ཅངས  tj  aj  ng
+ཅད  tj  elaa
+ཅན  tj  el
+ཅབ  tj  aj  pa
+ཅམ  tj  aj  ma
+ཅར  tj  aw
+ཅལ  tj  er
+ཅས  tj  elaa
+ཅི  tj  ij
+ཅིག  tj  ij  ka
+ཅིང  tj  ij  ng
+ཅིན  tj  il
+ཅིམ  tj  ij  ma
+ཅིར  tj  iw
+ཅིལ  tj  iw
+ཅིས  tj  ijaa
+ཅུ  tj  uj
+ཅུག  tj  uj  ka
+ཅུང  tj  uj  ng
+ཅུད  tj  yjaa
+ཅུན  tj  yu
+ཅུར  tj  uw
+ཅུས  tj  yjaa
+ཅེ  tj  ej
+ཅེན  tj  eu
+ཅེམ  tj  ej  ma
+ཅེར  tj  ew
+ཅེས  tj  ejaa
+ཅོ  tj  oj
+ཅོག  tj  oj  ka
+ཅོང  tj  oj  ng
+ཅོད  tj  fjaa
+ཅོན  tj  fj
+ཅོབ  tj  oj  pa
+ཅོམ  tj  oj  ma
+ཅོལ  tj  fw
+ཅོས  tj  fjaa
+གཅག  tj  aj  ka
+གཅགས  tj  aj  ka
+གཅང  tj  aj  ng
+གཅད  tj  elaa
+གཅན  tj  el
+གཅམ  tj  aj  ma
+གཅར  tj  aw
+གཅལ  tj  er
+གཅི  tj  ij
+གཅིག  tj  ij  ka
+གཅིགས  tj  ij  ka
+གཅིན  tj  il
+གཅིར  tj  iw
+གཅིལ  tj  iw
+གཅིས  tj  ijaa
+གཅུ  tj  uj
+གཅུག  tj  uj  ka
+གཅུགས  tj  uj  ka
+གཅུང  tj  uj  ng
+གཅུད  tj  yjaa
+གཅུན  tj  yu
+གཅུམ  tj  uj  ma
+གཅུར  tj  uw
+གཅུས  tj  yjaa
+གཅེ  tj  ej
+གཅེན  tj  eu
+གཅེམ  tj  ej  ma
+གཅེར  tj  ew
+གཅེས  tj  ejaa
+གཅོ  tj  oj
+གཅོག  tj  oj  ka
+གཅོང  tj  oj  ng
+གཅོད  tj  fjaa
+གཅོམ  tj  oj  ma
+གཅོར  tj  ow
+གཅོལ  tj  fw
+གཅོས  tj  fjaa
+བཅའ  tj  aj
+བཅག  tj  aj  ka
+བཅགས  tj  aj  ka
+བཅང  tj  aj  ng
+བཅངས  tj  aj  ng
+བཅད  tj  elaa
+བཅབ  tj  aj  pa
+བཅབས  tj  aj  pa
+བཅམ  tj  aj  ma
+བཅམས  tj  aj  ma
+བཅར  tj  aw
+བཅལ  tj  er
+བཅས  tj  elaa
+བཅིགས  tj  ij  ka
+བཅིང  tj  ij  ng
+བཅིངས  tj  ij  ng
+བཅིབ  tj  ij  pa
+བཅིབས  tj  ij  pa
+བཅིར  tj  iw
+བཅིལ  tj  iw
+བཅུ  tj  uj
+བཅུག  tj  uj  ka
+བཅུགས  tj  uj  ka
+བཅུད  tj  yjaa
+བཅུན  tj  yu
+བཅུམ  tj  uj  ma
+བཅུམས  tj  uj  ma
+བཅུར  tj  uw
+བཅུས  tj  yjaa
+བཅེམ  tj  ej  ma
+བཅེམས  tj  ej  ma
+བཅེར  tj  ew
+བཅོ  tj  oj
+བཅོག  tj  oj  ka
+བཅོད  tj  fjaa
+བཅོམ  tj  oj  ma
+བཅོམས  tj  oj  ma
+བཅོལ  tj  fw
+བཅོས  tj  fjaa
+ལྕ  tj  aj
+ལྕག  tj  aj  ka
+ལྕགས  tj  aj  ka
+ལྕང  tj  aj  ng
+ལྕམ  tj  aj  ma
+ལྕི  tj  ij
+ལྕིག  tj  ij  ka
+ལྕིགས  tj  ij  ka
+ལྕིད  tj  ijaa
+ལྕིབ  tj  ij  pa
+ལྕིབས  tj  ij  pa
+ལྕུ  tj  uj
+ལྕུག  tj  uj  ka
+ལྕུགས  tj  uj  ka
+ལྕུང  tj  uj  ng
+ལྕུན  tj  yu
+ལྕུམ  tj  uj  ma
+ལྕེ  tj  ej
+ལྕེབ  tj  ej  pa
+ལྕེབས  tj  ej  pa
+ལྕེར  tj  ew
+ལྕེས  tj  ejaa
+ལྕོ  tj  oj
+ལྕོག  tj  oj  ka
+ལྕོགས  tj  oj  ka
+ལྕོང  tj  oj  ng
+ལྕོངས  tj  oj  ng
+ཆ  tq  aj
+ཆག  tq  aj  ka
+ཆགས  tq  aj  ka
+ཆང  tq  aj  ng
+ཆངས  tq  aj  ng
+ཆད  tq  elaa
+ཆན  tq  el
+ཆབ  tq  aj  pa
+ཆབས  tq  aj  pa
+ཆམ  tq  aj  ma
+ཆམས  tq  aj  ma
+ཆར  tq  aw
+ཆལ  tq  er
+ཆས  tq  elaa
+ཆི  tq  ij
+ཆིག  tq  ij  ka
+ཆིང  tq  ij  ng
+ཆིངས  tq  ij  ng
+ཆིན  tq  il
+ཆིབ  tq  ij  pa
+ཆིབས  tq  ij  pa
+ཆིམ  tq  ij  ma
+ཆིར  tq  iw
+ཆིལ  tq  iw
+ཆིས  tq  ijaa
+ཆུ  tq  uj
+ཆུག  tq  uj  ka
+ཆུགས  tq  uj  ka
+ཆུང  tq  uj  ng
+ཆུངས  tq  uj  ng
+ཆུད  tq  yjaa
+ཆུན  tq  yu
+ཆུབ  tq  uj  pa
+ཆུམ  tq  uj  ma
+ཆུམས  tq  uj  ma
+ཆུར  tq  uw
+ཆུས  tq  yjaa
+ཆེ  tq  ej
+ཆེད  tq  ejaa
+ཆེན  tq  eu
+ཆེམ  tq  ej  ma
+ཆེམས  tq  ej  ma
+ཆེར  tq  ew
+ཆེས  tq  ejaa
+ཆོ  tq  oj
+ཆོག  tq  oj  ka
+ཆོགས  tq  oj  ka
+ཆོང  tq  oj  ng
+ཆོངས  tq  oj  ng
+ཆོད  tq  fjaa
+ཆོན  tq  fj
+ཆོབ  tq  oj  pa
+ཆོབས  tq  oj  pa
+ཆོམ  tq  oj  ma
+ཆོམས  tq  oj  ma
+ཆོར  tq  ow
+ཆོལ  tq  fw
+ཆོས  tq  fjaa
+མཆའ  tq  aj
+མཆད  tq  elaa
+མཆན  tq  el
+མཆི  tq  ij
+མཆིག  tq  ij  ka
+མཆིང  tq  ij  ng
+མཆིད  tq  ijaa
+མཆིན  tq  il
+མཆིམས  tq  ij  ma
+མཆིལ  tq  iw
+མཆིས  tq  ijaa
+མཆུ  tq  uj
+མཆུས  tq  yjaa
+མཆེ  tq  ej
+མཆེད  tq  ejaa
+མཆེན  tq  eu
+མཆེར  tq  ew
+མཆེལ  tq  ew
+མཆེས  tq  ejaa
+མཆོག  tq  oj  ka
+མཆོགས  tq  oj  ka
+མཆོང  tq  oj  ng
+མཆོངས  tq  oj  ng
+མཆོད  tq  fjaa
+མཆོར  tq  ow
+འཆའ  tq  aj
+འཆག  tq  aj  ka
+འཆགས  tq  aj  ka
+འཆང  tq  aj  ng
+འཆངས  tq  aj  ng
+འཆད  tq  elaa
+འཆབ  tq  aj  pa
+འཆམ  tq  aj  ma
+འཆམས  tq  aj  ma
+འཆར  tq  aw
+འཆལ  tq  er
+འཆས  tq  elaa
+འཆི  tq  ij
+འཆིང  tq  ij  ng
+འཆིངས  tq  ij  ng
+འཆིབ  tq  ij  pa
+འཆིམས  tq  ij  ma
+འཆིར  tq  iw
+འཆུ  tq  uj
+འཆུག  tq  uj  ka
+འཆུགས  tq  uj  ka
+འཆུན  tq  yu
+འཆུམ  tq  uj  ma
+འཆུམས  tq  uj  ma
+འཆུར  tq  uw
+འཆུས  tq  yjaa
+འཆེ  tq  ej
+འཆེག  tq  aj  ka
+འཆེམ  tq  ej  ma
+འཆེལ  tq  ew
+འཆེས  tq  ejaa
+འཆོ  tq  oj
+འཆོགས  tq  oj  ka
+འཆོབས  tq  oj  pa
+འཆོམ  tq  oj  ma
+འཆོམས  tq  oj  ma
+འཆོར  tq  ow
+འཆོལ  tq  fw
+འཆོས  tq  fjaa
+ཇ  tq  aj
+ཇག  tq  aj  ka
+ཇགས  tq  aj  ka
+ཇང  tq  aj  ng
+ཇབ  tq  aj  pa
+ཇམ  tq  aj  ma
+ཇི  tq  ij
+ཇིག  tq  ij  ka
+ཇིང  tq  ij  ng
+ཇིན  tq  il
+ཇིབས  tq  ij  pa
+ཇིས  tq  ijaa
+ཇུ  tq  uj
+ཇུན  tq  yu
+ཇུས  tq  yjaa
+ཇེ  tq  ej
+ཇེང  tq  ej  ng
+ཇེམ  tq  ej  ma
+ཇོ  tq  oj
+ཇོབ  tq  oj  pa
+མཇའ  tj  aj
+མཇལ  tj  er
+མཇིང  tj  ij  ng
+མཇུག  tj  uj  ka
+མཇུད  tj  yjaa
+མཇེ  tj  ej
+མཇེད  tj  ejaa
+མཇེས  tj  ejaa
+མཇོར  tj  ow
+མཇོལ  tj  fw
+འཇའ  tj  aj
+འཇག  tj  aj  ka
+འཇགས  tj  aj  ka
+འཇང  tj  aj  ng
+འཇངས  tj  aj  ng
+འཇད  tj  elaa
+འཇན  tj  el
+འཇབ  tj  aj  pa
+འཇབས  tj  aj  pa
+འཇམ  tj  aj  ma
+འཇར  tj  aw
+འཇལ  tj  er
+འཇས  tj  elaa
+འཇི  tj  ij
+འཇིག  tj  ij  ka
+འཇིགས  tj  ij  ka
+འཇིང  tj  ij  ng
+འཇིངས  tj  ij  ng
+འཇིད  tj  ijaa
+འཇིབ  tj  ij  pa
+འཇིབས  tj  ij  pa
+འཇིམ  tj  ij  ma
+འཇིལ  tj  iw
+འཇུ  tj  uj
+འཇུག  tj  uj  ka
+འཇུང  tj  uj  ng
+འཇུངས  tj  uj  ng
+འཇུད  tj  yjaa
+འཇུན  tj  yu
+འཇུམ  tj  uj  ma
+འཇུམས  tj  uj  ma
+འཇུར  tj  uw
+འཇུས  tj  yjaa
+འཇེ  tj  ej
+འཇེན  tj  eu
+འཇེབས  tj  ej  pa
+འཇེམ  tj  ej  ma
+འཇེར  tj  ew
+འཇེས  tj  ejaa
+འཇོ  tj  oj
+འཇོག  tj  oj  ka
+འཇོང  tj  oj  ng
+འཇོངས  tj  oj  ng
+འཇོད  tj  fjaa
+འཇོན  tj  fj
+འཇོབས  tj  oj  pa
+འཇོམ  tj  oj  ma
+འཇོམས  tj  oj  ma
+འཇོར  tj  ow
+འཇོལ  tj  fw
+འཇོས  tj  fjaa
+རྗང  tj  aj  ng
+རྗི  tj  ij
+རྗིང  tj  ij  ng
+རྗིད  tj  ijaa
+རྗུད  tj  yjaa
+རྗེ  tj  ej
+རྗེང  tj  ej  ng
+རྗེད  tj  ejaa
+རྗེན  tj  eu
+རྗེས  tj  ejaa
+རྗོ  tj  oj
+རྗོགས  tj  oj  ka
+རྗོང  tj  oj  ng
+རྗོད  tj  fjaa
+ལྗགས  tj  aj  ka
+ལྗང  tj  aj  ng
+ལྗན  tj  el
+ལྗབ  tj  aj  pa
+ལྗར  tj  aw
+ལྗི  tj  ij
+ལྗིད  tj  ijaa
+ལྗིན  tj  il
+ལྗིབ  tj  ij  pa
+ལྗིབས  tj  ij  pa
+ལྗོང  tj  oj  ng
+ལྗོངས  tj  oj  ng
+ལྗོན  tj  fj
+ལྗོབ  tj  oj  pa
+བརྗིད  tj  ijaa
+བརྗེ  tj  ej
+བརྗེད  tj  ejaa
+བརྗེས  tj  ejaa
+བརྗོད  tj  fjaa
+ཉ  nn  aj
+ཉག  nn  aj  ka
+ཉང  nn  aj  ng
+ཉད  nn  elaa
+ཉན  nn  el
+ཉབ  nn  aj  pa
+ཉབས  nn  aj  pa
+ཉམ  nn  aj  ma
+ཉམས  nn  aj  ma
+ཉར  nn  aw
+ཉལ  nn  er
+ཉི  nn  ij
+ཉིག  nn  ij  ka
+ཉིགས  nn  ij  ka
+ཉིང  nn  ij  ng
+ཉིད  nn  ijaa
+ཉིན  nn  il
+ཉིར  nn  iw
+ཉིལ  nn  iw
+ཉིས  nn  ijaa
+ཉུ  nn  uj
+ཉུག  nn  uj  ka
+ཉུགས  nn  uj  ka
+ཉུང  nn  uj  ng
+ཉུངས  nn  uj  ng
+ཉུལ  nn  yw
+ཉེ  nn  ej
+ཉེག  nn  aj  ka
+ཉེང  nn  ej  ng
+ཉེད  nn  ejaa
+ཉེན  nn  eu
+ཉེར  nn  ew
+ཉེལ  nn  ew
+ཉེས  nn  ejaa
+ཉོ  nn  oj
+ཉོག  nn  oj  ka
+ཉོང  nn  oj  ng
+ཉོད  nn  fjaa
+ཉོན  nn  fj
+ཉོབ  nn  oj  pa
+ཉོབས  nn  oj  pa
+ཉོར  nn  ow
+ཉོལ  nn  fw
+ཉོས  nn  fjaa
+ཉྭ  nn  aj
+གཉའ  nn  aj
+གཉག  nn  aj  ka
+གཉགས  nn  aj  ka
+གཉང  nn  aj  ng
+གཉན  nn  el
+གཉབ  nn  aj  pa
+གཉལ  nn  er
+གཉི  nn  ij
+གཉིག  nn  ij  ka
+གཉིད  nn  ijaa
+གཉིམ  nn  ij  ma
+གཉིལ  nn  iw
+གཉིས  nn  ijaa
+གཉུག  nn  uj  ka
+གཉུགས  nn  uj  ka
+གཉུལ  nn  yw
+གཉེ  nn  ej
+གཉེག  nn  aj  ka
+གཉེན  nn  eu
+གཉེར  nn  ew
+གཉེལ  nn  ew
+གཉོག  nn  oj  ka
+གཉོགས  nn  oj  ka
+གཉོང  nn  oj  ng
+གཉོད  nn  fjaa
+གཉོན  nn  fj
+གཉོམ  nn  oj  ma
+གཉོས  nn  fjaa
+མཉའ  nn  aj
+མཉན  nn  el
+མཉམ  nn  aj  ma
+མཉལ  nn  er
+མཉིས  nn  ijaa
+མཉེ  nn  ej
+མཉེད  nn  ejaa
+མཉེན  nn  eu
+མཉེལ  nn  ew
+མཉེས  nn  ejaa
+རྙ  nn  aj
+རྙང  nn  aj  ng
+རྙན  nn  el
+རྙབ  nn  aj  pa
+རྙི  nn  ij
+རྙིག  nn  ij  ka
+རྙིང  nn  ij  ng
+རྙིངས  nn  ij  ng
+རྙིད  nn  ijaa
+རྙིབ  nn  ij  pa
+རྙིལ  nn  iw
+རྙིས  nn  ijaa
+རྙེངས  nn  ej  ng
+རྙེད  nn  ejaa
+རྙོག  nn  oj  ka
+རྙོགས  nn  oj  ka
+རྙོང  nn  oj  ng
+རྙོངས  nn  oj  ng
+རྙོན  nn  fj
+རྙོབ  nn  oj  pa
+རྙོབས  nn  oj  pa
+རྙོས  nn  fjaa
+སྙ  nn  aj
+སྙག  nn  aj  ka
+སྙགས  nn  aj  ka
+སྙང  nn  aj  ng
+སྙད  nn  elaa
+སྙན  nn  el
+སྙབ  nn  aj  pa
+སྙབས  nn  aj  pa
+སྙམ  nn  aj  ma
+སྙམས  nn  aj  ma
+སྙལ  nn  er
+སྙི  nn  ij
+སྙིག  nn  ij  ka
+སྙིགས  nn  ij  ka
+སྙིང  nn  ij  ng
+སྙིད  nn  ijaa
+སྙིམ  nn  ij  ma
+སྙིམས  nn  ij  ma
+སྙིལ  nn  iw
+སྙིས  nn  ijaa
+སྙུ  nn  uj
+སྙུག  nn  uj  ka
+སྙུགས  nn  uj  ka
+སྙུང  nn  uj  ng
+སྙུངས  nn  uj  ng
+སྙུན  nn  yu
+སྙེ  nn  ej
+སྙེག  nn  aj  ka
+སྙེགས  nn  aj  ka
+སྙེང  nn  ej  ng
+སྙེངས  nn  ej  ng
+སྙེད  nn  ejaa
+སྙེན  nn  eu
+སྙེམ  nn  ej  ma
+སྙེམས  nn  ej  ma
+སྙེར  nn  ew
+སྙེལ  nn  ew
+སྙེས  nn  ejaa
+སྙོ  nn  oj
+སྙོག  nn  oj  ka
+སྙོགས  nn  oj  ka
+སྙོང  nn  oj  ng
+སྙོངས  nn  oj  ng
+སྙོད  nn  fjaa
+སྙོན  nn  fj
+སྙོབ  nn  oj  pa
+སྙོབས  nn  oj  pa
+སྙོམ  nn  oj  ma
+སྙོམས  nn  oj  ma
+སྙོར  nn  ow
+སྙོལ  nn  fw
+བརྙ  nn  aj
+བརྙང  nn  aj  ng
+བརྙངས  nn  aj  ng
+བརྙན  nn  el
+བརྙབ  nn  aj  pa
+བརྙབས  nn  aj  pa
+བརྙས  nn  elaa
+བརྙིང  nn  ij  ng
+བརྙིངས  nn  ij  ng
+བརྙིད  nn  ijaa
+བརྙིས  nn  ijaa
+བརྙེས  nn  ejaa
+བརྙོག  nn  oj  ka
+བརྙོགས  nn  oj  ka
+བརྙོངས  nn  oj  ng
+བརྙོས  nn  fjaa
+བསྙག  nn  aj  ka
+བསྙགས  nn  aj  ka
+བསྙད  nn  elaa
+བསྙབ  nn  aj  pa
+བསྙབས  nn  aj  pa
+བསྙམ  nn  aj  ma
+བསྙམས  nn  aj  ma
+བསྙལ  nn  er
+བསྙས  nn  elaa
+བསྙིག  nn  ij  ka
+བསྙིགས  nn  ij  ka
+བསྙིངས  nn  ij  ng
+བསྙིལ  nn  iw
+བསྙིས  nn  ijaa
+བསྙུག  nn  uj  ka
+བསྙུགས  nn  uj  ka
+བསྙུང  nn  uj  ng
+བསྙུངས  nn  uj  ng
+བསྙུན  nn  yu
+བསྙུར  nn  uw
+བསྙུལ  nn  yw
+བསྙེ  nn  ej
+བསྙེག  nn  aj  ka
+བསྙེགས  nn  aj  ka
+བསྙེང  nn  ej  ng
+བསྙེངས  nn  ej  ng
+བསྙེད  nn  ejaa
+བསྙེན  nn  eu
+བསྙེམ  nn  ej  ma
+བསྙེམས  nn  ej  ma
+བསྙེར  nn  ew
+བསྙེལ  nn  ew
+བསྙེས  nn  ejaa
+བསྙོག  nn  oj  ka
+བསྙོགས  nn  oj  ka
+བསྙོད  nn  fjaa
+བསྙོན  nn  fj
+བསྙོབས  nn  oj  pa
+བསྙོམས  nn  oj  ma
+བསྙོར  nn  ow
+བསྙོལ  nn  fw
+ཏ  ta  aj
+ཏག  ta  aj  ka
+ཏང  ta  aj  ng
+ཏད  ta  elaa
+ཏན  ta  el
+ཏབ  ta  aj  pa
+ཏམ  ta  aj  ma
+ཏར  ta  aw
+ཏལ  ta  er
+ཏས  ta  elaa
+ཏི  ta  ij
+ཏིག  ta  ij  ka
+ཏིང  ta  ij  ng
+ཏིངས  ta  ij  ng
+ཏིན  ta  il
+ཏིབ  ta  ij  pa
+ཏིམ  ta  ij  ma
+ཏིར  ta  iw
+ཏིལ  ta  iw
+ཏིས  ta  ijaa
+ཏུ  ta  uj
+ཏུག  ta  uj  ka
+ཏུང  ta  uj  ng
+ཏུབ  ta  uj  pa
+ཏུམ  ta  uj  ma
+ཏུར  ta  uw
+ཏུལ  ta  yw
+ཏེ  ta  ej
+ཏེག  ta  aj  ka
+ཏེང  ta  ej  ng
+ཏེན  ta  eu
+ཏེབ  ta  ej  pa
+ཏེར  ta  ew
+ཏེལ  ta  ew
+ཏོ  ta  oj
+ཏོག  ta  oj  ka
+ཏོང  ta  oj  ng
+ཏོན  ta  fj
+ཏོབ  ta  oj  pa
+ཏོམ  ta  oj  ma
+ཏོར  ta  ow
+ཏོལ  ta  fw
+ཏོས  ta  fjaa
+ཏྲ  td  aj
+ཏྲེ  td  ej
+ཏྲེམ  td  ej  ma
+ཏྲོན  td  fj
+གཏའ  ta  aj
+གཏག  ta  aj  ka
+གཏགས  ta  aj  ka
+གཏང  ta  aj  ng
+གཏད  ta  elaa
+གཏན  ta  el
+གཏམ  ta  aj  ma
+གཏམས  ta  aj  ma
+གཏར  ta  aw
+གཏལ  ta  er
+གཏི  ta  ij
+གཏིག  ta  ij  ka
+གཏིགས  ta  ij  ka
+གཏིང  ta  ij  ng
+གཏིབ  ta  ij  pa
+གཏིབས  ta  ij  pa
+གཏིམ  ta  ij  ma
+གཏིར  ta  iw
+གཏུ  ta  uj
+གཏུག  ta  uj  ka
+གཏུགས  ta  uj  ka
+གཏུན  ta  yu
+གཏུབ  ta  uj  pa
+གཏུབས  ta  uj  pa
+གཏུམ  ta  uj  ma
+གཏུམས  ta  uj  ma
+གཏུར  ta  uw
+གཏུལ  ta  yw
+གཏེ  ta  ej
+གཏེང  ta  ej  ng
+གཏེར  ta  ew
+གཏོ  ta  oj
+གཏོག  ta  oj  ka
+གཏོགས  ta  oj  ka
+གཏོང  ta  oj  ng
+གཏོད  ta  fjaa
+གཏོན  ta  fj
+གཏོམ  ta  oj  ma
+གཏོམས  ta  oj  ma
+གཏོར  ta  ow
+གཏོལ  ta  fw
+གཏོས  ta  fjaa
+བཏའ  ta  aj
+བཏག  ta  aj  ka
+བཏགས  ta  aj  ka
+བཏང  ta  aj  ng
+བཏད  ta  elaa
+བཏབ  ta  aj  pa
+བཏབས  ta  aj  pa
+བཏམ  ta  aj  ma
+བཏམས  ta  aj  ma
+བཏིག  ta  ij  ka
+བཏིགས  ta  ij  ka
+བཏིང  ta  ij  ng
+བཏིངས  ta  ij  ng
+བཏིབ  ta  ij  pa
+བཏིལ  ta  iw
+བཏུ  ta  uj
+བཏུང  ta  uj  ng
+བཏུངས  ta  uj  ng
+བཏུད  ta  yjaa
+བཏུབ  ta  uj  pa
+བཏུབས  ta  uj  pa
+བཏུམ  ta  uj  ma
+བཏུམས  ta  uj  ma
+བཏུར  ta  uw
+བཏུལ  ta  yw
+བཏུས  ta  yjaa
+བཏེག  ta  aj  ka
+བཏེགས  ta  aj  ka
+བཏོག  ta  oj  ka
+བཏོགས  ta  oj  ka
+བཏོད  ta  fjaa
+བཏོན  ta  fj
+བཏོལ  ta  fw
+རྟ  ta  aj
+རྟག  ta  aj  ka
+རྟགས  ta  aj  ka
+རྟང  ta  aj  ng
+རྟན  ta  el
+རྟབ  ta  aj  pa
+རྟས  ta  elaa
+རྟི  ta  ij
+རྟིང  ta  ij  ng
+རྟིབ  ta  ij  pa
+རྟིབས  ta  ij  pa
+རྟིས  ta  ijaa
+རྟུག  ta  uj  ka
+རྟུན  ta  yu
+རྟུལ  ta  yw
+རྟེང  ta  ej  ng
+རྟེན  ta  eu
+རྟེམ  ta  ej  ma
+རྟོག  ta  oj  ka
+རྟོགས  ta  oj  ka
+རྟོད  ta  fjaa
+རྟོན  ta  fj
+རྟོབ  ta  oj  pa
+རྟོབས  ta  oj  pa
+རྟོལ  ta  fw
+ལྟ  ta  aj
+ལྟག  ta  aj  ka
+ལྟང  ta  aj  ng
+ལྟད  ta  elaa
+ལྟབ  ta  aj  pa
+ལྟབས  ta  aj  pa
+ལྟམ  ta  aj  ma
+ལྟམས  ta  aj  ma
+ལྟར  ta  aw
+ལྟས  ta  elaa
+ལྟི  ta  ij
+ལྟིག  ta  ij  ka
+ལྟིང  ta  ij  ng
+ལྟིར  ta  iw
+ལྟུང  ta  uj  ng
+ལྟུངས  ta  uj  ng
+ལྟུར  ta  uw
+ལྟེ  ta  ej
+ལྟེང  ta  ej  ng
+ལྟེངས  ta  ej  ng
+ལྟེད  ta  ejaa
+ལྟེབ  ta  ej  pa
+ལྟེབས  ta  ej  pa
+ལྟེམ  ta  ej  ma
+ལྟེམས  ta  ej  ma
+ལྟོ  ta  oj
+ལྟོག  ta  oj  ka
+ལྟོགས  ta  oj  ka
+ལྟོང  ta  oj  ng
+ལྟོངས  ta  oj  ng
+ལྟོད  ta  fjaa
+ལྟོབ  ta  oj  pa
+ལྟོབས  ta  oj  pa
+ལྟོམས  ta  oj  ma
+ལྟོལ  ta  fw
+ལྟོས  ta  fjaa
+སྟ  ta  aj
+སྟག  ta  aj  ka
+སྟགས  ta  aj  ka
+སྟང  ta  aj  ng
+སྟངས  ta  aj  ng
+སྟད  ta  elaa
+སྟན  ta  el
+སྟབ  ta  aj  pa
+སྟབས  ta  aj  pa
+སྟར  ta  aw
+སྟི  ta  ij
+སྟིང  ta  ij  ng
+སྟིངས  ta  ij  ng
+སྟིབས  ta  ij  pa
+སྟིམ  ta  ij  ma
+སྟིམས  ta  ij  ma
+སྟིས  ta  ijaa
+སྟུ  ta  uj
+སྟུག  ta  uj  ka
+སྟུང  ta  uj  ng
+སྟུངས  ta  uj  ng
+སྟུད  ta  yjaa
+སྟུན  ta  yu
+སྟུབས  ta  uj  pa
+སྟུམ  ta  uj  ma
+སྟེ  ta  ej
+སྟེག  ta  aj  ka
+སྟེགས  ta  aj  ka
+སྟེང  ta  ej  ng
+སྟེངས  ta  ej  ng
+སྟེན  ta  eu
+སྟེམ  ta  ej  ma
+སྟེམས  ta  ej  ma
+སྟེར  ta  ew
+སྟེས  ta  ejaa
+སྟོ  ta  oj
+སྟོང  ta  oj  ng
+སྟོངས  ta  oj  ng
+སྟོད  ta  fjaa
+སྟོན  ta  fj
+སྟོབ  ta  oj  pa
+སྟོབས  ta  oj  pa
+སྟོམ  ta  oj  ma
+སྟོར  ta  ow
+སྟོས  ta  fjaa
+བརྟ  ta  aj
+བརྟག  ta  aj  ka
+བརྟགས  ta  aj  ka
+བརྟད  ta  elaa
+བརྟན  ta  el
+བརྟབ  ta  aj  pa
+བརྟབས  ta  aj  pa
+བརྟས  ta  elaa
+བརྟིབ  ta  ij  pa
+བརྟིབས  ta  ij  pa
+བརྟུན  ta  yu
+བརྟུལ  ta  yw
+བརྟེན  ta  eu
+བརྟོད  ta  fjaa
+བརྟོལ  ta  fw
+བལྟ  ta  aj
+བལྟབ  ta  aj  pa
+བལྟབས  ta  aj  pa
+བལྟམ  ta  aj  ma
+བལྟམས  ta  aj  ma
+བལྟར  ta  aw
+བལྟས  ta  elaa
+བལྟེབས  ta  ej  pa
+བལྟོས  ta  fjaa
+བསྟང  ta  aj  ng
+བསྟངས  ta  aj  ng
+བསྟད  ta  elaa
+བསྟན  ta  el
+བསྟབ  ta  aj  pa
+བསྟབས  ta  aj  pa
+བསྟར  ta  aw
+བསྟས  ta  elaa
+བསྟི  ta  ij
+བསྟིང  ta  ij  ng
+བསྟིངས  ta  ij  ng
+བསྟིབས  ta  ij  pa
+བསྟིམ  ta  ij  ma
+བསྟིམས  ta  ij  ma
+བསྟིར  ta  iw
+བསྟིས  ta  ijaa
+བསྟུང  ta  uj  ng
+བསྟུངས  ta  uj  ng
+བསྟུད  ta  yjaa
+བསྟུན  ta  yu
+བསྟུམ  ta  uj  ma
+བསྟུམས  ta  uj  ma
+བསྟེན  ta  eu
+བསྟེར  ta  ew
+བསྟོང  ta  oj  ng
+བསྟོངས  ta  oj  ng
+བསྟོད  ta  fjaa
+ཐ  th  aj
+ཐག  th  aj  ka
+ཐགས  th  aj  ka
+ཐང  th  aj  ng
+ཐད  th  elaa
+ཐན  th  el
+ཐབ  th  aj  pa
+ཐབས  th  aj  pa
+ཐམ  th  aj  ma
+ཐམས  th  aj  ma
+ཐར  th  aw
+ཐལ  th  er
+ཐི  th  ij
+ཐིག  th  ij  ka
+ཐིགས  th  ij  ka
+ཐིང  th  ij  ng
+ཐིངས  th  ij  ng
+ཐིབ  th  ij  pa
+ཐིབས  th  ij  pa
+ཐིམ  th  ij  ma
+ཐིར  th  iw
+ཐིལ  th  iw
+ཐིས  th  ijaa
+ཐུ  th  uj
+ཐུག  th  uj  ka
+ཐུགས  th  uj  ka
+ཐུང  th  uj  ng
+ཐུངས  th  uj  ng
+ཐུད  th  yjaa
+ཐུན  th  yu
+ཐུབ  th  uj  pa
+ཐུམ  th  uj  ma
+ཐུམས  th  uj  ma
+ཐུར  th  uw
+ཐུལ  th  yw
+ཐུས  th  yjaa
+ཐེ  th  ej
+ཐེག  th  aj  ka
+ཐེགས  th  aj  ka
+ཐེང  th  ej  ng
+ཐེངས  th  ej  ng
+ཐེད  th  ejaa
+ཐེན  th  eu
+ཐེབ  th  ej  pa
+ཐེབས  th  ej  pa
+ཐེམ  th  ej  ma
+ཐེམས  th  ej  ma
+ཐེར  th  ew
+ཐེལ  th  ew
+ཐེས  th  ejaa
+ཐོ  th  oj
+ཐོག  th  oj  ka
+ཐོགས  th  oj  ka
+ཐོང  th  oj  ng
+ཐོངས  th  oj  ng
+ཐོད  th  fjaa
+ཐོན  th  fj
+ཐོབ  th  oj  pa
+ཐོབས  th  oj  pa
+ཐོམ  th  oj  ma
+ཐོམས  th  oj  ma
+ཐོར  th  ow
+ཐོལ  th  fw
+ཐོས  th  fjaa
+མཐའ  th  aj
+མཐང  th  aj  ng
+མཐངས  th  aj  ng
+མཐར  th  aw
+མཐས  th  elaa
+མཐིང  th  ij  ng
+མཐིལ  th  iw
+མཐུ  th  uj
+མཐུག  th  uj  ka
+མཐུད  th  yjaa
+མཐུན  th  yu
+མཐུབ  th  uj  pa
+མཐུར  th  uw
+མཐུས  th  yjaa
+མཐེ  th  ej
+མཐེབ  th  ej  pa
+མཐོ  th  oj
+མཐོང  th  oj  ng
+མཐོངས  th  oj  ng
+མཐོན  th  fj
+མཐོར  th  ow
+མཐོལ  th  fw
+མཐོས  th  fjaa
+འཐག  th  aj  ka
+འཐགས  th  aj  ka
+འཐང  th  aj  ng
+འཐད  th  elaa
+འཐན  th  el
+འཐབ  th  aj  pa
+འཐབས  th  aj  pa
+འཐམ  th  aj  ma
+འཐམས  th  aj  ma
+འཐར  th  aw
+འཐལ  th  er
+འཐས  th  elaa
+འཐིག  th  ij  ka
+འཐིགས  th  ij  ka
+འཐིང  th  ij  ng
+འཐིངས  th  ij  ng
+འཐིབ  th  ij  pa
+འཐིབས  th  ij  pa
+འཐིམ  th  ij  ma
+འཐུ  th  uj
+འཐུག  th  uj  ka
+འཐུང  th  uj  ng
+འཐུངས  th  uj  ng
+འཐུད  th  yjaa
+འཐུན  th  yu
+འཐུབ  th  uj  pa
+འཐུམ  th  uj  ma
+འཐུམས  th  uj  ma
+འཐུར  th  uw
+འཐུལ  th  yw
+འཐུས  th  yjaa
+འཐེག  th  aj  ka
+འཐེགས  th  aj  ka
+འཐེང  th  ej  ng
+འཐེངས  th  ej  ng
+འཐེད  th  ejaa
+འཐེན  th  eu
+འཐེབ  th  ej  pa
+འཐེབས  th  ej  pa
+འཐེམ  th  ej  ma
+འཐེམས  th  ej  ma
+འཐོག  th  oj  ka
+འཐོགས  th  oj  ka
+འཐོན  th  fj
+འཐོབ  th  oj  pa
+འཐོབས  th  oj  pa
+འཐོམ  th  oj  ma
+འཐོམས  th  oj  ma
+འཐོར  th  ow
+འཐོལ  th  fw
+ད  th  aj
+དག  th  aj  ka
+དང  th  aj  ng
+དད  th  elaa
+དན  th  el
+དབ  th  aj  pa
+དམ  th  aj  ma
+དར  th  aw
+དལ  th  er
+དས  th  elaa
+དི  th  ij
+དིག  th  ij  ka
+དིང  th  ij  ng
+དིབ  th  ij  pa
+དིམ  th  ij  ma
+དིར  th  iw
+དིས  th  ijaa
+དུ  th  uj
+དུག  th  uj  ka
+དུགས  th  uj  ka
+དུང  th  uj  ng
+དུངས  th  uj  ng
+དུད  th  yjaa
+དུན  th  yu
+དུབ  th  uj  pa
+དུབས  th  uj  pa
+དུམ  th  uj  ma
+དུར  th  uw
+དུལ  th  yw
+དུས  th  yjaa
+དེ  th  ej
+དེང  th  ej  ng
+དེངས  th  ej  ng
+དེད  th  ejaa
+དེན  th  eu
+དེབ  th  ej  pa
+དེམ  th  ej  ma
+དེར  th  ew
+དེས  th  ejaa
+དོ  th  oj
+དོག  th  oj  ka
+དོགས  th  oj  ka
+དོང  th  oj  ng
+དོངས  th  oj  ng
+དོད  th  fjaa
+དོན  th  fj
+དོབ  th  oj  pa
+དོམ  th  oj  ma
+དོམས  th  oj  ma
+དོར  th  ow
+དོལ  th  fw
+དོས  th  fjaa
+དྭ  ta  aj
+དྭགས  ta  aj  ka
+དྭངས  ta  aj  ng
+དྭོ  ta  oj
+དྲ  td  aj
+དྲག  td  aj  ka
+དྲགས  td  aj  ka
+དྲང  td  aj  ng
+དྲངས  td  aj  ng
+དྲད  td  elaa
+དྲན  td  el
+དྲབ  td  aj  pa
+དྲམ  td  aj  ma
+དྲལ  td  er
+དྲས  td  elaa
+དྲི  td  ij
+དྲིང  td  ij  ng
+དྲིན  td  il
+དྲིར  td  iw
+དྲིལ  td  iw
+དྲིས  td  ijaa
+དྲུ  td  uj
+དྲུག  td  uj  ka
+དྲུང  td  uj  ng
+དྲུངས  td  uj  ng
+དྲུད  td  yjaa
+དྲུབ  td  uj  pa
+དྲུབས  td  uj  pa
+དྲུམ  td  uj  ma
+དྲུམས  td  uj  ma
+དྲུལ  td  yw
+དྲུས  td  yjaa
+དྲེ  td  ej
+དྲེག  td  aj  ka
+དྲེགས  td  aj  ka
+དྲེང  td  ej  ng
+དྲེད  td  ejaa
+དྲེབ  td  ej  pa
+དྲེལ  td  ew
+དྲེས  td  ejaa
+དྲོ  td  oj
+དྲོག  td  oj  ka
+དྲོགས  td  oj  ka
+དྲོང  td  oj  ng
+དྲོངས  td  oj  ng
+དྲོད  td  fjaa
+དྲོན  td  fj
+དྲོལ  td  fw
+དྲོས  td  fjaa
+དྲྭ  td  aj
+གདའ  ta  aj
+གདག  ta  aj  ka
+གདགས  ta  aj  ka
+གདང  ta  aj  ng
+གདངས  ta  aj  ng
+གདན  ta  el
+གདབ  ta  aj  pa
+གདམ  ta  aj  ma
+གདམས  ta  aj  ma
+གདར  ta  aw
+གདལ  ta  er
+གདས  ta  elaa
+གདིང  ta  ij  ng
+གདུ  ta  uj
+གདུག  ta  uj  ka
+གདུགས  ta  uj  ka
+གདུང  ta  uj  ng
+གདུངས  ta  uj  ng
+གདུད  ta  yjaa
+གདུབ  ta  uj  pa
+གདུམ  ta  uj  ma
+གདུལ  ta  yw
+གདུས  ta  yjaa
+གདེག  ta  aj  ka
+གདེགས  ta  aj  ka
+གདེང  ta  ej  ng
+གདེངས  ta  ej  ng
+གདོང  ta  oj  ng
+གདོངས  ta  oj  ng
+གདོད  ta  fjaa
+གདོན  ta  fj
+གདོམས  ta  oj  ma
+གདོལ  ta  fw
+གདོས  ta  fjaa
+བདའ  ta  aj
+བདག  ta  aj  ka
+བདང  ta  aj  ng
+བདམ  ta  aj  ma
+བདམས  ta  aj  ma
+བདར  ta  aw
+བདལ  ta  er
+བདས  ta  elaa
+བདུག  ta  uj  ka
+བདུགས  ta  uj  ka
+བདུང  ta  uj  ng
+བདུངས  ta  uj  ng
+བདུད  ta  yjaa
+བདུན  ta  yu
+བདེ  ta  ej
+བདེན  ta  eu
+བདེར  ta  ew
+བདོ  ta  oj
+བདོག  ta  oj  ka
+བདོད  ta  fjaa
+བདོར  ta  ow
+བདོལ  ta  fw
+མདའ  ta  aj
+མདག  ta  aj  ka
+མདང  ta  aj  ng
+མདངས  ta  aj  ng
+མདན  ta  el
+མདས  ta  elaa
+མདུང  ta  uj  ng
+མདུད  ta  yjaa
+མདུན  ta  yu
+མདེགས  ta  aj  ka
+མདེལ  ta  ew
+མདོ  ta  oj
+མདོག  ta  oj  ka
+མདོང  ta  oj  ng
+མདོངས  ta  oj  ng
+མདོམས  ta  oj  ma
+མདོར  ta  ow
+མདོས  ta  fjaa
+འདའ  ta  aj
+འདག  ta  aj  ka
+འདང  ta  aj  ng
+འདངས  ta  aj  ng
+འདད  ta  elaa
+འདན  ta  el
+འདབ  ta  aj  pa
+འདབས  ta  aj  pa
+འདམ  ta  aj  ma
+འདམས  ta  aj  ma
+འདར  ta  aw
+འདལ  ta  er
+འདས  ta  elaa
+འདི  ta  ij
+འདིག  ta  ij  ka
+འདིང  ta  ij  ng
+འདིངས  ta  ij  ng
+འདིན  ta  il
+འདིར  ta  iw
+འདིས  ta  ijaa
+འདུ  ta  uj
+འདུག  ta  uj  ka
+འདུད  ta  yjaa
+འདུན  ta  yu
+འདུམ  ta  uj  ma
+འདུམས  ta  uj  ma
+འདུར  ta  uw
+འདུལ  ta  yw
+འདུས  ta  yjaa
+འདེ  ta  ej
+འདེགས  ta  aj  ka
+འདེང  ta  ej  ng
+འདེངས  ta  ej  ng
+འདེད  ta  ejaa
+འདེབ  ta  ej  pa
+འདེབས  ta  ej  pa
+འདེམ  ta  ej  ma
+འདེམས  ta  ej  ma
+འདེལ  ta  ew
+འདེས  ta  ejaa
+འདོ  ta  oj
+འདོག  ta  oj  ka
+འདོགས  ta  oj  ka
+འདོང  ta  oj  ng
+འདོངས  ta  oj  ng
+འདོད  ta  fjaa
+འདོན  ta  fj
+འདོབ  ta  oj  pa
+འདོམ  ta  oj  ma
+འདོམས  ta  oj  ma
+འདོར  ta  ow
+འདོལ  ta  fw
+འདྲ  td  aj
+འདྲག  td  aj  ka
+འདྲགས  td  aj  ka
+འདྲད  td  elaa
+འདྲན  td  el
+འདྲལ  td  er
+འདྲས  td  elaa
+འདྲི  td  ij
+འདྲིད  td  ijaa
+འདྲིན  td  il
+འདྲིམ  td  ij  ma
+འདྲིར  td  iw
+འདྲིལ  td  iw
+འདྲིས  td  ijaa
+འདྲུ  td  uj
+འདྲུག  td  uj  ka
+འདྲུད  td  yjaa
+འདྲུབ  td  uj  pa
+འདྲུབས  td  uj  pa
+འདྲུམས  td  uj  ma
+འདྲུལ  td  yw
+འདྲུས  td  yjaa
+འདྲེ  td  ej
+འདྲེག  td  aj  ka
+འདྲེགས  td  aj  ka
+འདྲེད  td  ejaa
+འདྲེན  td  eu
+འདྲེར  td  ew
+འདྲེས  td  ejaa
+འདྲོག  td  oj  ka
+འདྲོགས  td  oj  ka
+འདྲོང  td  oj  ng
+འདྲོངས  td  oj  ng
+འདྲོད  td  fjaa
+འདྲོབ  td  oj  pa
+འདྲོབས  td  oj  pa
+རྡག  ta  aj  ka
+རྡང  ta  aj  ng
+རྡབ  ta  aj  pa
+རྡར  ta  aw
+རྡལ  ta  er
+རྡི  ta  ij
+རྡིག  ta  ij  ka
+རྡིབ  ta  ij  pa
+རྡིབས  ta  ij  pa
+རྡིས  ta  ijaa
+རྡུ  ta  uj
+རྡུགས  ta  uj  ka
+རྡུང  ta  uj  ng
+རྡུངས  ta  uj  ng
+རྡུབ  ta  uj  pa
+རྡུམ  ta  uj  ma
+རྡུལ  ta  yw
+རྡེ  ta  ej
+རྡེག  ta  aj  ka
+རྡེགས  ta  aj  ka
+རྡེབ  ta  ej  pa
+རྡེབས  ta  ej  pa
+རྡེལ  ta  ew
+རྡོ  ta  oj
+རྡོག  ta  oj  ka
+རྡོབ  ta  oj  pa
+རྡོབས  ta  oj  pa
+རྡོམ  ta  oj  ma
+རྡོར  ta  ow
+རྡོལ  ta  fw
+རྡོས  ta  fjaa
+ལྡ  ta  aj
+ལྡག  ta  aj  ka
+ལྡགས  ta  aj  ka
+ལྡང  ta  aj  ng
+ལྡངས  ta  aj  ng
+ལྡད  ta  elaa
+ལྡན  ta  el
+ལྡབ  ta  aj  pa
+ལྡབས  ta  aj  pa
+ལྡམ  ta  aj  ma
+ལྡར  ta  aw
+ལྡས  ta  elaa
+ལྡི  ta  ij
+ལྡིག  ta  ij  ka
+ལྡིང  ta  ij  ng
+ལྡིངས  ta  ij  ng
+ལྡིབ  ta  ij  pa
+ལྡིབས  ta  ij  pa
+ལྡིར  ta  iw
+ལྡུ  ta  uj
+ལྡུག  ta  uj  ka
+ལྡུགས  ta  uj  ka
+ལྡུད  ta  yjaa
+ལྡུབ  ta  uj  pa
+ལྡུམ  ta  uj  ma
+ལྡུར  ta  uw
+ལྡུས  ta  yjaa
+ལྡེ  ta  ej
+ལྡེག  ta  aj  ka
+ལྡེང  ta  ej  ng
+ལྡེངས  ta  ej  ng
+ལྡེབ  ta  ej  pa
+ལྡེབས  ta  ej  pa
+ལྡེམ  ta  ej  ma
+ལྡེམས  ta  ej  ma
+ལྡེར  ta  ew
+ལྡེས  ta  ejaa
+ལྡོག  ta  oj  ka
+ལྡོགས  ta  oj  ka
+ལྡོང  ta  oj  ng
+ལྡོངས  ta  oj  ng
+ལྡོད  ta  fjaa
+ལྡོན  ta  fj
+ལྡོབ  ta  oj  pa
+ལྡོབས  ta  oj  pa
+ལྡོམ  ta  oj  ma
+ལྡོམས  ta  oj  ma
+སྡག  ta  aj  ka
+སྡང  ta  aj  ng
+སྡན  ta  el
+སྡམ  ta  aj  ma
+སྡར  ta  aw
+སྡི  ta  ij
+སྡིག  ta  ij  ka
+སྡིགས  ta  ij  ka
+སྡིང  ta  ij  ng
+སྡིངས  ta  ij  ng
+སྡིར  ta  iw
+སྡིས  ta  ijaa
+སྡུ  ta  uj
+སྡུག  ta  uj  ka
+སྡུད  ta  yjaa
+སྡུམ  ta  uj  ma
+སྡུམས  ta  uj  ma
+སྡུར  ta  uw
+སྡུལ  ta  yw
+སྡུས  ta  yjaa
+སྡེ  ta  ej
+སྡེངས  ta  ej  ng
+སྡེབ  ta  ej  pa
+སྡེབས  ta  ej  pa
+སྡེམ  ta  ej  ma
+སྡེམས  ta  ej  ma
+སྡེར  ta  ew
+སྡེལ  ta  ew
+སྡོ  ta  oj
+སྡོག  ta  oj  ka
+སྡོགས  ta  oj  ka
+སྡོང  ta  oj  ng
+སྡོངས  ta  oj  ng
+སྡོད  ta  fjaa
+སྡོམ  ta  oj  ma
+སྡོམས  ta  oj  ma
+སྡོར  ta  ow
+སྡོས  ta  fjaa
+བརྡ  ta  aj
+བརྡའ  ta  aj
+བརྡབ  ta  aj  pa
+བརྡབས  ta  aj  pa
+བརྡར  ta  aw
+བརྡལ  ta  er
+བརྡིབ  ta  ij  pa
+བརྡིབས  ta  ij  pa
+བརྡུགས  ta  uj  ka
+བརྡུང  ta  uj  ng
+བརྡུངས  ta  uj  ng
+བརྡུལ  ta  yw
+བརྡེག  ta  aj  ka
+བརྡེགས  ta  aj  ka
+བརྡེབ  ta  ej  pa
+བརྡོགས  ta  oj  ka
+བརྡོལ  ta  fw
+བརྡོས  ta  fjaa
+བལྡག  ta  aj  ka
+བལྡགས  ta  aj  ka
+བལྡད  ta  elaa
+བལྡབ  ta  aj  pa
+བལྡབས  ta  aj  pa
+བལྡི  ta  ij
+བལྡིར  ta  iw
+བལྡེག  ta  aj  ka
+བལྡེགས  ta  aj  ka
+བསྡད  ta  elaa
+བསྡམ  ta  aj  ma
+བསྡམས  ta  aj  ma
+བསྡར  ta  aw
+བསྡི  ta  ij
+བསྡིག  ta  ij  ka
+བསྡིགས  ta  ij  ka
+བསྡིས  ta  ijaa
+བསྡུ  ta  uj
+བསྡུམ  ta  uj  ma
+བསྡུམས  ta  uj  ma
+བསྡུར  ta  uw
+བསྡུས  ta  yjaa
+བསྡེབ  ta  ej  pa
+བསྡེབས  ta  ej  pa
+བསྡོ  ta  oj
+བསྡོག  ta  oj  ka
+བསྡོགས  ta  oj  ka
+བསྡོང  ta  oj  ng
+བསྡོངས  ta  oj  ng
+བསྡོམ  ta  oj  ma
+བསྡོམས  ta  oj  ma
+བསྡོས  ta  fjaa
+ན  na  aj
+ནག  na  aj  ka
+ནགས  na  aj  ka
+ནང  na  aj  ng
+ནངས  na  aj  ng
+ནད  na  elaa
+ནན  na  el
+ནབ  na  aj  pa
+ནབས  na  aj  pa
+ནམ  na  aj  ma
+ནམས  na  aj  ma
+ནར  na  aw
+ནལ  na  er
+ནས  na  elaa
+ནི  na  ij
+ནིག  na  ij  ka
+ནིང  na  ij  ng
+ནིམ  na  ij  ma
+ནིས  na  ijaa
+ནུ  na  uj
+ནུད  na  yjaa
+ནུབ  na  uj  pa
+ནུམ  na  uj  ma
+ནུར  na  uw
+ནུལ  na  yw
+ནུས  na  yjaa
+ནེ  na  ej
+ནེམ  na  ej  ma
+ནེར  na  ew
+ནོ  na  oj
+ནོག  na  oj  ka
+ནོགས  na  oj  ka
+ནོང  na  oj  ng
+ནོངས  na  oj  ng
+ནོད  na  fjaa
+ནོན  na  fj
+ནོབས  na  oj  pa
+ནོམ  na  oj  ma
+ནོམས  na  oj  ma
+ནོར  na  ow
+ནོལ  na  fw
+ནོས  na  fjaa
+གནའ  na  aj
+གནག  na  aj  ka
+གནང  na  aj  ng
+གནངས  na  aj  ng
+གནད  na  elaa
+གནན  na  el
+གནམ  na  aj  ma
+གནས  na  elaa
+གནུབ  na  uj  pa
+གནུབས  na  uj  pa
+གནུར  na  uw
+གནོག  na  oj  ka
+གནོང  na  oj  ng
+གནོངས  na  oj  ng
+གནོད  na  fjaa
+གནོན  na  fj
+གནོས  na  fjaa
+མནའ  na  aj
+མནག  na  aj  ka
+མནགས  na  aj  ka
+མནང  na  aj  ng
+མནངས  na  aj  ng
+མནན  na  el
+མནབ  na  aj  pa
+མནབས  na  aj  pa
+མནམ  na  aj  ma
+མནམས  na  aj  ma
+མནར  na  aw
+མནལ  na  er
+མནུན  na  yu
+མནེར  na  ew
+མནོ  na  oj
+མནོག  na  oj  ka
+མནོང  na  oj  ng
+མནོད  na  fjaa
+མནོན  na  fj
+མནོམས  na  oj  ma
+མནོལ  na  fw
+མནོས  na  fjaa
+རྣ  na  aj
+རྣག  na  aj  ka
+རྣགས  na  aj  ka
+རྣང  na  aj  ng
+རྣན  na  el
+རྣབ  na  aj  pa
+རྣམ  na  aj  ma
+རྣམས  na  aj  ma
+རྣར  na  aw
+རྣལ  na  er
+རྣིལ  na  iw
+རྣུ  na  uj
+རྣུར  na  uw
+རྣོ  na  oj
+རྣོག  na  oj  ka
+རྣོགས  na  oj  ka
+རྣོང  na  oj  ng
+རྣོངས  na  oj  ng
+རྣོན  na  fj
+རྣོབས  na  oj  pa
+རྣོར  na  ow
+སྣ  na  aj
+སྣག  na  aj  ka
+སྣགས  na  aj  ka
+སྣང  na  aj  ng
+སྣངས  na  aj  ng
+སྣད  na  elaa
+སྣབས  na  aj  pa
+སྣམ  na  aj  ma
+སྣམས  na  aj  ma
+སྣར  na  aw
+སྣལ  na  er
+སྣས  na  elaa
+སྣུད  na  yjaa
+སྣུན  na  yu
+སྣུབ  na  uj  pa
+སྣུབས  na  uj  pa
+སྣུམ  na  uj  ma
+སྣུར  na  uw
+སྣེ  na  ej
+སྣེད  na  ejaa
+སྣེམ  na  ej  ma
+སྣེམས  na  ej  ma
+སྣེས  na  ejaa
+སྣོ  na  oj
+སྣོག  na  oj  ka
+སྣོགས  na  oj  ka
+སྣོད  na  fjaa
+སྣོན  na  fj
+སྣོམ  na  oj  ma
+སྣོམས  na  oj  ma
+སྣོར  na  ow
+སྣོལ  na  fw
+སྣོས  na  fjaa
+བརྣག  na  aj  ka
+བརྣགས  na  aj  ka
+བརྣང  na  aj  ng
+བརྣངས  na  aj  ng
+བརྣན  na  el
+བརྣབ  na  aj  pa
+བརྣབས  na  aj  pa
+བརྣམ  na  aj  ma
+བརྣུ  na  uj
+བརྣུར  na  uw
+བརྣོག  na  oj  ka
+བརྣོགས  na  oj  ka
+བསྣངས  na  aj  ng
+བསྣད  na  elaa
+བསྣན  na  el
+བསྣམ  na  aj  ma
+བསྣམས  na  aj  ma
+བསྣར  na  aw
+བསྣལ  na  er
+བསྣུད  na  yjaa
+བསྣུན  na  yu
+བསྣུབ  na  uj  pa
+བསྣུབས  na  uj  pa
+བསྣུར  na  uw
+བསྣེམ  na  ej  ma
+བསྣེམས  na  ej  ma
+བསྣོ  na  oj
+བསྣོག  na  oj  ka
+བསྣོགས  na  oj  ka
+བསྣོད  na  fjaa
+བསྣོན  na  fj
+བསྣོར  na  ow
+བསྣོལ  na  fw
+བསྣོས  na  fjaa
+པ  pa  aj
+པག  pa  aj  ka
+པགས  pa  aj  ka
+པང  pa  aj  ng
+པངས  pa  aj  ng
+པད  pa  elaa
+པན  pa  el
+པར  pa  aw
+པལ  pa  er
+པས  pa  elaa
+པི  pa  ij
+པིག  pa  ij  ka
+པིང  pa  ij  ng
+པིད  pa  ijaa
+པིན  pa  il
+པིར  pa  iw
+པིས  pa  ijaa
+པུ  pa  uj
+པུག  pa  uj  ka
+པུན  pa  yu
+པུར  pa  uw
+པུས  pa  yjaa
+པེ  pa  ej
+པེང  pa  ej  ng
+པེད  pa  ejaa
+པེན  pa  eu
+པེལ  pa  ew
+པོ  pa  oj
+པོག  pa  oj  ka
+པོད  pa  fjaa
+པོན  pa  fj
+པོར  pa  ow
+པོས  pa  fjaa
+པྲ  td  aj
+པྲག  td  aj  ka
+པྲི  td  ij
+པྲིག  td  ij  ka
+པྲེ  td  ej
+པྲེང  td  ej  ng
+པྲོག  td  oj  ka
+དཔའ  pa  aj
+དཔག  pa  aj  ka
+དཔགས  pa  aj  ka
+དཔང  pa  aj  ng
+དཔངས  pa  aj  ng
+དཔད  pa  elaa
+དཔམ  pa  aj  ma
+དཔར  pa  aw
+དཔལ  pa  er
+དཔས  pa  elaa
+དཔུང  pa  uj  ng
+དཔུར  pa  uw
+དཔུས  pa  yjaa
+དཔེ  pa  ej
+དཔེན  pa  eu
+དཔེར  pa  ew
+དཔེལ  pa  ew
+དཔོག  pa  oj  ka
+དཔོགས  pa  oj  ka
+དཔོང  pa  oj  ng
+དཔོད  pa  fjaa
+དཔོན  pa  fj
+དཔོར  pa  ow
+དཔྱ  tj  aj
+དཔྱང  tj  aj  ng
+དཔྱངས  tj  aj  ng
+དཔྱད  tj  elaa
+དཔྱལ  tj  er
+དཔྱས  tj  elaa
+དཔྱི  tj  ij
+དཔྱིད  tj  ijaa
+དཔྱིས  tj  ijaa
+དཔྱོང  tj  oj  ng
+དཔྱོངས  tj  oj  ng
+དཔྱོད  tj  fjaa
+དཔྱོས  tj  fjaa
+དཔྲག  td  aj  ka
+དཔྲལ  td  er
+དཔྲི  td  ij
+དཔྲུལ  td  yw
+དཔྲེ  td  ej
+དཔྲེས  td  ejaa
+དཔྲོག  td  oj  ka
+ལྤགས  pa  aj  ka
+སྤ  pa  aj
+སྤག  pa  aj  ka
+སྤགས  pa  aj  ka
+སྤང  pa  aj  ng
+སྤངས  pa  aj  ng
+སྤད  pa  elaa
+སྤན  pa  el
+སྤབ  pa  aj  pa
+སྤབས  pa  aj  pa
+སྤམ  pa  aj  ma
+སྤར  pa  aw
+སྤི  pa  ij
+སྤིང  pa  ij  ng
+སྤིན  pa  il
+སྤུ  pa  uj
+སྤུག  pa  uj  ka
+སྤུགས  pa  uj  ka
+སྤུང  pa  uj  ng
+སྤུངས  pa  uj  ng
+སྤུད  pa  yjaa
+སྤུན  pa  yu
+སྤུབ  pa  uj  pa
+སྤུབས  pa  uj  pa
+སྤུར  pa  uw
+སྤུལ  pa  yw
+སྤུས  pa  yjaa
+སྤེ  pa  ej
+སྤེད  pa  ejaa
+སྤེན  pa  eu
+སྤེལ  pa  ew
+སྤོ  pa  oj
+སྤོག  pa  oj  ka
+སྤོགས  pa  oj  ka
+སྤོང  pa  oj  ng
+སྤོངས  pa  oj  ng
+སྤོད  pa  fjaa
+སྤོན  pa  fj
+སྤོབ  pa  oj  pa
+སྤོབས  pa  oj  pa
+སྤོམ  pa  oj  ma
+སྤོར  pa  ow
+སྤོས  pa  fjaa
+སྤྱང  tj  aj  ng
+སྤྱངས  tj  aj  ng
+སྤྱད  tj  elaa
+སྤྱན  tj  el
+སྤྱར  tj  aw
+སྤྱས  tj  elaa
+སྤྱི  tj  ij
+སྤྱིང  tj  ij  ng
+སྤྱིངས  tj  ij  ng
+སྤྱིན  tj  il
+སྤྱིར  tj  iw
+སྤྱིལ  tj  iw
+སྤྱིས  tj  ijaa
+སྤྱུག  tj  uj  ka
+སྤྱུགས  tj  uj  ka
+སྤྱོ  tj  oj
+སྤྱོང  tj  oj  ng
+སྤྱོད  tj  fjaa
+སྤྱོན  tj  fj
+སྤྱོམ  tj  oj  ma
+སྤྱོམས  tj  oj  ma
+སྤྱོར  tj  ow
+སྤྱོས  tj  fjaa
+སྤྲ  td  aj
+སྤྲག  td  aj  ka
+སྤྲགས  td  aj  ka
+སྤྲང  td  aj  ng
+སྤྲད  td  elaa
+སྤྲབས  td  aj  pa
+སྤྲལ  td  er
+སྤྲས  td  elaa
+སྤྲི  td  ij
+སྤྲིང  td  ij  ng
+སྤྲིངས  td  ij  ng
+སྤྲིན  td  il
+སྤྲིབ  td  ij  pa
+སྤྲིབས  td  ij  pa
+སྤྲིས  td  ijaa
+སྤྲུ  td  uj
+སྤྲུག  td  uj  ka
+སྤྲུགས  td  uj  ka
+སྤྲུལ  td  yw
+སྤྲེ  td  ej
+སྤྲེལ  td  ew
+སྤྲོ  td  oj
+སྤྲོག  td  oj  ka
+སྤྲོགས  td  oj  ka
+སྤྲོད  td  fjaa
+སྤྲོམ  td  oj  ma
+སྤྲོས  td  fjaa
+ཕ  ph  aj
+ཕག  ph  aj  ka
+ཕགས  ph  aj  ka
+ཕང  ph  aj  ng
+ཕངས  ph  aj  ng
+ཕད  ph  elaa
+ཕན  ph  el
+ཕབ  ph  aj  pa
+ཕབས  ph  aj  pa
+ཕམ  ph  aj  ma
+ཕར  ph  aw
+ཕལ  ph  er
+ཕས  ph  elaa
+ཕི  ph  ij
+ཕིག  ph  ij  ka
+ཕིགས  ph  ij  ka
+ཕིང  ph  ij  ng
+ཕིན  ph  il
+ཕིབས  ph  ij  pa
+ཕིམ  ph  ij  ma
+ཕིར  ph  iw
+ཕིས  ph  ijaa
+ཕུ  ph  uj
+ཕུག  ph  uj  ka
+ཕུགས  ph  uj  ka
+ཕུང  ph  uj  ng
+ཕུད  ph  yjaa
+ཕུན  ph  yu
+ཕུབ  ph  uj  pa
+ཕུབས  ph  uj  pa
+ཕུམ  ph  uj  ma
+ཕུར  ph  uw
+ཕུལ  ph  yw
+ཕུས  ph  yjaa
+ཕེ  ph  ej
+ཕེག  ph  aj  ka
+ཕེད  ph  ejaa
+ཕེན  ph  eu
+ཕེབ  ph  ej  pa
+ཕེབས  ph  ej  pa
+ཕེར  ph  ew
+ཕེལ  ph  ew
+ཕོ  ph  oj
+ཕོག  ph  oj  ka
+ཕོགས  ph  oj  ka
+ཕོང  ph  oj  ng
+ཕོངས  ph  oj  ng
+ཕོད  ph  fjaa
+ཕོན  ph  fj
+ཕོབ  ph  oj  pa
+ཕོབས  ph  oj  pa
+ཕོམ  ph  oj  ma
+ཕོར  ph  ow
+ཕོལ  ph  fw
+ཕོས  ph  fjaa
+ཕྱ  tq  aj
+ཕྱག  tq  aj  ka
+ཕྱགས  tq  aj  ka
+ཕྱང  tq  aj  ng
+ཕྱད  tq  elaa
+ཕྱམ  tq  aj  ma
+ཕྱར  tq  aw
+ཕྱལ  tq  er
+ཕྱི  tq  ij
+ཕྱིག  tq  ij  ka
+ཕྱིང  tq  ij  ng
+ཕྱིད  tq  ijaa
+ཕྱིན  tq  il
+ཕྱིབས  tq  ij  pa
+ཕྱིམ  tq  ij  ma
+ཕྱིར  tq  iw
+ཕྱིལ  tq  iw
+ཕྱིས  tq  ijaa
+ཕྱུ  tq  uj
+ཕྱུག  tq  uj  ka
+ཕྱུགས  tq  uj  ka
+ཕྱུང  tq  uj  ng
+ཕྱུངས  tq  uj  ng
+ཕྱུབ  tq  uj  pa
+ཕྱུར  tq  uw
+ཕྱེ  tq  ej
+ཕྱེད  tq  ejaa
+ཕྱེན  tq  eu
+ཕྱེམ  tq  ej  ma
+ཕྱེར  tq  ew
+ཕྱེས  tq  ejaa
+ཕྱོ  tq  oj
+ཕྱོགས  tq  oj  ka
+ཕྱོང  tq  oj  ng
+ཕྱོད  tq  fjaa
+ཕྱོར  tq  ow
+ཕྱོལ  tq  fw
+ཕྱྭ  tq  aj
+ཕྲ  tt  aj
+ཕྲག  tt  aj  ka
+ཕྲད  tt  elaa
+ཕྲན  tt  el
+ཕྲབ  tt  aj  pa
+ཕྲལ  tt  er
+ཕྲས  tt  elaa
+ཕྲི  tt  ij
+ཕྲིག  tt  ij  ka
+ཕྲིགས  tt  ij  ka
+ཕྲིན  tt  il
+ཕྲིར  tt  iw
+ཕྲིལ  tt  iw
+ཕྲིས  tt  ijaa
+ཕྲུ  tt  uj
+ཕྲུག  tt  uj  ka
+ཕྲུགས  tt  uj  ka
+ཕྲུམ  tt  uj  ma
+ཕྲུལ  tt  yw
+ཕྲུས  tt  yjaa
+ཕྲེང  tt  ej  ng
+ཕྲེད  tt  ejaa
+ཕྲེལ  tt  ew
+ཕྲེས  tt  ejaa
+ཕྲོ  tt  oj
+ཕྲོག  tt  oj  ka
+ཕྲོགས  tt  oj  ka
+ཕྲོད  tt  fjaa
+ཕྲོབ  tt  oj  pa
+ཕྲོབས  tt  oj  pa
+ཕྲོམ  tt  oj  ma
+ཕྲོལ  tt  fw
+ཕྲོས  tt  fjaa
+འཕག  ph  aj  ka
+འཕགས  ph  aj  ka
+འཕང  ph  aj  ng
+འཕངས  ph  aj  ng
+འཕན  ph  el
+འཕབ  ph  aj  pa
+འཕམ  ph  aj  ma
+འཕར  ph  aw
+འཕལ  ph  er
+འཕིག  ph  ij  ka
+འཕིགས  ph  ij  ka
+འཕིབ  ph  ij  pa
+འཕིབས  ph  ij  pa
+འཕིར  ph  iw
+འཕུག  ph  uj  ka
+འཕུགས  ph  uj  ka
+འཕུང  ph  uj  ng
+འཕུངས  ph  uj  ng
+འཕུད  ph  yjaa
+འཕུབ  ph  uj  pa
+འཕུར  ph  uw
+འཕུལ  ph  yw
+འཕེན  ph  eu
+འཕེར  ph  ew
+འཕེལ  ph  ew
+འཕོ  ph  oj
+འཕོག  ph  oj  ka
+འཕོགས  ph  oj  ka
+འཕོང  ph  oj  ng
+འཕོངས  ph  oj  ng
+འཕོད  ph  fjaa
+འཕོབ  ph  oj  pa
+འཕོས  ph  fjaa
+འཕྱ  tq  aj
+འཕྱག  tq  aj  ka
+འཕྱགས  tq  aj  ka
+འཕྱང  tq  aj  ng
+འཕྱངས  tq  aj  ng
+འཕྱད  tq  elaa
+འཕྱན  tq  el
+འཕྱམ  tq  aj  ma
+འཕྱར  tq  aw
+འཕྱས  tq  elaa
+འཕྱི  tq  ij
+འཕྱིང  tq  ij  ng
+འཕྱིངས  tq  ij  ng
+འཕྱིད  tq  ijaa
+འཕྱིལ  tq  iw
+འཕྱིས  tq  ijaa
+འཕྱུག  tq  uj  ka
+འཕྱུགས  tq  uj  ka
+འཕྱུར  tq  uw
+འཕྱེ  tq  ej
+འཕྱེན  tq  eu
+འཕྱེས  tq  ejaa
+འཕྱོ  tq  oj
+འཕྱོག  tq  oj  ka
+འཕྱོགས  tq  oj  ka
+འཕྱོང  tq  oj  ng
+འཕྱོངས  tq  oj  ng
+འཕྱོན  tq  fj
+འཕྱོར  tq  ow
+འཕྱོས  tq  fjaa
+འཕྲ  tt  aj
+འཕྲག  tt  aj  ka
+འཕྲང  tt  aj  ng
+འཕྲད  tt  elaa
+འཕྲལ  tt  er
+འཕྲས  tt  elaa
+འཕྲི  tt  ij
+འཕྲིག  tt  ij  ka
+འཕྲིགས  tt  ij  ka
+འཕྲིང  tt  ij  ng
+འཕྲིན  tt  il
+འཕྲུ  tt  uj
+འཕྲུག  tt  uj  ka
+འཕྲུགས  tt  uj  ka
+འཕྲུལ  tt  yw
+འཕྲེང  tt  ej  ng
+འཕྲེངས  tt  ej  ng
+འཕྲེད  tt  ejaa
+འཕྲེས  tt  ejaa
+འཕྲོ  tt  oj
+འཕྲོག  tt  oj  ka
+འཕྲོགས  tt  oj  ka
+འཕྲོད  tt  fjaa
+འཕྲོར  tt  ow
+འཕྲོལ  tt  fw
+འཕྲོས  tt  fjaa
+བ  ph  aj
+བག  ph  aj  ka
+བགས  ph  aj  ka
+བང  ph  aj  ng
+བངས  ph  aj  ng
+བད  ph  elaa
+བན  ph  el
+བབ  ph  aj  pa
+བབས  ph  aj  pa
+བམ  ph  aj  ma
+བར  ph  aw
+བལ  ph  er
+བས  ph  elaa
+བི  ph  ij
+བིག  ph  ij  ka
+བིང  ph  ij  ng
+བིད  ph  ijaa
+བིན  ph  il
+བིམ  ph  ij  ma
+བིར  ph  iw
+བིལ  ph  iw
+བུ  ph  uj
+བུག  ph  uj  ka
+བུགས  ph  uj  ka
+བུང  ph  uj  ng
+བུངས  ph  uj  ng
+བུད  ph  yjaa
+བུན  ph  yu
+བུབ  ph  uj  pa
+བུབས  ph  uj  pa
+བུམ  ph  uj  ma
+བུར  ph  uw
+བུལ  ph  yw
+བུས  ph  yjaa
+བེ  ph  ej
+བེག  ph  aj  ka
+བེང  ph  ej  ng
+བེད  ph  ejaa
+བེན  ph  eu
+བེམ  ph  ej  ma
+བེམས  ph  ej  ma
+བེར  ph  ew
+བེལ  ph  ew
+བེས  ph  ejaa
+བོ  ph  oj
+བོག  ph  oj  ka
+བོགས  ph  oj  ka
+བོང  ph  oj  ng
+བོངས  ph  oj  ng
+བོད  ph  fjaa
+བོན  ph  fj
+བོབ  ph  oj  pa
+བོབས  ph  oj  pa
+བོར  ph  ow
+བོལ  ph  fw
+བོས  ph  fjaa
+བྱ  tq  aj
+བྱག  tq  aj  ka
+བྱང  tq  aj  ng
+བྱད  tq  elaa
+བྱན  tq  el
+བྱབ  tq  aj  pa
+བྱབས  tq  aj  pa
+བྱམ  tq  aj  ma
+བྱམས  tq  aj  ma
+བྱར  tq  aw
+བྱས  tq  elaa
+བྱི  tq  ij
+བྱིང  tq  ij  ng
+བྱིངས  tq  ij  ng
+བྱིད  tq  ijaa
+བྱིན  tq  il
+བྱིབ  tq  ij  pa
+བྱིབས  tq  ij  pa
+བྱིལ  tq  iw
+བྱིས  tq  ijaa
+བྱུ  tq  uj
+བྱུག  tq  uj  ka
+བྱུགས  tq  uj  ka
+བྱུང  tq  uj  ng
+བྱུར  tq  uw
+བྱུལ  tq  yw
+བྱུས  tq  yjaa
+བྱེ  tq  ej
+བྱེད  tq  ejaa
+བྱེར  tq  ew
+བྱེལ  tq  ew
+བྱེས  tq  ejaa
+བྱོ  tq  oj
+བྱོགས  tq  oj  ka
+བྱོང  tq  oj  ng
+བྱོན  tq  fj
+བྱོབས  tq  oj  pa
+བྱོལ  tq  fw
+བྱོས  tq  fjaa
+བྲ  td  aj
+བྲག  td  aj  ka
+བྲགས  td  aj  ka
+བྲང  td  aj  ng
+བྲད  td  elaa
+བྲན  td  el
+བྲབ  td  aj  pa
+བྲབས  td  aj  pa
+བྲམ  td  aj  ma
+བྲལ  td  er
+བྲི  td  ij
+བྲིག  td  ij  ka
+བྲིང  td  ij  ng
+བྲིད  td  ijaa
+བྲིན  td  il
+བྲིམ  td  ij  ma
+བྲིམས  td  ij  ma
+བྲིས  td  ijaa
+བྲུ  td  uj
+བྲུག  td  uj  ka
+བྲུངས  td  uj  ng
+བྲུད  td  yjaa
+བྲུན  td  yu
+བྲུབ  td  uj  pa
+བྲུབས  td  uj  pa
+བྲུལ  td  yw
+བྲུས  td  yjaa
+བྲེ  td  ej
+བྲེག  td  aj  ka
+བྲེགས  td  aj  ka
+བྲེང  td  ej  ng
+བྲེད  td  ejaa
+བྲེལ  td  ew
+བྲེས  td  ejaa
+བྲོ  td  oj
+བྲོག  td  oj  ka
+བྲོགས  td  oj  ka
+བྲོད  td  fjaa
+བྲོན  td  fj
+བྲོབ  td  oj  pa
+བྲོབས  td  oj  pa
+བྲོམ  td  oj  ma
+བྲོལ  td  fw
+བྲོས  td  fjaa
+བླ  la  aj
+བླག  la  aj  ka
+བླགས  la  aj  ka
+བླང  la  aj  ng
+བླངས  la  aj  ng
+བླད  la  elaa
+བླན  la  el
+བླས  la  elaa
+བླུ  la  uj
+བླུག  la  uj  ka
+བླུགས  la  uj  ka
+བླུད  la  yjaa
+བླུན  la  yu
+བླུས  la  yjaa
+བླེམ  la  ej  ma
+བླེས  la  ejaa
+བློ  la  oj
+བློག  la  oj  ka
+བློགས  la  oj  ka
+བློང  la  oj  ng
+བློད  la  fjaa
+བློན  la  fj
+བློར  la  ow
+བློས  la  fjaa
+དབའ  wa  aj
+དབག  wa  aj  ka
+དབགས  wa  aj  ka
+དབང  wa  aj  ng
+དབད  wa  elaa
+དབན  wa  el
+དབབ  wa  aj  pa
+དབབས  wa  aj  pa
+དབར  wa  aw
+དབལ  wa  er
+དབས  wa  elaa
+དབུ  wa  uj
+དབུག  wa  uj  ka
+དབུགས  wa  uj  ka
+དབུང  wa  uj  ng
+དབུད  wa  yjaa
+དབུབ  wa  uj  pa
+དབུབས  wa  uj  pa
+དབུར  wa  uw
+དབུལ  wa  yw
+དབུས  wa  yjaa
+དབེན  wa  eu
+དབོ  wa  oj
+དབོག  wa  oj  ka
+དབོན  wa  fj
+དབོར  wa  ow
+དབོལ  wa  fw
+དབོས  wa  fjaa
+དབྱག  ja  aj  ka
+དབྱང  ja  aj  ng
+དབྱངས  ja  aj  ng
+དབྱར  ja  aw
+དབྱི  ja  ij
+དབྱིག  ja  ij  ka
+དབྱིངས  ja  ij  ng
+དབྱིན  ja  il
+དབྱིབ  ja  ij  pa
+དབྱིབས  ja  ij  pa
+དབྱིས  ja  ijaa
+དབྱུ  ja  uj
+དབྱུག  ja  uj  ka
+དབྱུགས  ja  uj  ka
+དབྱུང  ja  uj  ng
+དབྱུལ  ja  yw
+དབྱེ  ja  ej
+དབྱེན  ja  eu
+དབྱེར  ja  ew
+དབྱེལ  ja  ew
+དབྱེས  ja  ejaa
+དབྲ  ra  aj
+དབྲག  ra  aj  ka
+དབྲད  ra  elaa
+དབྲབ  ra  aj  pa
+དབྲལ  ra  er
+དབྲས  ra  elaa
+དབྲི  ra  ij
+དབྲིལ  ra  iw
+དབྲེ  ra  ej
+དབྲེས  ra  ejaa
+དབྲོག  ra  oj  ka
+དབྲོལ  ra  fw
+འབའ  pa  aj
+འབག  pa  aj  ka
+འབགས  pa  aj  ka
+འབང  pa  aj  ng
+འབངས  pa  aj  ng
+འབད  pa  elaa
+འབན  pa  el
+འབབ  pa  aj  pa
+འབབས  pa  aj  pa
+འབམ  pa  aj  ma
+འབར  pa  aw
+འབལ  pa  er
+འབས  pa  elaa
+འབི  pa  ij
+འབིག  pa  ij  ka
+འབིགས  pa  ij  ka
+འབིབ  pa  ij  pa
+འབིབས  pa  ij  pa
+འབུ  pa  uj
+འབུག  pa  uj  ka
+འབུགས  pa  uj  ka
+འབུང  pa  uj  ng
+འབུངས  pa  uj  ng
+འབུད  pa  yjaa
+འབུན  pa  yu
+འབུབ  pa  uj  pa
+འབུབས  pa  uj  pa
+འབུམ  pa  uj  ma
+འབུར  pa  uw
+འབུལ  pa  yw
+འབུས  pa  yjaa
+འབེ  pa  ej
+འབེག  pa  aj  ka
+འབེན  pa  eu
+འབེབ  pa  ej  pa
+འབེབས  pa  ej  pa
+འབེམ  pa  ej  ma
+འབེར  pa  ew
+འབེལ  pa  ew
+འབོ  pa  oj
+འབོག  pa  oj  ka
+འབོགས  pa  oj  ka
+འབོང  pa  oj  ng
+འབོངས  pa  oj  ng
+འབོད  pa  fjaa
+འབོབ  pa  oj  pa
+འབོམ  pa  oj  ma
+འབོར  pa  ow
+འབོལ  pa  fw
+འབོས  pa  fjaa
+འབྱང  tj  aj  ng
+འབྱངས  tj  aj  ng
+འབྱམ  tj  aj  ma
+འབྱམས  tj  aj  ma
+འབྱར  tj  aw
+འབྱལ  tj  er
+འབྱི  tj  ij
+འབྱིང  tj  ij  ng
+འབྱིངས  tj  ij  ng
+འབྱིད  tj  ijaa
+འབྱིན  tj  il
+འབྱིབ  tj  ij  pa
+འབྱིལ  tj  iw
+འབྱུ  tj  uj
+འབྱུག  tj  uj  ka
+འབྱུང  tj  uj  ng
+འབྱུར  tj  uw
+འབྱེ  tj  ej
+འབྱེད  tj  ejaa
+འབྱེན  tj  eu
+འབྱེར  tj  ew
+འབྱེས  tj  ejaa
+འབྱོ  tj  oj
+འབྱོག  tj  oj  ka
+འབྱོགས  tj  oj  ka
+འབྱོང  tj  oj  ng
+འབྱོངས  tj  oj  ng
+འབྱོན  tj  fj
+འབྱོར  tj  ow
+འབྱོལ  tj  fw
+འབྲ  td  aj
+འབྲག  td  aj  ka
+འབྲང  td  aj  ng
+འབྲངས  td  aj  ng
+འབྲད  td  elaa
+འབྲན  td  el
+འབྲབ  td  aj  pa
+འབྲམ  td  aj  ma
+འབྲལ  td  er
+འབྲས  td  elaa
+འབྲི  td  ij
+འབྲིང  td  ij  ng
+འབྲིད  td  ijaa
+འབྲིམ  td  ij  ma
+འབྲིམས  td  ij  ma
+འབྲུ  td  uj
+འབྲུག  td  uj  ka
+འབྲུད  td  yjaa
+འབྲུབ  td  uj  pa
+འབྲུབས  td  uj  pa
+འབྲུམ  td  uj  ma
+འབྲུལ  td  yw
+འབྲུས  td  yjaa
+འབྲེ  td  ej
+འབྲེག  td  aj  ka
+འབྲེགས  td  aj  ka
+འབྲེང  td  ej  ng
+འབྲེངས  td  ej  ng
+འབྲེད  td  ejaa
+འབྲེལ  td  ew
+འབྲོ  td  oj
+འབྲོག  td  oj  ka
+འབྲོང  td  oj  ng
+འབྲོངས  td  oj  ng
+འབྲོབ  td  oj  pa
+འབྲོམ  td  oj  ma
+འབྲོས  td  fjaa
+རྦ  pa  aj
+རྦག  pa  aj  ka
+རྦང  pa  aj  ng
+རྦད  pa  elaa
+རྦབ  pa  aj  pa
+རྦོ  pa  oj
+རྦོད  pa  fjaa
+རྦོས  pa  fjaa
+ལྦ  pa  aj
+ལྦང  pa  aj  ng
+ལྦལ  pa  er
+ལྦུ  pa  uj
+ལྦོ  pa  oj
+ལྦོས  pa  fjaa
+སྦ  pa  aj
+སྦག  pa  aj  ka
+སྦགས  pa  aj  ka
+སྦང  pa  aj  ng
+སྦངས  pa  aj  ng
+སྦན  pa  el
+སྦབ  pa  aj  pa
+སྦབས  pa  aj  pa
+སྦམ  pa  aj  ma
+སྦམས  pa  aj  ma
+སྦར  pa  aw
+སྦལ  pa  er
+སྦས  pa  elaa
+སྦི  pa  ij
+སྦིད  pa  ijaa
+སྦིན  pa  il
+སྦིབ  pa  ij  pa
+སྦིར  pa  iw
+སྦུ  pa  uj
+སྦུག  pa  uj  ka
+སྦུགས  pa  uj  ka
+སྦུང  pa  uj  ng
+སྦུངས  pa  uj  ng
+སྦུད  pa  yjaa
+སྦུན  pa  yu
+སྦུབ  pa  uj  pa
+སྦུབས  pa  uj  pa
+སྦུར  pa  uw
+སྦུས  pa  yjaa
+སྦེ  pa  ej
+སྦེག  pa  aj  ka
+སྦེངས  pa  ej  ng
+སྦེད  pa  ejaa
+སྦེན  pa  eu
+སྦེབ  pa  ej  pa
+སྦེབས  pa  ej  pa
+སྦེར  pa  ew
+སྦོ  pa  oj
+སྦོག  pa  oj  ka
+སྦོགས  pa  oj  ka
+སྦོང  pa  oj  ng
+སྦོངས  pa  oj  ng
+སྦོད  pa  fjaa
+སྦོན  pa  fj
+སྦོམ  pa  oj  ma
+སྦོམས  pa  oj  ma
+སྦོར  pa  ow
+སྦོལ  pa  fw
+སྦོས  pa  fjaa
+སྦྱག  tj  aj  ka
+སྦྱགས  tj  aj  ka
+སྦྱང  tj  aj  ng
+སྦྱངས  tj  aj  ng
+སྦྱར  tj  aw
+སྦྱི  tj  ij
+སྦྱིག  tj  ij  ka
+སྦྱིགས  tj  ij  ka
+སྦྱིན  tj  il
+སྦྱིབས  tj  ij  pa
+སྦྱིལ  tj  iw
+སྦྱོང  tj  oj  ng
+སྦྱོངས  tj  oj  ng
+སྦྱོད  tj  fjaa
+སྦྱོར  tj  ow
+སྦྲ  td  aj
+སྦྲག  td  aj  ka
+སྦྲགས  td  aj  ka
+སྦྲང  td  aj  ng
+སྦྲད  td  elaa
+སྦྲན  td  el
+སྦྲབས  td  aj  pa
+སྦྲམ  td  aj  ma
+སྦྲིད  td  ijaa
+སྦྲིབས  td  ij  pa
+སྦྲིས  td  ijaa
+སྦྲུ  td  uj
+སྦྲུག  td  uj  ka
+སྦྲུད  td  yjaa
+སྦྲུན  td  yu
+སྦྲུབས  td  uj  pa
+སྦྲུམ  td  uj  ma
+སྦྲུལ  td  yw
+སྦྲུས  td  yjaa
+སྦྲེ  td  ej
+སྦྲེག  td  aj  ka
+སྦྲེང  td  ej  ng
+སྦྲེངས  td  ej  ng
+སྦྲེད  td  ejaa
+སྦྲེབས  td  ej  pa
+སྦྲེལ  td  ew
+སྦྲེས  td  ejaa
+སྦྲོག  td  oj  ka
+སྦྲོགས  td  oj  ka
+སྦྲོན  td  fj
+མ  ma  aj
+མག  ma  aj  ka
+མང  ma  aj  ng
+མད  ma  elaa
+མན  ma  el
+མམ  ma  aj  ma
+མར  ma  aw
+མལ  ma  er
+མས  ma  elaa
+མི  ma  ij
+མིག  ma  ij  ka
+མིང  ma  ij  ng
+མིད  ma  ijaa
+མིན  ma  il
+མིར  ma  iw
+མིས  ma  ijaa
+མུ  ma  uj
+མུག  ma  uj  ka
+མུང  ma  uj  ng
+མུད  ma  yjaa
+མུན  ma  yu
+མུར  ma  uw
+མུལ  ma  yw
+མུས  ma  yjaa
+མེ  ma  ej
+མེད  ma  ejaa
+མེན  ma  eu
+མེར  ma  ew
+མེལ  ma  ew
+མེས  ma  ejaa
+མོ  ma  oj
+མོག  ma  oj  ka
+མོང  ma  oj  ng
+མོངས  ma  oj  ng
+མོད  ma  fjaa
+མོན  ma  fj
+མོར  ma  ow
+མོལ  ma  fw
+མོས  ma  fjaa
+མྱག  nn  aj  ka
+མྱགས  nn  aj  ka
+མྱང  nn  aj  ng
+མྱངས  nn  aj  ng
+མྱན  nn  el
+མྱི  nn  ij
+མྱིག  nn  ij  ka
+མྱིང  nn  ij  ng
+མྱིད  nn  ijaa
+མྱིན  nn  il
+མྱུ  nn  uj
+མྱུག  nn  uj  ka
+མྱུགས  nn  uj  ka
+མྱུར  nn  uw
+མྱུལ  nn  yw
+མྱེ  nn  ej
+མྱེད  nn  ejaa
+མྱེས  nn  ejaa
+མྱོག  nn  oj  ka
+མྱོགས  nn  oj  ka
+མྱོང  nn  oj  ng
+མྱོངས  nn  oj  ng
+མྱོན  nn  fj
+མྱོས  nn  fjaa
+དམའ  ma  aj
+དམག  ma  aj  ka
+དམངས  ma  aj  ng
+དམད  ma  elaa
+དམན  ma  el
+དམར  ma  aw
+དམས  ma  elaa
+དམིག  ma  ij  ka
+དམིགས  ma  ij  ka
+དམུ  ma  uj
+དམུག  ma  uj  ka
+དམུན  ma  yu
+དམུར  ma  uw
+དམུལ  ma  yw
+དམུས  ma  yjaa
+དམེ  ma  ej
+དམེའ  ma  ej
+དམེར  ma  ew
+དམོད  ma  fjaa
+དམོན  ma  fj
+དམོར  ma  ow
+དམྱག  nn  aj  ka
+དམྱལ  nn  er
+དམྱིག  nn  ij  ka
+དམྱིགས  nn  ij  ka
+དམྱུག  nn  uj  ka
+དམྱུགས  nn  uj  ka
+དམྱེ  nn  ej
+རྨ  ma  aj
+རྨག  ma  aj  ka
+རྨང  ma  aj  ng
+རྨངས  ma  aj  ng
+རྨད  ma  elaa
+རྨན  ma  el
+རྨམ  ma  aj  ma
+རྨས  ma  elaa
+རྨི  ma  ij
+རྨིག  ma  ij  ka
+རྨིགས  ma  ij  ka
+རྨིས  ma  ijaa
+རྨུ  ma  uj
+རྨུག  ma  uj  ka
+རྨུགས  ma  uj  ka
+རྨུན  ma  yu
+རྨུར  ma  uw
+རྨུས  ma  yjaa
+རྨེ  ma  ej
+རྨེག  ma  aj  ka
+རྨེད  ma  ejaa
+རྨེན  ma  eu
+རྨེལ  ma  ew
+རྨེས  ma  ejaa
+རྨོ  ma  oj
+རྨོག  ma  oj  ka
+རྨོང  ma  oj  ng
+རྨོངས  ma  oj  ng
+རྨོད  ma  fjaa
+རྨོན  ma  fj
+རྨོར  ma  ow
+རྨོལ  ma  fw
+རྨོས  ma  fjaa
+རྨྱ  nn  aj
+རྨྱང  nn  aj  ng
+རྨྱངས  nn  aj  ng
+རྨྱི  nn  ij
+རྨྱེ  nn  ej
+རྨྱོང  nn  oj  ng
+རྨྱོངས  nn  oj  ng
+སྨ  ma  aj
+སྨག  ma  aj  ka
+སྨང  ma  aj  ng
+སྨད  ma  elaa
+སྨན  ma  el
+སྨར  ma  aw
+སྨལ  ma  er
+སྨས  ma  elaa
+སྨི  ma  ij
+སྨིག  ma  ij  ka
+སྨིན  ma  il
+སྨིར  ma  iw
+སྨུ  ma  uj
+སྨུག  ma  uj  ka
+སྨུགས  ma  uj  ka
+སྨུན  ma  yu
+སྨེ  ma  ej
+སྨེག  ma  aj  ka
+སྨེང  ma  ej  ng
+སྨེད  ma  ejaa
+སྨེན  ma  eu
+སྨེལ  ma  ew
+སྨེས  ma  ejaa
+སྨོག  ma  oj  ka
+སྨོངས  ma  oj  ng
+སྨོད  ma  fjaa
+སྨོན  ma  fj
+སྨོས  ma  fjaa
+སྨྱག  nn  aj  ka
+སྨྱགས  nn  aj  ka
+སྨྱང  nn  aj  ng
+སྨྱན  nn  el
+སྨྱར  nn  aw
+སྨྱི  nn  ij
+སྨྱིག  nn  ij  ka
+སྨྱིན  nn  il
+སྨྱུ  nn  uj
+སྨྱུག  nn  uj  ka
+སྨྱུགས  nn  uj  ka
+སྨྱུང  nn  uj  ng
+སྨྱུངས  nn  uj  ng
+སྨྱུན  nn  yu
+སྨྱུར  nn  uw
+སྨྱེ  nn  ej
+སྨྱེང  nn  ej  ng
+སྨྱེན  nn  eu
+སྨྱོ  nn  oj
+སྨྱོག  nn  oj  ka
+སྨྱོང  nn  oj  ng
+སྨྱོན  nn  fj
+སྨྱོས  nn  fjaa
+སྨྲ  ma  aj
+སྨྲག  ma  aj  ka
+སྨྲང  ma  aj  ng
+སྨྲས  ma  elaa
+སྨྲིག  ma  ij  ka
+སྨྲེ  ma  ej
+སྨྲེག  ma  aj  ka
+སྨྲེང  ma  ej  ng
+སྨྲོས  ma  fjaa
+ཙ  ts  aj
+ཙག  ts  aj  ka
+ཙང  ts  aj  ng
+ཙད  ts  elaa
+ཙན  ts  el
+ཙབ  ts  aj  pa
+ཙབས  ts  aj  pa
+ཙམ  ts  aj  ma
+ཙར  ts  aw
+ཙི  ts  ij
+ཙིག  ts  ij  ka
+ཙིད  ts  ijaa
+ཙིན  ts  il
+ཙིམ  ts  ij  ma
+ཙིར  ts  iw
+ཙིས  ts  ijaa
+ཙུ  ts  uj
+ཙུག  ts  uj  ka
+ཙུགས  ts  uj  ka
+ཙུང  ts  uj  ng
+ཙུན  ts  yu
+ཙུབ  ts  uj  pa
+ཙུམ  ts  uj  ma
+ཙེ  ts  ej
+ཙེག  ts  aj  ka
+ཙེན  ts  eu
+ཙེམ  ts  ej  ma
+ཙེར  ts  ew
+ཙེལ  ts  ew
+ཙོ  ts  oj
+ཙོག  ts  oj  ka
+ཙོང  ts  oj  ng
+ཙོབ  ts  oj  pa
+ཙོམ  ts  oj  ma
+ཙོར  ts  ow
+གཙའ  ts  aj
+གཙག  ts  aj  ka
+གཙགས  ts  aj  ka
+གཙང  ts  aj  ng
+གཙབ  ts  aj  pa
+གཙབས  ts  aj  pa
+གཙི  ts  ij
+གཙིག  ts  ij  ka
+གཙིགས  ts  ij  ka
+གཙིར  ts  iw
+གཙིས  ts  ijaa
+གཙུག  ts  uj  ka
+གཙུགས  ts  uj  ka
+གཙུབ  ts  uj  pa
+གཙུབས  ts  uj  pa
+གཙེ  ts  ej
+གཙེགས  ts  aj  ka
+གཙེད  ts  ejaa
+གཙེར  ts  ew
+གཙེས  ts  ejaa
+གཙོ  ts  oj
+གཙོག  ts  oj  ka
+གཙོགས  ts  oj  ka
+གཙོད  ts  fjaa
+གཙོབས  ts  oj  pa
+གཙོར  ts  ow
+གཙོས  ts  fjaa
+བཙའ  ts  aj
+བཙག  ts  aj  ka
+བཙགས  ts  aj  ka
+བཙང  ts  aj  ng
+བཙངས  ts  aj  ng
+བཙད  ts  elaa
+བཙན  ts  el
+བཙབ  ts  aj  pa
+བཙབས  ts  aj  pa
+བཙམ  ts  aj  ma
+བཙམས  ts  aj  ma
+བཙལ  ts  er
+བཙལད  ts  er
+བཙས  ts  elaa
+བཙིར  ts  iw
+བཙུག  ts  uj  ka
+བཙུགས  ts  uj  ka
+བཙུད  ts  yjaa
+བཙུན  ts  yu
+བཙུབ  ts  uj  pa
+བཙུམ  ts  uj  ma
+བཙུམས  ts  uj  ma
+བཙེམ  ts  ej  ma
+བཙེམས  ts  ej  ma
+བཙེས  ts  ejaa
+བཙོ  ts  oj
+བཙོག  ts  oj  ka
+བཙོགས  ts  oj  ka
+བཙོང  ts  oj  ng
+བཙོངས  ts  oj  ng
+བཙོད  ts  fjaa
+བཙོན  ts  fj
+བཙོས  ts  fjaa
+རྩ  ts  aj
+རྩག  ts  aj  ka
+རྩང  ts  aj  ng
+རྩངས  ts  aj  ng
+རྩད  ts  elaa
+རྩན  ts  el
+རྩབ  ts  aj  pa
+རྩབས  ts  aj  pa
+རྩམ  ts  aj  ma
+རྩར  ts  aw
+རྩལ  ts  er
+རྩས  ts  elaa
+རྩི  ts  ij
+རྩིག  ts  ij  ka
+རྩིགས  ts  ij  ka
+རྩིང  ts  ij  ng
+རྩིད  ts  ijaa
+རྩིབ  ts  ij  pa
+རྩིབས  ts  ij  pa
+རྩིར  ts  iw
+རྩིས  ts  ijaa
+རྩུབ  ts  uj  pa
+རྩེ  ts  ej
+རྩེག  ts  aj  ka
+རྩེགས  ts  aj  ka
+རྩེང  ts  ej  ng
+རྩེངས  ts  ej  ng
+རྩེད  ts  ejaa
+རྩེན  ts  eu
+རྩེབ  ts  ej  pa
+རྩེབས  ts  ej  pa
+རྩེར  ts  ew
+རྩེལ  ts  ew
+རྩེས  ts  ejaa
+རྩོག  ts  oj  ka
+རྩོགས  ts  oj  ka
+རྩོང  ts  oj  ng
+རྩོངས  ts  oj  ng
+རྩོད  ts  fjaa
+རྩོན  ts  fj
+རྩོབ  ts  oj  pa
+རྩོམ  ts  oj  ma
+རྩོམས  ts  oj  ma
+རྩོལ  ts  fw
+ཙྭ  ts  aj
+སྩང  ts  aj  ng
+སྩལ  ts  er
+སྩེལ  ts  ew
+སྩོ  ts  oj
+སྩོགས  ts  oj  ka
+སྩོང  ts  oj  ng
+སྩོལ  ts  fw
+བརྩག  ts  aj  ka
+བརྩགས  ts  aj  ka
+བརྩང  ts  aj  ng
+བརྩངས  ts  aj  ng
+བརྩད  ts  elaa
+བརྩན  ts  el
+བརྩམ  ts  aj  ma
+བརྩམས  ts  aj  ma
+བརྩལ  ts  er
+བརྩས  ts  elaa
+བརྩི  ts  ij
+བརྩིག  ts  ij  ka
+བརྩིགས  ts  ij  ka
+བརྩིང  ts  ij  ng
+བརྩིངས  ts  ij  ng
+བརྩིས  ts  ijaa
+བརྩུ  ts  uj
+བརྩུས  ts  yjaa
+བརྩེ  ts  ej
+བརྩེག  ts  aj  ka
+བརྩེགས  ts  aj  ka
+བརྩེང  ts  ej  ng
+བརྩེངས  ts  ej  ng
+བརྩེད  ts  ejaa
+བརྩེབ  ts  ej  pa
+བརྩེས  ts  ejaa
+བརྩོག  ts  oj  ka
+བརྩོགས  ts  oj  ka
+བརྩོན  ts  fj
+བསྩགས  ts  aj  ka
+བསྩངས  ts  aj  ng
+བསྩལ  ts  er
+བསྩུ  ts  uj
+ཚ  tc  aj
+ཚག  tc  aj  ka
+ཚགས  tc  aj  ka
+ཚང  tc  aj  ng
+ཚངས  tc  aj  ng
+ཚད  tc  elaa
+ཚན  tc  el
+ཚབ  tc  aj  pa
+ཚབས  tc  aj  pa
+ཚམ  tc  aj  ma
+ཚམས  tc  aj  ma
+ཚར  tc  aw
+ཚལ  tc  er
+ཚས  tc  elaa
+ཚི  tc  ij
+ཚིག  tc  ij  ka
+ཚིགས  tc  ij  ka
+ཚིང  tc  ij  ng
+ཚིམ  tc  ij  ma
+ཚིམས  tc  ij  ma
+ཚིར  tc  iw
+ཚིལ  tc  iw
+ཚིས  tc  ijaa
+ཚུ  tc  uj
+ཚུག  tc  uj  ka
+ཚུགས  tc  uj  ka
+ཚུད  tc  yjaa
+ཚུན  tc  yu
+ཚུབ  tc  uj  pa
+ཚུམ  tc  uj  ma
+ཚུམས  tc  uj  ma
+ཚུར  tc  uw
+ཚུལ  tc  yw
+ཚུས  tc  yjaa
+ཚེ  tc  ej
+ཚེག  tc  aj  ka
+ཚེགས  tc  aj  ka
+ཚེངས  tc  ej  ng
+ཚེད  tc  ejaa
+ཚེན  tc  eu
+ཚེབ  tc  ej  pa
+ཚེམ  tc  ej  ma
+ཚེམས  tc  ej  ma
+ཚེར  tc  ew
+ཚེས  tc  ejaa
+ཚོ  tc  oj
+ཚོགས  tc  oj  ka
+ཚོང  tc  oj  ng
+ཚོངས  tc  oj  ng
+ཚོད  tc  fjaa
+ཚོན  tc  fj
+ཚོབས  tc  oj  pa
+ཚོམ  tc  oj  ma
+ཚོམས  tc  oj  ma
+ཚོར  tc  ow
+ཚོལ  tc  fw
+ཚོས  tc  fjaa
+ཚྭ  tc  aj
+མཚའ  tc  aj
+མཚག  tc  aj  ka
+མཚགས  tc  aj  ka
+མཚང  tc  aj  ng
+མཚན  tc  el
+མཚམས  tc  aj  ma
+མཚར  tc  aw
+མཚལ  tc  er
+མཚུངས  tc  uj  ng
+མཚུན  tc  yu
+མཚུར  tc  uw
+མཚུལ  tc  yw
+མཚེ  tc  ej
+མཚེད  tc  ejaa
+མཚེར  tc  ew
+མཚེས  tc  ejaa
+མཚོ  tc  oj
+མཚོག  tc  oj  ka
+མཚོང  tc  oj  ng
+མཚོངས  tc  oj  ng
+མཚོད  tc  fjaa
+མཚོན  tc  fj
+མཚོར  tc  ow
+མཚོས  tc  fjaa
+འཚའ  tc  aj
+འཚག  tc  aj  ka
+འཚགས  tc  aj  ka
+འཚང  tc  aj  ng
+འཚངས  tc  aj  ng
+འཚབ  tc  aj  pa
+འཚབས  tc  aj  pa
+འཚམ  tc  aj  ma
+འཚམས  tc  aj  ma
+འཚར  tc  aw
+འཚལ  tc  er
+འཚས  tc  elaa
+འཚིག  tc  ij  ka
+འཚིགས  tc  ij  ka
+འཚིང  tc  ij  ng
+འཚིར  tc  iw
+འཚིས  tc  ijaa
+འཚུག  tc  uj  ka
+འཚུགས  tc  uj  ka
+འཚུད  tc  yjaa
+འཚུབ  tc  uj  pa
+འཚུབས  tc  uj  pa
+འཚུམ  tc  uj  ma
+འཚུམས  tc  uj  ma
+འཚུར  tc  uw
+འཚུལ  tc  yw
+འཚུས  tc  yjaa
+འཚེ  tc  ej
+འཚེག  tc  aj  ka
+འཚེང  tc  ej  ng
+འཚེངས  tc  ej  ng
+འཚེད  tc  ejaa
+འཚེམ  tc  ej  ma
+འཚེམས  tc  ej  ma
+འཚེར  tc  ew
+འཚེལ  tc  ew
+འཚེས  tc  ejaa
+འཚོ  tc  oj
+འཚོག  tc  oj  ka
+འཚོགས  tc  oj  ka
+འཚོང  tc  oj  ng
+འཚོངས  tc  oj  ng
+འཚོད  tc  fjaa
+འཚོབ  tc  oj  pa
+འཚོབས  tc  oj  pa
+འཚོམས  tc  oj  ma
+འཚོར  tc  ow
+འཚོལ  tc  fw
+འཚོས  tc  fjaa
+ཛ  tc  aj
+ཛམ  tc  aj  ma
+ཛར  tc  aw
+ཛལ  tc  er
+ཛི  tc  ij
+ཛིག  tc  ij  ka
+ཛིར  tc  iw
+ཛིས  tc  ijaa
+ཛེ  tc  ej
+ཛོ  tc  oj
+ཛོར  tc  ow
+མཛའ  ts  aj
+མཛངས  ts  aj  ng
+མཛད  ts  elaa
+མཛར  ts  aw
+མཛུ  ts  uj
+མཛུག  ts  uj  ka
+མཛུབ  ts  uj  pa
+མཛུལ  ts  yw
+མཛེ  ts  ej
+མཛེར  ts  ew
+མཛེས  ts  ejaa
+མཛོ  ts  oj
+མཛོག  ts  oj  ka
+མཛོད  ts  fjaa
+མཛོལ  ts  fw
+འཛའ  ts  aj
+འཛག  ts  aj  ka
+འཛགས  ts  aj  ka
+འཛང  ts  aj  ng
+འཛངས  ts  aj  ng
+འཛད  ts  elaa
+འཛན  ts  el
+འཛབ  ts  aj  pa
+འཛབས  ts  aj  pa
+འཛམ  ts  aj  ma
+འཛར  ts  aw
+འཛི  ts  ij
+འཛིག  ts  ij  ka
+འཛིང  ts  ij  ng
+འཛིངས  ts  ij  ng
+འཛིད  ts  ijaa
+འཛིན  ts  il
+འཛིམ  ts  ij  ma
+འཛིར  ts  iw
+འཛུག  ts  uj  ka
+འཛུགས  ts  uj  ka
+འཛུད  ts  yjaa
+འཛུམ  ts  uj  ma
+འཛུམས  ts  uj  ma
+འཛུར  ts  uw
+འཛུལ  ts  yw
+འཛེ  ts  ej
+འཛེག  ts  aj  ka
+འཛེགས  ts  aj  ka
+འཛེང  ts  ej  ng
+འཛེངས  ts  ej  ng
+འཛེད  ts  ejaa
+འཛེམ  ts  ej  ma
+འཛེམས  ts  ej  ma
+འཛེར  ts  ew
+འཛེས  ts  ejaa
+འཛོག  ts  oj  ka
+འཛོགས  ts  oj  ka
+འཛོད  ts  fjaa
+འཛོབ  ts  oj  pa
+འཛོམ  ts  oj  ma
+འཛོམས  ts  oj  ma
+འཛོལ  ts  fw
+རྫ  ts  aj
+རྫག  ts  aj  ka
+རྫང  ts  aj  ng
+རྫད  ts  elaa
+རྫབ  ts  aj  pa
+རྫམ  ts  aj  ma
+རྫས  ts  elaa
+རྫི  ts  ij
+རྫིག  ts  ij  ka
+རྫིང  ts  ij  ng
+རྫིངས  ts  ij  ng
+རྫིར  ts  iw
+རྫིས  ts  ijaa
+རྫུ  ts  uj
+རྫུན  ts  yu
+རྫུབ  ts  uj  pa
+རྫུབས  ts  uj  pa
+རྫུལ  ts  yw
+རྫུས  ts  yjaa
+རྫེ  ts  ej
+རྫེམས  ts  ej  ma
+རྫེས  ts  ejaa
+རྫོག  ts  oj  ka
+རྫོགས  ts  oj  ka
+རྫོང  ts  oj  ng
+རྫོངས  ts  oj  ng
+རྫོད  ts  fjaa
+རྫོབ  ts  oj  pa
+རྫོབས  ts  oj  pa
+བརྫང  ts  aj  ng
+བརྫངས  ts  aj  ng
+བརྫད  ts  elaa
+བརྫབས  ts  aj  pa
+བརྫི  ts  ij
+བརྫིས  ts  ijaa
+བརྫུ  ts  uj
+བརྫུན  ts  yu
+བརྫུས  ts  yjaa
+བརྫེ  ts  ej
+བརྫེས  ts  ejaa
+བརྫོག  ts  oj  ka
+བརྫོགས  ts  oj  ka
+ཝ  wa  aj
+ཝང  wa  aj  ng
+ཝད  wa  elaa
+ཝན  wa  el
+ཝར  wa  aw
+ཝལ  wa  er
+ཝས  wa  elaa
+ཝི  wa  ij
+ཝུང  wa  uj  ng
+ཝུན  wa  yu
+ཝུར  wa  uw
+ཝེ  wa  ej
+ཝེན  wa  eu
+ཝེར  wa  ew
+ཝོ  wa  oj
+ཝོང  wa  oj  ng
+ཝོད  wa  fjaa
+ཝོར  wa  ow
+ཝོལ  wa  fw
+ཞ  xa  aj
+ཞག  xa  aj  ka
+ཞགས  xa  aj  ka
+ཞང  xa  aj  ng
+ཞད  xa  elaa
+ཞན  xa  el
+ཞབས  xa  aj  pa
+ཞམ  xa  aj  ma
+ཞར  xa  aw
+ཞལ  xa  er
+ཞས  xa  elaa
+ཞི  xa  ij
+ཞིག  xa  ij  ka
+ཞིང  xa  ij  ng
+ཞིན  xa  il
+ཞིབ  xa  ij  pa
+ཞིམ  xa  ij  ma
+ཞིར  xa  iw
+ཞིལ  xa  iw
+ཞུ  xa  uj
+ཞུགས  xa  uj  ka
+ཞུང  xa  uj  ng
+ཞུད  xa  yjaa
+ཞུན  xa  yu
+ཞུབ  xa  uj  pa
+ཞུམ  xa  uj  ma
+ཞུམས  xa  uj  ma
+ཞུར  xa  uw
+ཞུལ  xa  yw
+ཞུས  xa  yjaa
+ཞེ  xa  ej
+ཞེང  xa  ej  ng
+ཞེད  xa  ejaa
+ཞེན  xa  eu
+ཞེར  xa  ew
+ཞེལ  xa  ew
+ཞེས  xa  ejaa
+ཞོ  xa  oj
+ཞོག  xa  oj  ka
+ཞོགས  xa  oj  ka
+ཞོང  xa  oj  ng
+ཞོད  xa  fjaa
+ཞོན  xa  fj
+ཞོམ  xa  oj  ma
+ཞོར  xa  ow
+ཞོལ  xa  fw
+ཞོས  xa  fjaa
+ཞྭ  xa  aj
+གཞའ  xa  aj
+གཞག  xa  aj  ka
+གཞགས  xa  aj  ka
+གཞང  xa  aj  ng
+གཞད  xa  elaa
+གཞན  xa  el
+གཞབ  xa  aj  pa
+གཞབས  xa  aj  pa
+གཞམ  xa  aj  ma
+གཞམས  xa  aj  ma
+གཞར  xa  aw
+གཞལ  xa  er
+གཞས  xa  elaa
+གཞི  xa  ij
+གཞིག  xa  ij  ka
+གཞིགས  xa  ij  ka
+གཞིབ  xa  ij  pa
+གཞིབས  xa  ij  pa
+གཞིར  xa  iw
+གཞིལ  xa  iw
+གཞིས  xa  ijaa
+གཞུ  xa  uj
+གཞུག  xa  uj  ka
+གཞུང  xa  uj  ng
+གཞུངས  xa  uj  ng
+གཞུན  xa  yu
+གཞུམ  xa  uj  ma
+གཞུར  xa  uw
+གཞུས  xa  yjaa
+གཞེ  xa  ej
+གཞེན  xa  eu
+གཞེར  xa  ew
+གཞེས  xa  ejaa
+གཞོག  xa  oj  ka
+གཞོགས  xa  oj  ka
+གཞོང  xa  oj  ng
+གཞོངས  xa  oj  ng
+གཞོན  xa  fj
+གཞོབ  xa  oj  pa
+གཞོབས  xa  oj  pa
+གཞོམ  xa  oj  ma
+གཞོར  xa  ow
+གཞོལ  xa  fw
+གཞོས  xa  fjaa
+བཞའ  xa  aj
+བཞག  xa  aj  ka
+བཞགས  xa  aj  ka
+བཞངས  xa  aj  ng
+བཞད  xa  elaa
+བཞབ  xa  aj  pa
+བཞབས  xa  aj  pa
+བཞམ  xa  aj  ma
+བཞམས  xa  aj  ma
+བཞར  xa  aw
+བཞི  xa  ij
+བཞིན  xa  il
+བཞིབ  xa  ij  pa
+བཞིབས  xa  ij  pa
+བཞིར  xa  iw
+བཞིས  xa  ijaa
+བཞུ  xa  uj
+བཞུགས  xa  uj  ka
+བཞུད  xa  yjaa
+བཞུན  xa  yu
+བཞུམས  xa  uj  ma
+བཞུར  xa  uw
+བཞུས  xa  yjaa
+བཞེང  xa  ej  ng
+བཞེངས  xa  ej  ng
+བཞེད  xa  ejaa
+བཞེན  xa  eu
+བཞེར  xa  ew
+བཞེས  xa  ejaa
+བཞོ  xa  oj
+བཞོག  xa  oj  ka
+བཞོགས  xa  oj  ka
+བཞོངས  xa  oj  ng
+བཞོད  xa  fjaa
+བཞོན  xa  fj
+བཞོབ  xa  oj  pa
+བཞོར  xa  ow
+བཞོལ  xa  fw
+བཞོས  xa  fjaa
+ཟ  sa  aj
+ཟག  sa  aj  ka
+ཟགས  sa  aj  ka
+ཟང  sa  aj  ng
+ཟངས  sa  aj  ng
+ཟད  sa  elaa
+ཟན  sa  el
+ཟབ  sa  aj  pa
+ཟབས  sa  aj  pa
+ཟམ  sa  aj  ma
+ཟར  sa  aw
+ཟལ  sa  er
+ཟས  sa  elaa
+ཟི  sa  ij
+ཟིག  sa  ij  ka
+ཟིང  sa  ij  ng
+ཟིངས  sa  ij  ng
+ཟིན  sa  il
+ཟིམ  sa  ij  ma
+ཟིར  sa  iw
+ཟིལ  sa  iw
+ཟིས  sa  ijaa
+ཟུ  sa  uj
+ཟུག  sa  uj  ka
+ཟུགས  sa  uj  ka
+ཟུང  sa  uj  ng
+ཟུངས  sa  uj  ng
+ཟུད  sa  yjaa
+ཟུན  sa  yu
+ཟུབ  sa  uj  pa
+ཟུམ  sa  uj  ma
+ཟུར  sa  uw
+ཟུལ  sa  yw
+ཟུས  sa  yjaa
+ཟེ  sa  ej
+ཟེག  sa  aj  ka
+ཟེགས  sa  aj  ka
+ཟེང  sa  ej  ng
+ཟེད  sa  ejaa
+ཟེམ  sa  ej  ma
+ཟེར  sa  ew
+ཟེལ  sa  ew
+ཟོ  sa  oj
+ཟོག  sa  oj  ka
+ཟོང  sa  oj  ng
+ཟོན  sa  fj
+ཟོབ  sa  oj  pa
+ཟོམ  sa  oj  ma
+ཟོར  sa  ow
+ཟོལ  sa  fw
+ཟོས  sa  fjaa
+ཟྭ  sa  aj
+ཟླ  ta  aj
+ཟླག  ta  aj  ka
+ཟླགས  ta  aj  ka
+ཟླད  ta  elaa
+ཟླམ  ta  aj  ma
+ཟླར  ta  aw
+ཟླས  ta  elaa
+ཟླུག  ta  uj  ka
+ཟླུགས  ta  uj  ka
+ཟླུམ  ta  uj  ma
+ཟླུམས  ta  uj  ma
+ཟློ  ta  oj
+ཟློག  ta  oj  ka
+ཟློགས  ta  oj  ka
+ཟློས  ta  fjaa
+གཟའ  sa  aj
+གཟག  sa  aj  ka
+གཟགས  sa  aj  ka
+གཟང  sa  aj  ng
+གཟངས  sa  aj  ng
+གཟད  sa  elaa
+གཟན  sa  el
+གཟབ  sa  aj  pa
+གཟབས  sa  aj  pa
+གཟར  sa  aw
+གཟལ  sa  er
+གཟས  sa  elaa
+གཟི  sa  ij
+གཟིག  sa  ij  ka
+གཟིགས  sa  ij  ka
+གཟིང  sa  ij  ng
+གཟིངས  sa  ij  ng
+གཟིམ  sa  ij  ma
+གཟིམས  sa  ij  ma
+གཟིར  sa  iw
+གཟིལ  sa  iw
+གཟུ  sa  uj
+གཟུག  sa  uj  ka
+གཟུགས  sa  uj  ka
+གཟུང  sa  uj  ng
+གཟུངས  sa  uj  ng
+གཟུད  sa  yjaa
+གཟུམ  sa  uj  ma
+གཟུར  sa  uw
+གཟུས  sa  yjaa
+གཟེ  sa  ej
+གཟེག  sa  aj  ka
+གཟེགས  sa  aj  ka
+གཟེང  sa  ej  ng
+གཟེངས  sa  ej  ng
+གཟེད  sa  ejaa
+གཟེན  sa  eu
+གཟེབ  sa  ej  pa
+གཟེམ  sa  ej  ma
+གཟེར  sa  ew
+གཟེས  sa  ejaa
+གཟོ  sa  oj
+གཟོགས  sa  oj  ka
+གཟོང  sa  oj  ng
+གཟོད  sa  fjaa
+གཟོན  sa  fj
+གཟོབ  sa  oj  pa
+གཟོབས  sa  oj  pa
+གཟོལ  sa  fw
+གཟོས  sa  fjaa
+བཟའ  sa  aj
+བཟང  sa  aj  ng
+བཟངས  sa  aj  ng
+བཟད  sa  elaa
+བཟན  sa  el
+བཟབ  sa  aj  pa
+བཟབས  sa  aj  pa
+བཟར  sa  aw
+བཟས  sa  elaa
+བཟི  sa  ij
+བཟིད  sa  ijaa
+བཟིན  sa  il
+བཟུང  sa  uj  ng
+བཟུད  sa  yjaa
+བཟུར  sa  uw
+བཟེ  sa  ej
+བཟེག  sa  aj  ka
+བཟེད  sa  ejaa
+བཟོ  sa  oj
+བཟོད  sa  fjaa
+བཟོས  sa  fjaa
+བཟླ  ta  aj
+བཟླག  ta  aj  ka
+བཟླགས  ta  aj  ka
+བཟླས  ta  elaa
+བཟླུག  ta  uj  ka
+བཟླུགས  ta  uj  ka
+བཟླུམ  ta  uj  ma
+བཟླུམས  ta  uj  ma
+བཟློ  ta  oj
+བཟློག  ta  oj  ka
+བཟློགས  ta  oj  ka
+བཟློས  ta  fjaa
+འ  aa  aj
+འང  aa  aj  ng
+འན  aa  el
+འམ  aa  aj  ma
+འར  aa  aw
+འལ  aa  er
+འས  aa  elaa
+འི  aa  ij
+འིས  aa  ijaa
+འུ  aa  uj
+འུག  aa  uj  ka
+འུང  aa  uj  ng
+འུད  aa  yjaa
+འུན  aa  yu
+འུབ  aa  uj  pa
+འུབས  aa  uj  pa
+འུར  aa  uw
+འུལ  aa  yw
+འེ  aa  ej
+འེབ  aa  ej  pa
+འོ  aa  oj
+འོག  aa  oj  ka
+འོང  aa  oj  ng
+འོངས  aa  oj  ng
+འོད  aa  fjaa
+འོན  aa  fj
+འོབ  aa  oj  pa
+འོབས  aa  oj  pa
+འོམ  aa  oj  ma
+འོར  aa  ow
+འོལ  aa  fw
+འོས  aa  fjaa
+ཡ  ja  aj
+ཡག  ja  aj  ka
+ཡགས  ja  aj  ka
+ཡང  ja  aj  ng
+ཡངས  ja  aj  ng
+ཡད  ja  elaa
+ཡན  ja  el
+ཡབ  ja  aj  pa
+ཡམ  ja  aj  ma
+ཡམས  ja  aj  ma
+ཡར  ja  aw
+ཡལ  ja  er
+ཡས  ja  elaa
+ཡི  ja  ij
+ཡིག  ja  ij  ka
+ཡིང  ja  ij  ng
+ཡིད  ja  ijaa
+ཡིན  ja  il
+ཡིབ  ja  ij  pa
+ཡིབས  ja  ij  pa
+ཡིར  ja  iw
+ཡིས  ja  ijaa
+ཡུ  ja  uj
+ཡུག  ja  uj  ka
+ཡུགས  ja  uj  ka
+ཡུང  ja  uj  ng
+ཡུངས  ja  uj  ng
+ཡུད  ja  yjaa
+ཡུན  ja  yu
+ཡུམ  ja  uj  ma
+ཡུར  ja  uw
+ཡུལ  ja  yw
+ཡུས  ja  yjaa
+ཡེ  ja  ej
+ཡེག  ja  aj  ka
+ཡེགས  ja  aj  ka
+ཡེང  ja  ej  ng
+ཡེངས  ja  ej  ng
+ཡེད  ja  ejaa
+ཡེན  ja  eu
+ཡེར  ja  ew
+ཡེལ  ja  ew
+ཡོ  ja  oj
+ཡོག  ja  oj  ka
+ཡོགས  ja  oj  ka
+ཡོང  ja  oj  ng
+ཡོངས  ja  oj  ng
+ཡོད  ja  fjaa
+ཡོན  ja  fj
+ཡོབ  ja  oj  pa
+ཡོམ  ja  oj  ma
+ཡོར  ja  ow
+ཡོལ  ja  fw
+ཡོས  ja  fjaa
+གཡའ  ja  aj
+གཡག  ja  aj  ka
+གཡང  ja  aj  ng
+གཡངས  ja  aj  ng
+གཡན  ja  el
+གཡབ  ja  aj  pa
+གཡབས  ja  aj  pa
+གཡམ  ja  aj  ma
+གཡམས  ja  aj  ma
+གཡར  ja  aw
+གཡལ  ja  er
+གཡས  ja  elaa
+གཡི  ja  ij
+གཡིག  ja  ij  ka
+གཡིགས  ja  ij  ka
+གཡིས  ja  ijaa
+གཡུ  ja  uj
+གཡུག  ja  uj  ka
+གཡུགས  ja  uj  ka
+གཡུང  ja  uj  ng
+གཡུབ  ja  uj  pa
+གཡུར  ja  uw
+གཡུལ  ja  yw
+གཡེ  ja  ej
+གཡེགས  ja  aj  ka
+གཡེང  ja  ej  ng
+གཡེངས  ja  ej  ng
+གཡེན  ja  eu
+གཡེམ  ja  ej  ma
+གཡེར  ja  ew
+གཡེལ  ja  ew
+གཡོ  ja  oj
+གཡོག  ja  oj  ka
+གཡོགས  ja  oj  ka
+གཡོད  ja  fjaa
+གཡོན  ja  fj
+གཡོབ  ja  oj  pa
+གཡོབས  ja  oj  pa
+གཡོམ  ja  oj  ma
+གཡོར  ja  ow
+གཡོལ  ja  fw
+གཡོས  ja  fjaa
+ར  ra  aj
+རག  ra  aj  ka
+རགས  ra  aj  ka
+རང  ra  aj  ng
+རངས  ra  aj  ng
+རད  ra  elaa
+རན  ra  el
+རབ  ra  aj  pa
+རབས  ra  aj  pa
+རམ  ra  aj  ma
+རམས  ra  aj  ma
+རལ  ra  er
+རས  ra  elaa
+རི  ra  ij
+རིག  ra  ij  ka
+རིགས  ra  ij  ka
+རིང  ra  ij  ng
+རིངས  ra  ij  ng
+རིད  ra  ijaa
+རིན  ra  il
+རིབ  ra  ij  pa
+རིམ  ra  ij  ma
+རིམས  ra  ij  ma
+རིར  ra  iw
+རིལ  ra  iw
+རིས  ra  ijaa
+རུ  ra  uj
+རུག  ra  uj  ka
+རུགས  ra  uj  ka
+རུང  ra  uj  ng
+རུངས  ra  uj  ng
+རུད  ra  yjaa
+རུན  ra  yu
+རུབ  ra  uj  pa
+རུབས  ra  uj  pa
+རུམ  ra  uj  ma
+རུལ  ra  yw
+རུས  ra  yjaa
+རེ  ra  ej
+རེག  ra  aj  ka
+རེགས  ra  aj  ka
+རེང  ra  ej  ng
+རེངས  ra  ej  ng
+རེད  ra  ejaa
+རེན  ra  eu
+རེབ  ra  ej  pa
+རེམ  ra  ej  ma
+རེམས  ra  ej  ma
+རེར  ra  ew
+རེས  ra  ejaa
+རོ  ra  oj
+རོག  ra  oj  ka
+རོགས  ra  oj  ka
+རོང  ra  oj  ng
+རོད  ra  fjaa
+རོན  ra  fj
+རོབ  ra  oj  pa
+རོམ  ra  oj  ma
+རོལ  ra  fw
+རོས  ra  fjaa
+རྭ  ra  aj
+རླ  la  aj
+རླག  la  aj  ka
+རླགས  la  aj  ka
+རླངས  la  aj  ng
+རླན  la  el
+རླབས  la  aj  pa
+རླམ  la  aj  ma
+རླམས  la  aj  ma
+རླིག  la  ij  ka
+རླིང  la  ij  ng
+རླིངས  la  ij  ng
+རླིད  la  ijaa
+རླིབས  la  ij  pa
+རླུག  la  uj  ka
+རླུགས  la  uj  ka
+རླུང  la  uj  ng
+རླུབས  la  uj  pa
+རླུས  la  yjaa
+རློ  la  oj
+རློག  la  oj  ka
+རློགས  la  oj  ka
+རློང  la  oj  ng
+རློངས  la  oj  ng
+རློན  la  fj
+རློབ  la  oj  pa
+རློབས  la  oj  pa
+རློམ  la  oj  ma
+རློམས  la  oj  ma
+རློས  la  fjaa
+བརླ  la  aj
+བརླག  la  aj  ka
+བརླགས  la  aj  ka
+བརླང  la  aj  ng
+བརླངས  la  aj  ng
+བརླན  la  el
+བརླབ  la  aj  pa
+བརླབས  la  aj  pa
+བརླམ  la  aj  ma
+བརླམས  la  aj  ma
+བརླིང  la  ij  ng
+བརླིངས  la  ij  ng
+བརླིབས  la  ij  pa
+བརླུག  la  uj  ka
+བརླུགས  la  uj  ka
+བརློང  la  oj  ng
+བརློངས  la  oj  ng
+ལ  la  aj
+ལག  la  aj  ka
+ལགས  la  aj  ka
+ལང  la  aj  ng
+ལངས  la  aj  ng
+ལད  la  elaa
+ལན  la  el
+ལབ  la  aj  pa
+ལབས  la  aj  pa
+ལམ  la  aj  ma
+ལམས  la  aj  ma
+ལར  la  aw
+ལས  la  elaa
+ལི  la  ij
+ལིག  la  ij  ka
+ལིང  la  ij  ng
+ལིངས  la  ij  ng
+ལིན  la  il
+ལིབ  la  ij  pa
+ལིམ  la  ij  ma
+ལིར  la  iw
+ལིས  la  ijaa
+ལུ  la  uj
+ལུག  la  uj  ka
+ལུགས  la  uj  ka
+ལུང  la  uj  ng
+ལུད  la  yjaa
+ལུན  la  yu
+ལུབ  la  uj  pa
+ལུམ  la  uj  ma
+ལུམས  la  uj  ma
+ལུར  la  uw
+ལུས  la  yjaa
+ལེ  la  ej
+ལེགས  la  aj  ka
+ལེང  la  ej  ng
+ལེན  la  eu
+ལེབ  la  ej  pa
+ལེམ  la  ej  ma
+ལེར  la  ew
+ལོ  la  oj
+ལོག  la  oj  ka
+ལོགས  la  oj  ka
+ལོང  la  oj  ng
+ལོངས  la  oj  ng
+ལོད  la  fjaa
+ལོན  la  fj
+ལོབ  la  oj  pa
+ལོབས  la  oj  pa
+ལོར  la  ow
+ལོས  la  fjaa
+ལྭ  la  aj
+ལྭོ  la  oj
+ཤ  xa  aj
+ཤག  xa  aj  ka
+ཤགས  xa  aj  ka
+ཤང  xa  aj  ng
+ཤངས  xa  aj  ng
+ཤད  xa  elaa
+ཤན  xa  el
+ཤབ  xa  aj  pa
+ཤབས  xa  aj  pa
+ཤམ  xa  aj  ma
+ཤར  xa  aw
+ཤལ  xa  er
+ཤས  xa  elaa
+ཤི  xa  ij
+ཤིག  xa  ij  ka
+ཤིགས  xa  ij  ka
+ཤིང  xa  ij  ng
+ཤིད  xa  ijaa
+ཤིན  xa  il
+ཤིབ  xa  ij  pa
+ཤིབས  xa  ij  pa
+ཤིམ  xa  ij  ma
+ཤིར  xa  iw
+ཤིལ  xa  iw
+ཤིས  xa  ijaa
+ཤུ  xa  uj
+ཤུག  xa  uj  ka
+ཤུགས  xa  uj  ka
+ཤུང  xa  uj  ng
+ཤུངས  xa  uj  ng
+ཤུད  xa  yjaa
+ཤུབ  xa  uj  pa
+ཤུབས  xa  uj  pa
+ཤུམ  xa  uj  ma
+ཤུམས  xa  uj  ma
+ཤུར  xa  uw
+ཤུལ  xa  yw
+ཤུས  xa  yjaa
+ཤེ  xa  ej
+ཤེད  xa  ejaa
+ཤེན  xa  eu
+ཤེར  xa  ew
+ཤེལ  xa  ew
+ཤེས  xa  ejaa
+ཤོ  xa  oj
+ཤོག  xa  oj  ka
+ཤོགས  xa  oj  ka
+ཤོང  xa  oj  ng
+ཤོངས  xa  oj  ng
+ཤོད  xa  fjaa
+ཤོན  xa  fj
+ཤོབ  xa  oj  pa
+ཤོབས  xa  oj  pa
+ཤོམ  xa  oj  ma
+ཤོམས  xa  oj  ma
+ཤོར  xa  ow
+ཤོལ  xa  fw
+ཤོས  xa  fjaa
+ཤྭ  xa  aj
+གཤའ  xa  aj
+གཤག  xa  aj  ka
+གཤགས  xa  aj  ka
+གཤང  xa  aj  ng
+གཤད  xa  elaa
+གཤན  xa  el
+གཤམ  xa  aj  ma
+གཤར  xa  aw
+གཤལ  xa  er
+གཤས  xa  elaa
+གཤིག  xa  ij  ka
+གཤིན  xa  il
+གཤིབ  xa  ij  pa
+གཤིབས  xa  ij  pa
+གཤིམ  xa  ij  ma
+གཤིས  xa  ijaa
+གཤུ  xa  uj
+གཤུང  xa  uj  ng
+གཤུད  xa  yjaa
+གཤུམ  xa  uj  ma
+གཤུར  xa  uw
+གཤེ  xa  ej
+གཤེག  xa  aj  ka
+གཤེགས  xa  aj  ka
+གཤེད  xa  ejaa
+གཤེན  xa  eu
+གཤེར  xa  ew
+གཤེས  xa  ejaa
+གཤོ  xa  oj
+གཤོག  xa  oj  ka
+གཤོགས  xa  oj  ka
+གཤོང  xa  oj  ng
+གཤོངས  xa  oj  ng
+གཤོད  xa  fjaa
+གཤོབ  xa  oj  pa
+གཤོམ  xa  oj  ma
+གཤོམས  xa  oj  ma
+གཤོར  xa  ow
+གཤོལ  xa  fw
+གཤོས  xa  fjaa
+བཤའ  xa  aj
+བཤག  xa  aj  ka
+བཤགས  xa  aj  ka
+བཤང  xa  aj  ng
+བཤངས  xa  aj  ng
+བཤད  xa  elaa
+བཤན  xa  el
+བཤམ  xa  aj  ma
+བཤམས  xa  aj  ma
+བཤར  xa  aw
+བཤལ  xa  er
+བཤས  xa  elaa
+བཤིག  xa  ij  ka
+བཤིགས  xa  ij  ka
+བཤིབ  xa  ij  pa
+བཤིབས  xa  ij  pa
+བཤུ  xa  uj
+བཤུག  xa  uj  ka
+བཤུགས  xa  uj  ka
+བཤུང  xa  uj  ng
+བཤུངས  xa  uj  ng
+བཤུད  xa  yjaa
+བཤུབ  xa  uj  pa
+བཤུབས  xa  uj  pa
+བཤུམ  xa  uj  ma
+བཤུམས  xa  uj  ma
+བཤུར  xa  uw
+བཤུལ  xa  yw
+བཤུས  xa  yjaa
+བཤེད  xa  ejaa
+བཤེར  xa  ew
+བཤེས  xa  ejaa
+བཤོ  xa  oj
+བཤོགས  xa  oj  ka
+བཤོངས  xa  oj  ng
+བཤོད  xa  fjaa
+བཤོར  xa  ow
+བཤོལ  xa  fw
+བཤོས  xa  fjaa
+ས  sa  aj
+སག  sa  aj  ka
+སང  sa  aj  ng
+སངས  sa  aj  ng
+སད  sa  elaa
+སབ  sa  aj  pa
+སམ  sa  aj  ma
+སར  sa  aw
+སལ  sa  er
+སས  sa  elaa
+སི  sa  ij
+སིག  sa  ij  ka
+སིགས  sa  ij  ka
+སིང  sa  ij  ng
+སིངས  sa  ij  ng
+སིད  sa  ijaa
+སིན  sa  il
+སིབ  sa  ij  pa
+སིམ  sa  ij  ma
+སིམས  sa  ij  ma
+སིར  sa  iw
+སིལ  sa  iw
+སུ  sa  uj
+སུག  sa  uj  ka
+སུང  sa  uj  ng
+སུངས  sa  uj  ng
+སུད  sa  yjaa
+སུན  sa  yu
+སུབ  sa  uj  pa
+སུབས  sa  uj  pa
+སུམ  sa  uj  ma
+སུམས  sa  uj  ma
+སུར  sa  uw
+སུལ  sa  yw
+སུས  sa  yjaa
+སེ  sa  ej
+སེག  sa  aj  ka
+སེང  sa  ej  ng
+སེངས  sa  ej  ng
+སེད  sa  ejaa
+སེན  sa  eu
+སེབ  sa  ej  pa
+སེམས  sa  ej  ma
+སེར  sa  ew
+སེལ  sa  ew
+སོ  sa  oj
+སོག  sa  oj  ka
+སོགས  sa  oj  ka
+སོང  sa  oj  ng
+སོངས  sa  oj  ng
+སོད  sa  fjaa
+སོན  sa  fj
+སོབ  sa  oj  pa
+སོབས  sa  oj  pa
+སོམ  sa  oj  ma
+སོམས  sa  oj  ma
+སོར  sa  ow
+སོལ  sa  fw
+སོས  sa  fjaa
+སྲ  sa  aj
+སྲག  sa  aj  ka
+སྲང  sa  aj  ng
+སྲད  sa  elaa
+སྲན  sa  el
+སྲབ  sa  aj  pa
+སྲམ  sa  aj  ma
+སྲལ  sa  er
+སྲས  sa  elaa
+སྲི  sa  ij
+སྲིང  sa  ij  ng
+སྲིངས  sa  ij  ng
+སྲིད  sa  ijaa
+སྲིན  sa  il
+སྲིབ  sa  ij  pa
+སྲིབས  sa  ij  pa
+སྲིལ  sa  iw
+སྲིས  sa  ijaa
+སྲུ  sa  uj
+སྲུག  sa  uj  ka
+སྲུང  sa  uj  ng
+སྲུངས  sa  uj  ng
+སྲུད  sa  yjaa
+སྲུན  sa  yu
+སྲུབ  sa  uj  pa
+སྲུབས  sa  uj  pa
+སྲུལ  sa  yw
+སྲུས  sa  yjaa
+སྲེ  sa  ej
+སྲེག  sa  aj  ka
+སྲེགས  sa  aj  ka
+སྲེད  sa  ejaa
+སྲེལ  sa  ew
+སྲེས  sa  ejaa
+སྲོ  sa  oj
+སྲོག  sa  oj  ka
+སྲོང  sa  oj  ng
+སྲོངས  sa  oj  ng
+སྲོད  sa  fjaa
+སྲོན  sa  fj
+སྲོབ  sa  oj  pa
+སྲོབས  sa  oj  pa
+སྲོལ  sa  fw
+སྲོས  sa  fjaa
+སླ  la  aj
+སླག  la  aj  ka
+སླགས  la  aj  ka
+སླང  la  aj  ng
+སླངས  la  aj  ng
+སླད  la  elaa
+སླན  la  el
+སླབ  la  aj  pa
+སླབས  la  aj  pa
+སླམ  la  aj  ma
+སླར  la  aw
+སླས  la  elaa
+སླི  la  ij
+སླུ  la  uj
+སླུག  la  uj  ka
+སླུས  la  yjaa
+སླེ  la  ej
+སླེད  la  ejaa
+སླེན  la  eu
+སླེབ  la  ej  pa
+སླེབས  la  ej  pa
+སླེལ  la  ew
+སླེས  la  ejaa
+སློ  la  oj
+སློག  la  oj  ka
+སློགས  la  oj  ka
+སློང  la  oj  ng
+སློངས  la  oj  ng
+སློད  la  fjaa
+སློན  la  fj
+སློབ  la  oj  pa
+སློབས  la  oj  pa
+སློམ  la  oj  ma
+སློས  la  fjaa
+གསའ  sa  aj
+གསག  sa  aj  ka
+གསགས  sa  aj  ka
+གསང  sa  aj  ng
+གསངས  sa  aj  ng
+གསད  sa  elaa
+གསན  sa  el
+གསབ  sa  aj  pa
+གསར  sa  aw
+གསལ  sa  er
+གསས  sa  elaa
+གསིག  sa  ij  ka
+གསིགས  sa  ij  ka
+གསིང  sa  ij  ng
+གསིངས  sa  ij  ng
+གསིར  sa  iw
+གསིལ  sa  iw
+གསུ  sa  uj
+གསུག  sa  uj  ka
+གསུང  sa  uj  ng
+གསུངས  sa  uj  ng
+གསུད  sa  yjaa
+གསུབ  sa  uj  pa
+གསུབས  sa  uj  pa
+གསུམ  sa  uj  ma
+གསུར  sa  uw
+གསུས  sa  yjaa
+གསེ  sa  ej
+གསེག  sa  aj  ka
+གསེགས  sa  aj  ka
+གསེང  sa  ej  ng
+གསེད  sa  ejaa
+གསེན  sa  eu
+གསེབ  sa  ej  pa
+གསེར  sa  ew
+གསེས  sa  ejaa
+གསོ  sa  oj
+གསོག  sa  oj  ka
+གསོགས  sa  oj  ka
+གསོང  sa  oj  ng
+གསོངས  sa  oj  ng
+གསོད  sa  fjaa
+གསོན  sa  fj
+གསོབ  sa  oj  pa
+གསོམ  sa  oj  ma
+གསོར  sa  ow
+གསོལ  sa  fw
+གསོས  sa  fjaa
+བསའ  sa  aj
+བསག  sa  aj  ka
+བསགས  sa  aj  ka
+བསང  sa  aj  ng
+བསངས  sa  aj  ng
+བསད  sa  elaa
+བསབ  sa  aj  pa
+བསབས  sa  aj  pa
+བསམ  sa  aj  ma
+བསམས  sa  aj  ma
+བསར  sa  aw
+བསལ  sa  er
+བསི  sa  ij
+བསིག  sa  ij  ka
+བསིགས  sa  ij  ka
+བསིང  sa  ij  ng
+བསིངས  sa  ij  ng
+བསིར  sa  iw
+བསིལ  sa  iw
+བསིས  sa  ijaa
+བསུ  sa  uj
+བསུག  sa  uj  ka
+བསུང  sa  uj  ng
+བསུངས  sa  uj  ng
+བསུན  sa  yu
+བསུབ  sa  uj  pa
+བསུབས  sa  uj  pa
+བསུམ  sa  uj  ma
+བསུམས  sa  uj  ma
+བསུར  sa  uw
+བསུས  sa  yjaa
+བསེ  sa  ej
+བསེག  sa  aj  ka
+བསེགས  sa  aj  ka
+བསེང  sa  ej  ng
+བསེད  sa  ejaa
+བསེན  sa  eu
+བསེར  sa  ew
+བསེལ  sa  ew
+བསོ  sa  oj
+བསོག  sa  oj  ka
+བསོགས  sa  oj  ka
+བསོང  sa  oj  ng
+བསོངས  sa  oj  ng
+བསོད  sa  fjaa
+བསོན  sa  fj
+བསོར  sa  ow
+བསོལ  sa  fw
+བསོས  sa  fjaa
+བསྭོ  sa  oj
+བསྲ  sa  aj
+བསྲང  sa  aj  ng
+བསྲངས  sa  aj  ng
+བསྲད  sa  elaa
+བསྲན  sa  el
+བསྲབ  sa  aj  pa
+བསྲབས  sa  aj  pa
+བསྲལ  sa  er
+བསྲི  sa  ij
+བསྲིང  sa  ij  ng
+བསྲིངས  sa  ij  ng
+བསྲིབ  sa  ij  pa
+བསྲིབས  sa  ij  pa
+བསྲིས  sa  ijaa
+བསྲུང  sa  uj  ng
+བསྲུངས  sa  uj  ng
+བསྲུན  sa  yu
+བསྲུབ  sa  uj  pa
+བསྲུབས  sa  uj  pa
+བསྲུལ  sa  yw
+བསྲེ  sa  ej
+བསྲེག  sa  aj  ka
+བསྲེགས  sa  aj  ka
+བསྲེད  sa  ejaa
+བསྲེལ  sa  ew
+བསྲེས  sa  ejaa
+བསྲོ  sa  oj
+བསྲོགས  sa  oj  ka
+བསྲོབ  sa  oj  pa
+བསྲོས  sa  fjaa
+བསླ  la  aj
+བསླག  la  aj  ka
+བསླགས  la  aj  ka
+བསླང  la  aj  ng
+བསླངས  la  aj  ng
+བསླད  la  elaa
+བསླན  la  el
+བསླབ  la  aj  pa
+བསླབས  la  aj  pa
+བསླས  la  elaa
+བསླུ  la  uj
+བསླུག  la  uj  ka
+བསླུགས  la  uj  ka
+བསླུས  la  yjaa
+བསླེ  la  ej
+བསླེབ  la  ej  pa
+བསླེབས  la  ej  pa
+བསླེས  la  ejaa
+བསློག  la  oj  ka
+བསློགས  la  oj  ka
+ཧ  ha  aj
+ཧག  ha  aj  ka
+ཧགས  ha  aj  ka
+ཧང  ha  aj  ng
+ཧད  ha  elaa
+ཧན  ha  el
+ཧབ  ha  aj  pa
+ཧམ  ha  aj  ma
+ཧར  ha  aw
+ཧལ  ha  er
+ཧས  ha  elaa
+ཧི  ha  ij
+ཧིག  ha  ij  ka
+ཧིན  ha  il
+ཧིར  ha  iw
+ཧུ  ha  uj
+ཧུག  ha  uj  ka
+ཧུགས  ha  uj  ka
+ཧུང  ha  uj  ng
+ཧུད  ha  yjaa
+ཧུབ  ha  uj  pa
+ཧུམ  ha  uj  ma
+ཧུར  ha  uw
+ཧུས  ha  yjaa
+ཧེ  ha  ej
+ཧེད  ha  ejaa
+ཧེན  ha  eu
+ཧེབ  ha  ej  pa
+ཧེར  ha  ew
+ཧེལ  ha  ew
+ཧོ  ha  oj
+ཧོག  ha  oj  ka
+ཧོང  ha  oj  ng
+ཧོད  ha  fjaa
+ཧོན  ha  fj
+ཧོབ  ha  oj  pa
+ཧོམ  ha  oj  ma
+ཧོར  ha  ow
+ཧོལ  ha  fw
+ཧོས  ha  fjaa
+ཧྭ  ha  aj
+ཧྭག  ha  aj  ka
+ཧྭགས  ha  aj  ka
+ཧྭང  ha  aj  ng
+ཧྲག  hr  aj  ka
+ཧྲགས  hr  aj  ka
+ཧྲང  hr  aj  ng
+ཧྲངས  hr  aj  ng
+ཧྲད  hr  elaa
+ཧྲན  hr  el
+ཧྲབ  hr  aj  pa
+ཧྲམ  hr  aj  ma
+ཧྲལ  hr  er
+ཧྲི  hr  ij
+ཧྲིག  hr  ij  ka
+ཧྲིངས  hr  ij  ng
+ཧྲིད  hr  ijaa
+ཧྲིན  hr  il
+ཧྲིབ  hr  ij  pa
+ཧྲིལ  hr  iw
+ཧྲུག  hr  uj  ka
+ཧྲུད  hr  yjaa
+ཧྲུབ  hr  uj  pa
+ཧྲུབས  hr  uj  pa
+ཧྲུམ  hr  uj  ma
+ཧྲུལ  hr  yw
+ཧྲེ  hr  ej
+ཧྲེང  hr  ej  ng
+ཧྲེངས  hr  ej  ng
+ཧྲེན  hr  eu
+ཧྲེམ  hr  ej  ma
+ཧྲོག  hr  oj  ka
+ཧྲོབ  hr  oj  pa
+ཧྲོམ  hr  oj  ma
+ཧྲོལ  hr  fw
+ལྷ  la  aj
+ལྷག  la  aj  ka
+ལྷགས  la  aj  ka
+ལྷང  la  aj  ng
+ལྷངས  la  aj  ng
+ལྷད  la  elaa
+ལྷན  la  el
+ལྷབ  la  aj  pa
+ལྷབས  la  aj  pa
+ལྷམ  la  aj  ma
+ལྷམས  la  aj  ma
+ལྷར  la  aw
+ལྷས  la  elaa
+ལྷིང  la  ij  ng
+ལྷུ  la  uj
+ལྷུག  la  uj  ka
+ལྷུགས  la  uj  ka
+ལྷུང  la  uj  ng
+ལྷུངས  la  uj  ng
+ལྷུད  la  yjaa
+ལྷུན  la  yu
+ལྷུབ  la  uj  pa
+ལྷུམ  la  uj  ma
+ལྷུམས  la  uj  ma
+ལྷུར  la  uw
+ལྷེ  la  ej
+ལྷེན  la  eu
+ལྷེབ  la  ej  pa
+ལྷེབས  la  ej  pa
+ལྷེམ  la  ej  ma
+ལྷེས  la  ejaa
+ལྷོ  la  oj
+ལྷོག  la  oj  ka
+ལྷོགས  la  oj  ka
+ལྷོང  la  oj  ng
+ལྷོངས  la  oj  ng
+ལྷོད  la  fjaa
+ལྷོན  la  fj
+ལྷོར  la  ow
+ཨ  aj
+ཨག  aj  ka
+ཨང  aj  ng
+ཨན  el
+ཨབ  aj  pa
+ཨམ  aj  ma
+ཨར  aw
+ཨལ  er
+ཨས  elaa
+ཨི  ij
+ཨིག  ij  ka
+ཨིགས  ij  ka
+ཨིད  ijaa
+ཨིན  il
+ཨིམ  ij  ma
+ཨིས  ijaa
+ཨུ  uj
+ཨུག  uj  ka
+ཨུང  uj  ng
+ཨུད  yjaa
+ཨུར  uw
+ཨེ  ej
+ཨེན  eu
+ཨེབ  ej  pa
+ཨེམ  ej  ma
+ཨེར  ew
+ཨོ  oj
+ཨོག  oj  ka
+ཨོང  oj  ng
+ཨོན  fj
+ཨོབ  oj  pa
+ཨོམ  oj  ma
+ཨོར  ow
+ཨོལ  fw
+པའི  iw
+བའི  iw
+ཀྲུའུ  uw
+རྒྱུའི  ij
+ལོའི  ij
+ཧྲུའུ  uw
+མའི  iw
+དེའི  iw
+པོའི  ij
